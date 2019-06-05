@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>[20:40]Simracingvalley.com</ServerName>
+<PlayerFile>Ramon Barros</PlayerFile>
+<DateTime>1544993556</DateTime>
+<TimeString>2018/12/16 18:52:36</TimeString>
+<Mod>REIZA32.srs</Mod>
+<Season></Season>
+<TrackVenue>Interlagos</TrackVenue>
+<TrackCourse>Interlagos</TrackCourse>
+<TrackEvent>Interlagos</TrackEvent>
+<TrackLength>4294.9</TrackLength>
+<Game>Automobilista</Game>
+<GameVersion>v1.5.13</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="1024" download="5120">BB 5Mbps / 1Mbps</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>35</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|MetalmoroAJR</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>2147483647</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1544998502</DateTime>
+<TimeString>2018/12/16 20:15:02</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>35</Minutes>
+<Stream>
+<Chat et="25.2">Marco Frediani: quantos litros</Chat>
+<Chat et="37.6">Tadeu Costa: 70</Chat>
+<Chat et="39.1">Alisson Zanoni: 30 voltas</Chat>
+<Chat et="55.0">Marco Frediani: valeu</Chat>
+<Score et="101.7">Tadeu Costa(20) lap=0 point=1 t=-1.000 et=101.683</Score>
+<Score et="102.3">Fabio Krek(19) lap=0 point=1 t=-1.000 et=102.253</Score>
+<Score et="102.9">Paulo Nunes(15) lap=0 point=1 t=-1.000 et=102.766</Score>
+<Score et="103.4">Pechito Ernst(7) lap=0 point=1 t=-1.000 et=103.237</Score>
+<Score et="103.6">Marcio Medeiros(17) lap=0 point=1 t=-1.000 et=103.567</Score>
+<Score et="105.3">Alisson Zanoni(2) lap=0 point=1 t=-1.000 et=105.209</Score>
+<Score et="105.8">Arlindo TC(10) lap=0 point=1 t=-1.000 et=105.761</Score>
+<Score et="106.4">Otavio Augusto(11) lap=0 point=1 t=-1.000 et=106.325</Score>
+<Score et="106.5">Marco Frediani(21) lap=0 point=1 t=-1.000 et=106.452</Score>
+<Score et="158.2">Tadeu Costa(20) lap=0 point=2 t=-1.000 et=158.108</Score>
+<Score et="159.3">Fabio Krek(19) lap=0 point=2 t=-1.000 et=159.133</Score>
+<Score et="160.0">Paulo Nunes(15) lap=0 point=2 t=-1.000 et=160.005</Score>
+<Score et="160.6">Pechito Ernst(7) lap=0 point=2 t=-1.000 et=160.459</Score>
+<Score et="161.0">Marcio Medeiros(17) lap=0 point=2 t=-1.000 et=160.918</Score>
+<Score et="161.4">Alisson Zanoni(2) lap=0 point=2 t=-1.000 et=161.287</Score>
+<Score et="161.8">Arlindo TC(10) lap=0 point=2 t=-1.000 et=161.641</Score>
+<Score et="162.3">Otavio Augusto(11) lap=0 point=2 t=-1.000 et=162.113</Score>
+<Score et="162.4">Marco Frediani(21) lap=0 point=2 t=-1.000 et=162.293</Score>
+<Score et="198.6">Tadeu Costa(20) lap=0 point=0 t=-1.000 et=198.535</Score>
+<Penalty et="215.4">Alisson Zanoni received Drive Thru penalty, 0s, 0laps. Result: penalties=1, 1st=Drive Thru,0s</Penalty>
+<Score et="240.7">Tadeu Costa(20) lap=0 point=1 t=25.175 et=240.522</Score>
+<Score et="241.0">Fabio Krek(19) lap=0 point=1 t=25.489 et=240.836</Score>
+<Score et="241.4">Paulo Nunes(15) lap=0 point=1 t=25.925 et=241.272</Score>
+<Score et="242.2">Marcio Medeiros(17) lap=0 point=1 t=26.710 et=242.057</Score>
+<Score et="243.2">Pechito Ernst(7) lap=0 point=1 t=27.638 et=242.985</Score>
+<Score et="243.4">Arlindo TC(10) lap=0 point=1 t=27.843 et=243.190</Score>
+<Score et="243.6">Otavio Augusto(11) lap=0 point=1 t=28.092 et=243.439</Score>
+<Score et="243.9">Marco Frediani(21) lap=0 point=1 t=28.356 et=243.703</Score>
+<Score et="245.3">Alisson Zanoni(2) lap=0 point=1 t=29.850 et=245.196</Score>
+<Incident et="246.6">Marco Frediani(21) reported contact (0.32) with another vehicle Otavio Augusto(11)</Incident>
+<Incident et="246.7">Otavio Augusto(11) reported contact (0.10) with another vehicle Marco Frediani(21)</Incident>
+<Score et="283.1">Tadeu Costa(20) lap=0 point=2 t=67.612 et=282.959</Score>
+<Score et="283.6">Fabio Krek(19) lap=0 point=2 t=68.118 et=283.465</Score>
+<Score et="284.0">Paulo Nunes(15) lap=0 point=2 t=68.476 et=283.823</Score>
+<Score et="285.2">Marcio Medeiros(17) lap=0 point=2 t=69.682 et=285.029</Score>
+<Score et="286.5">Pechito Ernst(7) lap=0 point=2 t=71.040 et=286.387</Score>
+<Score et="288.2">Arlindo TC(10) lap=0 point=2 t=72.723 et=288.070</Score>
+<Score et="288.5">Otavio Augusto(11) lap=0 point=2 t=72.987 et=288.334</Score>
+<Score et="289.9">Marco Frediani(21) lap=0 point=2 t=74.356 et=289.703</Score>
+<Score et="290.8">Alisson Zanoni(2) lap=0 point=2 t=75.300 et=290.647</Score>
+<Score et="302.6">Tadeu Costa(20) lap=1 point=0 t=87.164 et=302.511</Score>
+<Score et="303.2">Fabio Krek(19) lap=1 point=0 t=87.741 et=303.088</Score>
+<Score et="303.3">Paulo Nunes(15) lap=1 point=0 t=87.841 et=303.188</Score>
+<Score et="304.7">Marcio Medeiros(17) lap=1 point=0 t=89.278 et=304.625</Score>
+<Score et="306.8">Pechito Ernst(7) lap=1 point=0 t=91.292 et=306.638</Score>
+<Score et="308.9">Arlindo TC(10) lap=1 point=0 t=93.424 et=308.771</Score>
+<Score et="309.0">Otavio Augusto(11) lap=1 point=0 t=93.540 et=308.887</Score>
+<Score et="309.9">Marco Frediani(21) lap=1 point=0 t=94.487 et=309.834</Score>
+<Score et="317.8">Alisson Zanoni(2) lap=1 point=0 t=102.363 et=317.710</Score>
+<Score et="322.8">Tadeu Costa(20) lap=1 point=1 t=20.142 et=322.653</Score>
+<Score et="323.6">Fabio Krek(19) lap=1 point=1 t=20.405 et=323.493</Score>
+<Score et="323.7">Paulo Nunes(15) lap=1 point=1 t=20.418 et=323.605</Score>
+<Score et="324.9">Marcio Medeiros(17) lap=1 point=1 t=20.166 et=324.791</Score>
+<Score et="327.5">Pechito Ernst(7) lap=1 point=1 t=20.694 et=327.333</Score>
+<Penalty et="330.1">Alisson Zanoni served 1st Drive Thru penalty, result: penalties=0, 1st=Drive Thru,0s</Penalty>
+<Score et="330.2">Arlindo TC(10) lap=1 point=1 t=21.275 et=330.046</Score>
+<Score et="330.4">Otavio Augusto(11) lap=1 point=1 t=21.379 et=330.266</Score>
+<Score et="331.2">Marco Frediani(21) lap=1 point=1 t=21.218 et=331.052</Score>
+<Score et="348.8">Alisson Zanoni(2) lap=1 point=1 t=30.958 et=348.669</Score>
+<Score et="365.2">Tadeu Costa(20) lap=1 point=2 t=62.614 et=365.125</Score>
+<Score et="365.9">Fabio Krek(19) lap=1 point=2 t=62.653 et=365.741</Score>
+<Score et="366.2">Paulo Nunes(15) lap=1 point=2 t=-1.000 et=366.067</Score>
+<Score et="367.7">Marcio Medeiros(17) lap=1 point=2 t=62.881 et=367.506</Score>
+<Score et="370.6">Pechito Ernst(7) lap=1 point=2 t=63.832 et=370.470</Score>
+<Score et="374.5">Arlindo TC(10) lap=1 point=2 t=65.607 et=374.378</Score>
+<Score et="374.7">Otavio Augusto(11) lap=1 point=2 t=65.664 et=374.552</Score>
+<Score et="375.6">Marco Frediani(21) lap=1 point=2 t=65.594 et=375.428</Score>
+<Score et="384.7">Tadeu Costa(20) lap=2 point=0 t=82.054 et=384.565</Score>
+<Score et="385.4">Fabio Krek(19) lap=2 point=0 t=82.189 et=385.277</Score>
+<Score et="385.7">Paulo Nunes(15) lap=2 point=0 t=-1.000 et=385.620</Score>
+<Score et="387.4">Marcio Medeiros(17) lap=2 point=0 t=82.706 et=387.331</Score>
+<Score et="390.4">Pechito Ernst(7) lap=2 point=0 t=83.674 et=390.313</Score>
+<Score et="392.0">Alisson Zanoni(2) lap=1 point=2 t=74.175 et=391.886</Score>
+<Score et="394.8">Arlindo TC(10) lap=2 point=0 t=85.926 et=394.697</Score>
+<Score et="395.1">Otavio Augusto(11) lap=2 point=0 t=86.115 et=395.002</Score>
+<Score et="395.5">Marco Frediani(21) lap=2 point=0 t=85.585 et=395.419</Score>
+<Score et="404.8">Tadeu Costa(20) lap=2 point=1 t=20.127 et=404.692</Score>
+<Score et="405.5">Fabio Krek(19) lap=2 point=1 t=20.166 et=405.443</Score>
+<Score et="405.9">Paulo Nunes(15) lap=2 point=1 t=20.159 et=405.780</Score>
+<Score et="407.8">Marcio Medeiros(17) lap=2 point=1 t=20.331 et=407.662</Score>
+<Score et="410.9">Pechito Ernst(7) lap=2 point=1 t=20.428 et=410.741</Score>
+<Score et="411.9">Alisson Zanoni(2) lap=2 point=0 t=94.095 et=411.806</Score>
+<Score et="415.9">Arlindo TC(10) lap=2 point=1 t=21.101 et=415.798</Score>
+<Score et="416.3">Marco Frediani(21) lap=2 point=1 t=20.735 et=416.154</Score>
+<Score et="416.3">Otavio Augusto(11) lap=2 point=1 t=21.143 et=416.145</Score>
+<Score et="432.5">Alisson Zanoni(2) lap=2 point=1 t=20.608 et=432.414</Score>
+<Score et="447.1">Tadeu Costa(20) lap=2 point=2 t=62.411 et=446.976</Score>
+<Score et="448.8">Paulo Nunes(15) lap=2 point=2 t=63.034 et=448.654</Score>
+<Score et="449.2">Fabio Krek(19) lap=2 point=2 t=63.846 et=449.123</Score>
+<Score et="450.5">Marcio Medeiros(17) lap=2 point=2 t=63.032 et=450.362</Score>
+<Score et="453.8">Pechito Ernst(7) lap=2 point=2 t=63.331 et=453.644</Score>
+<Score et="460.2">Arlindo TC(10) lap=2 point=2 t=65.321 et=460.018</Score>
+<Score et="460.9">Otavio Augusto(11) lap=2 point=2 t=65.775 et=460.777</Score>
+<Score et="464.4">Marco Frediani(21) lap=2 point=2 t=68.924 et=464.343</Score>
+<Score et="466.6">Tadeu Costa(20) lap=3 point=0 t=81.939 et=466.504</Score>
+<Score et="468.4">Paulo Nunes(15) lap=3 point=0 t=82.739 et=468.360</Score>
+<Score et="468.7">Fabio Krek(19) lap=3 point=0 t=83.321 et=468.598</Score>
+<Score et="470.1">Marcio Medeiros(17) lap=3 point=0 t=82.660 et=469.990</Score>
+<Score et="473.8">Pechito Ernst(7) lap=3 point=0 t=83.414 et=473.727</Score>
+<Score et="475.4">Alisson Zanoni(2) lap=2 point=2 t=63.453 et=475.258</Score>
+<Score et="480.3">Arlindo TC(10) lap=3 point=0 t=85.511 et=480.207</Score>
+<Score et="482.0">Otavio Augusto(11) lap=3 point=0 t=86.842 et=481.844</Score>
+<Score et="484.7">Marco Frediani(21) lap=3 point=0 t=89.197 et=484.616</Score>
+<Score et="486.7">Tadeu Costa(20) lap=3 point=1 t=20.046 et=486.550</Score>
+<Score et="488.5">Paulo Nunes(15) lap=3 point=1 t=20.010 et=488.369</Score>
+<Score et="488.9">Fabio Krek(19) lap=3 point=1 t=20.206 et=488.804</Score>
+<Score et="490.4">Marcio Medeiros(17) lap=3 point=1 t=20.240 et=490.230</Score>
+<Score et="495.3">Alisson Zanoni(2) lap=3 point=0 t=83.344 et=495.150</Score>
+<Score et="499.2">Pechito Ernst(7) lap=3 point=1 t=25.350 et=499.077</Score>
+<Score et="501.4">Arlindo TC(10) lap=3 point=1 t=21.095 et=501.302</Score>
+<Score et="503.0">Otavio Augusto(11) lap=3 point=1 t=21.091 et=502.935</Score>
+<Score et="506.0">Marco Frediani(21) lap=3 point=1 t=21.263 et=505.879</Score>
+<Score et="516.0">Alisson Zanoni(2) lap=3 point=1 t=20.780 et=515.930</Score>
+<Score et="529.0">Tadeu Costa(20) lap=3 point=2 t=62.347 et=528.851</Score>
+<Score et="530.4">Paulo Nunes(15) lap=3 point=2 t=61.918 et=530.277</Score>
+<Score et="531.3">Fabio Krek(19) lap=3 point=2 t=62.524 et=531.122</Score>
+<Score et="532.9">Marcio Medeiros(17) lap=3 point=2 t=62.767 et=532.757</Score>
+<Score et="542.3">Pechito Ernst(7) lap=3 point=2 t=68.422 et=542.148</Score>
+<Score et="545.5">Arlindo TC(10) lap=3 point=2 t=65.186 et=545.393</Score>
+<Score et="546.8">Otavio Augusto(11) lap=3 point=2 t=64.839 et=546.683</Score>
+<Score et="548.4">Tadeu Costa(20) lap=4 point=0 t=81.818 et=548.322</Score>
+<Score et="550.0">Paulo Nunes(15) lap=4 point=0 t=81.575 et=549.934</Score>
+<Score et="550.7">Marco Frediani(21) lap=3 point=2 t=65.986 et=550.603</Score>
+<Score et="550.8">Fabio Krek(19) lap=4 point=0 t=82.082 et=550.680</Score>
+<Score et="552.4">Marcio Medeiros(17) lap=4 point=0 t=82.356 et=552.346</Score>
+<Score et="558.9">Alisson Zanoni(2) lap=3 point=2 t=63.602 et=558.752</Score>
+<Score et="562.1">Pechito Ernst(7) lap=4 point=0 t=88.280 et=562.007</Score>
+<Score et="565.8">Arlindo TC(10) lap=4 point=0 t=85.500 et=565.707</Score>
+<Score et="567.1">Otavio Augusto(11) lap=4 point=0 t=85.182 et=567.025</Score>
+<Score et="568.5">Tadeu Costa(20) lap=4 point=1 t=20.133 et=568.455</Score>
+<Score et="570.3">Paulo Nunes(15) lap=4 point=1 t=20.270 et=570.204</Score>
+<Score et="570.9">Marco Frediani(21) lap=4 point=0 t=86.197 et=570.814</Score>
+<Score et="571.0">Fabio Krek(19) lap=4 point=1 t=20.195 et=570.876</Score>
+<Score et="572.8">Marcio Medeiros(17) lap=4 point=1 t=20.299 et=572.645</Score>
+<Score et="578.8">Alisson Zanoni(2) lap=4 point=0 t=83.484 et=578.634</Score>
+<Score et="582.6">Pechito Ernst(7) lap=4 point=1 t=20.454 et=582.461</Score>
+<Score et="586.8">Arlindo TC(10) lap=4 point=1 t=20.941 et=586.648</Score>
+<Score et="588.2">Otavio Augusto(11) lap=4 point=1 t=21.030 et=588.055</Score>
+<Score et="592.0">Marco Frediani(21) lap=4 point=1 t=21.011 et=591.825</Score>
+<Score et="599.4">Alisson Zanoni(2) lap=4 point=1 t=20.667 et=599.301</Score>
+<Score et="610.8">Tadeu Costa(20) lap=4 point=2 t=-1.000 et=610.656</Score>
+<Score et="612.7">Paulo Nunes(15) lap=4 point=2 t=62.648 et=612.582</Score>
+<Score et="613.4">Fabio Krek(19) lap=4 point=2 t=-1.000 et=613.256</Score>
+<Score et="615.4">Marcio Medeiros(17) lap=4 point=2 t=62.953 et=615.299</Score>
+<Score et="625.6">Pechito Ernst(7) lap=4 point=2 t=63.435 et=625.442</Score>
+<Score et="630.3">Tadeu Costa(20) lap=5 point=0 t=-1.000 et=630.170</Score>
+<Score et="630.7">Arlindo TC(10) lap=4 point=2 t=64.795 et=630.502</Score>
+<Score et="631.9">Otavio Augusto(11) lap=4 point=2 t=64.772 et=631.798</Score>
+<Score et="632.9">Fabio Krek(19) lap=5 point=0 t=-1.000 et=632.857</Score>
+<Score et="633.1">Paulo Nunes(15) lap=5 point=0 t=83.086 et=633.020</Score>
+<Score et="635.1">Marcio Medeiros(17) lap=5 point=0 t=82.606 et=634.952</Score>
+<Score et="636.5">Marco Frediani(21) lap=4 point=2 t=65.484 et=636.298</Score>
+<Score et="642.2">Alisson Zanoni(2) lap=4 point=2 t=63.409 et=642.043</Score>
+<Score et="645.4">Pechito Ernst(7) lap=5 point=0 t=83.320 et=645.327</Score>
+<Score et="650.4">Tadeu Costa(20) lap=5 point=1 t=20.045 et=650.215</Score>
+<Score et="650.8">Arlindo TC(10) lap=5 point=0 t=85.016 et=650.723</Score>
+<Score et="652.3">Otavio Augusto(11) lap=5 point=0 t=85.142 et=652.168</Score>
+<Score et="653.2">Fabio Krek(19) lap=5 point=1 t=20.180 et=653.036</Score>
+<Score et="653.3">Paulo Nunes(15) lap=5 point=1 t=20.144 et=653.165</Score>
+<Score et="655.2">Marcio Medeiros(17) lap=5 point=1 t=20.106 et=655.058</Score>
+<Score et="656.5">Marco Frediani(21) lap=5 point=0 t=85.619 et=656.432</Score>
+<Score et="661.8">Alisson Zanoni(2) lap=5 point=0 t=83.072 et=661.707</Score>
+<Score et="666.0">Pechito Ernst(7) lap=5 point=1 t=20.576 et=665.903</Score>
+<Score et="672.3">Arlindo TC(10) lap=5 point=1 t=21.476 et=672.199</Score>
+<Score et="673.0">Otavio Augusto(11) lap=5 point=1 t=20.766 et=672.934</Score>
+<Score et="677.9">Marco Frediani(21) lap=5 point=1 t=21.311 et=677.743</Score>
+<Score et="682.5">Alisson Zanoni(2) lap=5 point=1 t=20.692 et=682.399</Score>
+<Score et="692.7">Tadeu Costa(20) lap=5 point=2 t=62.432 et=692.602</Score>
+<Score et="696.1">Paulo Nunes(15) lap=5 point=2 t=62.953 et=695.973</Score>
+<Score et="698.8">Marcio Medeiros(17) lap=5 point=2 t=63.695 et=698.647</Score>
+<Score et="700.0">Fabio Krek(19) lap=5 point=2 t=66.982 et=699.838</Score>
+<Score et="709.1">Pechito Ernst(7) lap=5 point=2 t=63.644 et=708.971</Score>
+<Score et="712.2">Tadeu Costa(20) lap=6 point=0 t=81.895 et=712.065</Score>
+<Score et="715.8">Paulo Nunes(15) lap=6 point=0 t=82.712 et=715.732</Score>
+<Score et="716.3">Arlindo TC(10) lap=5 point=2 t=65.501 et=716.223</Score>
+<Score et="716.8">Otavio Augusto(11) lap=5 point=2 t=64.482 et=716.650</Score>
+<Score et="718.3">Marcio Medeiros(17) lap=6 point=0 t=83.297 et=718.249</Score>
+<Score et="719.5">Fabio Krek(19) lap=6 point=0 t=86.571 et=719.427</Score>
+<Score et="721.8">Marco Frediani(21) lap=5 point=2 t=65.284 et=721.716</Score>
+<Score et="725.2">Alisson Zanoni(2) lap=5 point=2 t=63.391 et=725.098</Score>
+<Score et="729.0">Pechito Ernst(7) lap=6 point=0 t=83.564 et=728.891</Score>
+<Score et="732.1">Tadeu Costa(20) lap=6 point=1 t=19.980 et=732.045</Score>
+<Score et="736.2">Paulo Nunes(15) lap=6 point=1 t=20.394 et=736.126</Score>
+<Score et="736.4">Arlindo TC(10) lap=6 point=0 t=85.595 et=736.318</Score>
+<Score et="736.8">Otavio Augusto(11) lap=6 point=0 t=84.584 et=736.751</Score>
+<Score et="738.7">Marcio Medeiros(17) lap=6 point=1 t=20.260 et=738.509</Score>
+<Score et="739.7">Fabio Krek(19) lap=6 point=1 t=20.165 et=739.593</Score>
+<Score et="741.9">Marco Frediani(21) lap=6 point=0 t=85.416 et=741.849</Score>
+<Score et="744.9">Alisson Zanoni(2) lap=6 point=0 t=83.135 et=744.841</Score>
+<Score et="749.5">Pechito Ernst(7) lap=6 point=1 t=20.502 et=749.393</Score>
+<Score et="757.8">Arlindo TC(10) lap=6 point=1 t=21.362 et=757.680</Score>
+<Score et="757.9">Otavio Augusto(11) lap=6 point=1 t=20.985 et=757.737</Score>
+<Score et="763.0">Marco Frediani(21) lap=6 point=1 t=21.067 et=762.916</Score>
+<Score et="771.0">Alisson Zanoni(2) lap=6 point=1 t=26.027 et=770.868</Score>
+<Score et="774.1">Tadeu Costa(20) lap=6 point=2 t=61.931 et=773.996</Score>
+<Score et="778.3">Paulo Nunes(15) lap=6 point=2 t=62.464 et=778.196</Score>
+<Score et="781.3">Marcio Medeiros(17) lap=6 point=2 t=62.898 et=781.148</Score>
+<Score et="781.6">Fabio Krek(19) lap=6 point=2 t=62.119 et=781.547</Score>
+<Score et="792.6">Pechito Ernst(7) lap=6 point=2 t=63.659 et=792.550</Score>
+<Score et="793.4">Tadeu Costa(20) lap=7 point=0 t=81.340 et=793.405</Score>
+<Score et="798.0">Paulo Nunes(15) lap=7 point=0 t=82.229 et=797.961</Score>
+<Score et="800.8">Marcio Medeiros(17) lap=7 point=0 t=82.485 et=800.734</Score>
+<Score et="801.0">Fabio Krek(19) lap=7 point=0 t=81.457 et=800.884</Score>
+<Score et="802.0">Arlindo TC(10) lap=6 point=2 t=65.518 et=801.836</Score>
+<Score et="802.2">Otavio Augusto(11) lap=6 point=2 t=65.289 et=802.040</Score>
+<Score et="807.4">Marco Frediani(21) lap=6 point=2 t=65.431 et=807.279</Score>
+<Score et="812.6">Pechito Ernst(7) lap=7 point=0 t=83.628 et=812.519</Score>
+<Score et="813.5">Tadeu Costa(20) lap=7 point=1 t=20.028 et=813.433</Score>
+<Score et="814.0">Alisson Zanoni(2) lap=6 point=2 t=69.102 et=813.943</Score>
+<Score et="818.9">Paulo Nunes(15) lap=7 point=1 t=20.840 et=818.801</Score>
+<Score et="821.0">Marcio Medeiros(17) lap=7 point=1 t=20.195 et=820.928</Score>
+<Score et="821.2">Fabio Krek(19) lap=7 point=1 t=20.242 et=821.126</Score>
+<Score et="822.1">Arlindo TC(10) lap=7 point=0 t=85.692 et=822.009</Score>
+<Score et="822.3">Otavio Augusto(11) lap=7 point=0 t=85.471 et=822.223</Score>
+<Score et="827.6">Marco Frediani(21) lap=7 point=0 t=85.667 et=827.515</Score>
+<Score et="833.1">Pechito Ernst(7) lap=7 point=1 t=20.508 et=833.027</Score>
+<Score et="833.7">Alisson Zanoni(2) lap=7 point=0 t=88.829 et=833.670</Score>
+<Score et="843.2">Arlindo TC(10) lap=7 point=1 t=21.073 et=843.082</Score>
+<Score et="843.3">Otavio Augusto(11) lap=7 point=1 t=20.968 et=843.190</Score>
+<Score et="850.0">Marco Frediani(21) lap=7 point=1 t=22.468 et=849.983</Score>
+<Score et="855.4">Alisson Zanoni(2) lap=7 point=1 t=21.640 et=855.309</Score>
+<Score et="856.0">Tadeu Costa(20) lap=7 point=2 t=62.408 et=855.812</Score>
+<Score et="861.0">Paulo Nunes(15) lap=7 point=2 t=62.971 et=860.932</Score>
+<Score et="864.0">Marcio Medeiros(17) lap=7 point=2 t=63.194 et=863.928</Score>
+<Score et="864.3">Fabio Krek(19) lap=7 point=2 t=63.299 et=864.183</Score>
+<Score et="875.3">Tadeu Costa(20) lap=8 point=0 t=81.840 et=875.245</Score>
+<Score et="876.2">Pechito Ernst(7) lap=7 point=2 t=63.549 et=876.068</Score>
+<Score et="880.6">Paulo Nunes(15) lap=8 point=0 t=82.647 et=880.609</Score>
+<Score et="883.8">Marcio Medeiros(17) lap=8 point=0 t=82.975 et=883.709</Score>
+<Score et="883.8">Fabio Krek(19) lap=8 point=0 t=82.858 et=883.742</Score>
+<Score et="887.5">Otavio Augusto(11) lap=7 point=2 t=65.212 et=887.434</Score>
+<Score et="888.0">Arlindo TC(10) lap=7 point=2 t=65.804 et=887.814</Score>
+<Score et="894.0">Marco Frediani(21) lap=7 point=2 t=66.373 et=893.889</Score>
+<Score et="895.4">Tadeu Costa(20) lap=8 point=1 t=20.018 et=895.263</Score>
+<Score et="896.0">Pechito Ernst(7) lap=8 point=0 t=83.356 et=895.875</Score>
+<Score et="898.5">Alisson Zanoni(2) lap=7 point=2 t=64.710 et=898.379</Score>
+<Score et="901.0">Paulo Nunes(15) lap=8 point=1 t=20.303 et=900.911</Score>
+<Score et="904.4">Fabio Krek(19) lap=8 point=1 t=20.459 et=904.201</Score>
+<Score et="904.4">Marcio Medeiros(17) lap=8 point=1 t=20.609 et=904.318</Score>
+<Score et="907.9">Otavio Augusto(11) lap=8 point=0 t=85.593 et=907.816</Score>
+<Score et="908.1">Arlindo TC(10) lap=8 point=0 t=86.032 et=908.041</Score>
+<Score et="914.2">Marco Frediani(21) lap=8 point=0 t=86.601 et=914.116</Score>
+<Incident et="915.9">Arlindo TC(10) reported contact (0.03) with another vehicle Otavio Augusto(11)</Incident>
+<Score et="916.5">Pechito Ernst(7) lap=8 point=1 t=20.479 et=916.354</Score>
+<Score et="918.9">Alisson Zanoni(2) lap=8 point=0 t=85.151 et=918.821</Score>
+<Score et="929.7">Otavio Augusto(11) lap=8 point=1 t=21.784 et=929.599</Score>
+<Score et="929.9">Arlindo TC(10) lap=8 point=1 t=21.688 et=929.729</Score>
+<Score et="935.4">Marco Frediani(21) lap=8 point=1 t=21.171 et=935.287</Score>
+<Score et="937.9">Tadeu Costa(20) lap=8 point=2 t=62.512 et=937.757</Score>
+<Score et="940.2">Alisson Zanoni(2) lap=8 point=1 t=21.283 et=940.104</Score>
+<Score et="943.3">Paulo Nunes(15) lap=8 point=2 t=62.507 et=943.115</Score>
+<Score et="946.7">Fabio Krek(19) lap=8 point=2 t=62.889 et=946.631</Score>
+<Score et="947.4">Marcio Medeiros(17) lap=8 point=2 t=63.596 et=947.305</Score>
+<Score et="957.4">Tadeu Costa(20) lap=9 point=0 t=82.113 et=957.358</Score>
+<Score et="959.4">Pechito Ernst(7) lap=8 point=2 t=63.407 et=959.282</Score>
+<Score et="962.9">Paulo Nunes(15) lap=9 point=0 t=82.203 et=962.812</Score>
+<Score et="966.2">Fabio Krek(19) lap=9 point=0 t=82.426 et=966.168</Score>
+<Score et="966.9">Marcio Medeiros(17) lap=9 point=0 t=83.184 et=966.893</Score>
+<Score et="973.6">Otavio Augusto(11) lap=8 point=2 t=65.662 et=973.478</Score>
+<Score et="974.7">Arlindo TC(10) lap=8 point=2 t=66.561 et=974.602</Score>
+<Score et="977.4">Tadeu Costa(20) lap=9 point=1 t=19.936 et=977.294</Score>
+<Score et="979.5">Pechito Ernst(7) lap=9 point=0 t=83.469 et=979.344</Score>
+<Score et="980.2">Marco Frediani(21) lap=8 point=2 t=65.995 et=980.111</Score>
+<Score et="982.8">Alisson Zanoni(2) lap=8 point=2 t=63.877 et=982.698</Score>
+<Score et="983.4">Paulo Nunes(15) lap=9 point=1 t=20.431 et=983.243</Score>
+<Score et="986.5">Fabio Krek(19) lap=9 point=1 t=20.257 et=986.425</Score>
+<Score et="987.2">Marcio Medeiros(17) lap=9 point=1 t=20.136 et=987.029</Score>
+<Score et="993.8">Otavio Augusto(11) lap=9 point=0 t=85.911 et=993.726</Score>
+<Score et="995.2">Arlindo TC(10) lap=9 point=0 t=-1.000 et=995.046</Score>
+<Score et="999.9">Pechito Ernst(7) lap=9 point=1 t=20.445 et=999.788</Score>
+<Score et="1000.2">Marco Frediani(21) lap=9 point=0 t=86.031 et=1000.146</Score>
+<Score et="1002.6">Alisson Zanoni(2) lap=9 point=0 t=83.699 et=1002.520</Score>
+<Score et="1014.9">Otavio Augusto(11) lap=9 point=1 t=21.051 et=1014.777</Score>
+<Score et="1016.3">Arlindo TC(10) lap=9 point=1 t=21.106 et=1016.152</Score>
+<Score et="1019.4">Tadeu Costa(20) lap=9 point=2 t=61.934 et=1019.292</Score>
+<Score et="1021.4">Marco Frediani(21) lap=9 point=1 t=21.128 et=1021.274</Score>
+<Score et="1023.2">Alisson Zanoni(2) lap=9 point=1 t=20.559 et=1023.079</Score>
+<Score et="1026.1">Paulo Nunes(15) lap=9 point=2 t=63.216 et=1026.028</Score>
+<Score et="1028.8">Fabio Krek(19) lap=9 point=2 t=62.574 et=1028.742</Score>
+<Score et="1029.6">Marcio Medeiros(17) lap=9 point=2 t=62.610 et=1029.503</Score>
+<Score et="1038.9">Tadeu Costa(20) lap=10 point=0 t=81.446 et=1038.804</Score>
+<Score et="1043.1">Pechito Ernst(7) lap=9 point=2 t=63.593 et=1042.937</Score>
+<Score et="1046.0">Paulo Nunes(15) lap=10 point=0 t=83.053 et=1045.865</Score>
+<Score et="1048.6">Fabio Krek(19) lap=10 point=0 t=82.322 et=1048.490</Score>
+<Score et="1049.1">Marcio Medeiros(17) lap=10 point=0 t=82.154 et=1049.046</Score>
+<Score et="1058.8">Otavio Augusto(11) lap=9 point=2 t=64.937 et=1058.663</Score>
+<Score et="1059.0">Tadeu Costa(20) lap=10 point=1 t=20.061 et=1058.865</Score>
+<Score et="1060.2">Arlindo TC(10) lap=9 point=2 t=65.037 et=1060.083</Score>
+<Score et="1062.9">Pechito Ernst(7) lap=10 point=0 t=83.501 et=1062.845</Score>
+<Score et="1065.8">Marco Frediani(21) lap=9 point=2 t=65.501 et=1065.647</Score>
+<Score et="1066.4">Paulo Nunes(15) lap=10 point=1 t=20.399 et=1066.264</Score>
+<Score et="1066.6">Alisson Zanoni(2) lap=9 point=2 t=63.921 et=1066.441</Score>
+<Score et="1069.1">Fabio Krek(19) lap=10 point=1 t=20.575 et=1069.065</Score>
+<Score et="1069.3">Marcio Medeiros(17) lap=10 point=1 t=20.164 et=1069.210</Score>
+<Score et="1079.6">Otavio Augusto(11) lap=10 point=0 t=85.846 et=1079.572</Score>
+<Score et="1080.8">Arlindo TC(10) lap=10 point=0 t=85.683 et=1080.729</Score>
+<Score et="1083.6">Pechito Ernst(7) lap=10 point=1 t=20.665 et=1083.510</Score>
+<Score et="1085.8">Marco Frediani(21) lap=10 point=0 t=85.565 et=1085.711</Score>
+<Score et="1086.3">Alisson Zanoni(2) lap=10 point=0 t=83.743 et=1086.263</Score>
+<Score et="1101.1">Tadeu Costa(20) lap=10 point=2 t=62.250 et=1101.055</Score>
+<Score et="1101.1">Otavio Augusto(11) lap=10 point=1 t=21.502 et=1101.074</Score>
+<Score et="1102.1">Arlindo TC(10) lap=10 point=1 t=21.316 et=1102.045</Score>
+<Score et="1107.3">Marco Frediani(21) lap=10 point=1 t=21.442 et=1107.153</Score>
+<Score et="1107.4">Alisson Zanoni(2) lap=10 point=1 t=21.004 et=1107.268</Score>
+<Score et="1108.5">Paulo Nunes(15) lap=10 point=2 t=62.552 et=1108.416</Score>
+<Score et="1111.7">Fabio Krek(19) lap=10 point=2 t=63.010 et=1111.500</Score>
+<Score et="1112.3">Marcio Medeiros(17) lap=10 point=2 t=63.155 et=1112.202</Score>
+<Score et="1120.5">Tadeu Costa(20) lap=11 point=0 t=81.641 et=1120.445</Score>
+<Score et="1126.5">Pechito Ernst(7) lap=10 point=2 t=63.549 et=1126.394</Score>
+<Score et="1128.1">Paulo Nunes(15) lap=11 point=0 t=82.183 et=1128.048</Score>
+<Score et="1131.3">Fabio Krek(19) lap=11 point=0 t=82.732 et=1131.222</Score>
+<Score et="1131.9">Marcio Medeiros(17) lap=11 point=0 t=82.749 et=1131.795</Score>
+<Score et="1140.7">Tadeu Costa(20) lap=11 point=1 t=20.170 et=1140.615</Score>
+<Score et="1144.9">Otavio Augusto(11) lap=10 point=2 t=65.200 et=1144.772</Score>
+<Score et="1146.4">Pechito Ernst(7) lap=11 point=0 t=83.405 et=1146.250</Score>
+<Score et="1146.9">Arlindo TC(10) lap=10 point=2 t=66.053 et=1146.782</Score>
+<Score et="1148.3">Paulo Nunes(15) lap=11 point=1 t=20.186 et=1148.234</Score>
+<Score et="1151.5">Fabio Krek(19) lap=11 point=1 t=20.190 et=1151.412</Score>
+<Score et="1151.6">Alisson Zanoni(2) lap=10 point=2 t=65.220 et=1151.483</Score>
+<Score et="1152.0">Marco Frediani(21) lap=10 point=2 t=66.166 et=1151.877</Score>
+<Score et="1152.2">Marcio Medeiros(17) lap=11 point=1 t=20.258 et=1152.053</Score>
+<Score et="1165.3">Otavio Augusto(11) lap=11 point=0 t=85.607 et=1165.179</Score>
+<Score et="1167.0">Pechito Ernst(7) lap=11 point=1 t=20.613 et=1166.863</Score>
+<Score et="1167.4">Arlindo TC(10) lap=11 point=0 t=86.606 et=1167.335</Score>
+<Score et="1171.5">Alisson Zanoni(2) lap=11 point=0 t=85.145 et=1171.408</Score>
+<Score et="1172.1">Marco Frediani(21) lap=11 point=0 t=86.237 et=1171.948</Score>
+<Score et="1182.9">Tadeu Costa(20) lap=11 point=2 t=62.326 et=1182.771</Score>
+<Score et="1186.5">Otavio Augusto(11) lap=11 point=1 t=21.138 et=1186.317</Score>
+<Score et="1188.7">Arlindo TC(10) lap=11 point=1 t=21.172 et=1188.507</Score>
+<Score et="1190.6">Paulo Nunes(15) lap=11 point=2 t=62.410 et=1190.458</Score>
+<Score et="1192.5">Alisson Zanoni(2) lap=11 point=1 t=21.004 et=1192.412</Score>
+<Score et="1193.0">Marco Frediani(21) lap=11 point=1 t=20.960 et=1192.908</Score>
+<Score et="1193.8">Fabio Krek(19) lap=11 point=2 t=62.433 et=1193.655</Score>
+<Score et="1194.8">Marcio Medeiros(17) lap=11 point=2 t=62.944 et=1194.740</Score>
+<Score et="1202.3">Tadeu Costa(20) lap=12 point=0 t=81.798 et=1202.244</Score>
+<Score et="1209.9">Pechito Ernst(7) lap=11 point=2 t=63.472 et=1209.723</Score>
+<Score et="1210.1">Paulo Nunes(15) lap=12 point=0 t=81.933 et=1209.980</Score>
+<Score et="1213.5">Fabio Krek(19) lap=12 point=0 t=82.177 et=1213.400</Score>
+<Score et="1214.4">Marcio Medeiros(17) lap=12 point=0 t=82.542 et=1214.337</Score>
+<Score et="1222.5">Tadeu Costa(20) lap=12 point=1 t=20.136 et=1222.380</Score>
+<Score et="1229.8">Pechito Ernst(7) lap=12 point=0 t=83.395 et=1229.645</Score>
+<Score et="1230.4">Paulo Nunes(15) lap=12 point=1 t=20.321 et=1230.302</Score>
+<Score et="1231.0">Otavio Augusto(11) lap=11 point=2 t=65.707 et=1230.886</Score>
+<Score et="1232.9">Arlindo TC(10) lap=11 point=2 t=65.442 et=1232.776</Score>
+<Score et="1234.1">Fabio Krek(19) lap=12 point=1 t=20.506 et=1233.905</Score>
+<Score et="1234.6">Marcio Medeiros(17) lap=12 point=1 t=20.184 et=1234.521</Score>
+<Score et="1235.7">Alisson Zanoni(2) lap=11 point=2 t=64.180 et=1235.588</Score>
+<Score et="1237.0">Marco Frediani(21) lap=11 point=2 t=64.967 et=1236.916</Score>
+<Score et="1250.4">Pechito Ernst(7) lap=12 point=1 t=20.608 et=1250.253</Score>
+<Score et="1251.5">Otavio Augusto(11) lap=12 point=0 t=86.251 et=1251.430</Score>
+<Score et="1253.1">Arlindo TC(10) lap=12 point=0 t=85.661 et=1252.996</Score>
+<Score et="1255.6">Alisson Zanoni(2) lap=12 point=0 t=84.063 et=1255.470</Score>
+<Score et="1260.2">Marco Frediani(21) lap=12 point=0 t=88.142 et=1260.090</Score>
+<Score et="1264.9">Tadeu Costa(20) lap=12 point=2 t=62.539 et=1264.783</Score>
+<Score et="1272.6">Otavio Augusto(11) lap=12 point=1 t=21.086 et=1272.516</Score>
+<Score et="1272.7">Paulo Nunes(15) lap=12 point=2 t=62.646 et=1272.626</Score>
+<Score et="1274.0">Arlindo TC(10) lap=12 point=1 t=20.897 et=1273.893</Score>
+<Score et="1276.2">Alisson Zanoni(2) lap=12 point=1 t=20.609 et=1276.080</Score>
+<Score et="1276.6">Fabio Krek(19) lap=12 point=2 t=63.138 et=1276.537</Score>
+<Score et="1277.5">Marcio Medeiros(17) lap=12 point=2 t=63.033 et=1277.370</Score>
+<Score et="1281.6">Marco Frediani(21) lap=12 point=1 t=21.383 et=1281.473</Score>
+<Score et="1284.5">Tadeu Costa(20) lap=13 point=0 t=82.151 et=1284.395</Score>
+<Score et="1292.4">Paulo Nunes(15) lap=13 point=0 t=82.365 et=1292.345</Score>
+<Score et="1294.5">Pechito Ernst(7) lap=12 point=2 t=64.720 et=1294.365</Score>
+<Score et="1296.3">Fabio Krek(19) lap=13 point=0 t=82.816 et=1296.216</Score>
+<Score et="1297.3">Marcio Medeiros(17) lap=13 point=0 t=82.865 et=1297.202</Score>
+<Score et="1305.0">Tadeu Costa(20) lap=13 point=1 t=20.511 et=1304.906</Score>
+<Score et="1312.8">Paulo Nunes(15) lap=13 point=1 t=20.354 et=1312.699</Score>
+<Score et="1314.5">Pechito Ernst(7) lap=13 point=0 t=84.796 et=1314.442</Score>
+<Score et="1316.6">Otavio Augusto(11) lap=12 point=2 t=-1.000 et=1316.485</Score>
+<Score et="1316.7">Fabio Krek(19) lap=13 point=1 t=20.383 et=1316.599</Score>
+<Score et="1317.4">Marcio Medeiros(17) lap=13 point=1 t=20.191 et=1317.393</Score>
+<Score et="1318.7">Arlindo TC(10) lap=12 point=2 t=65.504 et=1318.500</Score>
+<Score et="1319.5">Alisson Zanoni(2) lap=12 point=2 t=63.956 et=1319.427</Score>
+<Score et="1325.6">Marco Frediani(21) lap=12 point=2 t=65.437 et=1325.527</Score>
+<Score et="1335.2">Pechito Ernst(7) lap=13 point=1 t=20.657 et=1335.099</Score>
+<Score et="1337.1">Otavio Augusto(11) lap=13 point=0 t=-1.000 et=1336.974</Score>
+<Score et="1338.8">Arlindo TC(10) lap=13 point=0 t=85.757 et=1338.753</Score>
+<Score et="1339.3">Alisson Zanoni(2) lap=13 point=0 t=83.800 et=1339.271</Score>
+<Score et="1345.7">Marco Frediani(21) lap=13 point=0 t=85.540 et=1345.630</Score>
+<Score et="1347.6">Tadeu Costa(20) lap=13 point=2 t=63.156 et=1347.551</Score>
+<Score et="1355.3">Paulo Nunes(15) lap=13 point=2 t=62.782 et=1355.128</Score>
+<Score et="1358.4">Otavio Augusto(11) lap=13 point=1 t=21.375 et=1358.349</Score>
+<Score et="1359.0">Fabio Krek(19) lap=13 point=2 t=62.672 et=1358.888</Score>
+<Score et="1360.1">Arlindo TC(10) lap=13 point=1 t=21.259 et=1360.012</Score>
+<Score et="1360.2">Alisson Zanoni(2) lap=13 point=1 t=20.776 et=1360.047</Score>
+<Score et="1360.2">Marcio Medeiros(17) lap=13 point=2 t=62.950 et=1360.151</Score>
+<Incident et="1363.7">Arlindo TC(10) reported contact (0.10) with another vehicle Alisson Zanoni(2)</Incident>
+<Incident et="1363.7">Alisson Zanoni(2) reported contact (0.13) with another vehicle Arlindo TC(10)</Incident>
+<Score et="1367.0">Marco Frediani(21) lap=13 point=1 t=21.275 et=1366.906</Score>
+<Score et="1367.1">Tadeu Costa(20) lap=14 point=0 t=82.677 et=1367.072</Score>
+<Score et="1375.0">Paulo Nunes(15) lap=14 point=0 t=82.554 et=1374.899</Score>
+<Score et="1378.5">Fabio Krek(19) lap=14 point=0 t=82.222 et=1378.438</Score>
+<Score et="1379.9">Marcio Medeiros(17) lap=14 point=0 t=82.547 et=1379.748</Score>
+<Score et="1385.1">Pechito Ernst(7) lap=13 point=2 t=70.523 et=1384.965</Score>
+<Score et="1387.3">Tadeu Costa(20) lap=14 point=1 t=20.105 et=1387.176</Score>
+<Score et="1395.3">Paulo Nunes(15) lap=14 point=1 t=20.291 et=1395.190</Score>
+<Score et="1398.8">Fabio Krek(19) lap=14 point=1 t=20.287 et=1398.725</Score>
+<Score et="1400.0">Marcio Medeiros(17) lap=14 point=1 t=20.165 et=1399.913</Score>
+<Score et="1402.6">Otavio Augusto(11) lap=13 point=2 t=65.476 et=1402.451</Score>
+<Score et="1404.8">Alisson Zanoni(2) lap=13 point=2 t=65.361 et=1404.631</Score>
+<Score et="1405.2">Pechito Ernst(7) lap=14 point=0 t=90.662 et=1405.104</Score>
+<Score et="1406.6">Arlindo TC(10) lap=13 point=2 t=67.705 et=1406.458</Score>
+<Score et="1411.6">Marco Frediani(21) lap=13 point=2 t=65.826 et=1411.457</Score>
+<Score et="1422.9">Otavio Augusto(11) lap=14 point=0 t=85.807 et=1422.781</Score>
+<Score et="1425.0">Alisson Zanoni(2) lap=14 point=0 t=85.662 et=1424.932</Score>
+<Score et="1426.0">Pechito Ernst(7) lap=14 point=1 t=20.739 et=1425.843</Score>
+<Score et="1427.1">Arlindo TC(10) lap=14 point=0 t=88.009 et=1426.762</Score>
+<Score et="1429.8">Tadeu Costa(20) lap=14 point=2 t=62.594 et=1429.665</Score>
+<Score et="1431.6">Marco Frediani(21) lap=14 point=0 t=85.863 et=1431.493</Score>
+<Score et="1437.6">Paulo Nunes(15) lap=14 point=2 t=62.613 et=1437.512</Score>
+<Score et="1441.5">Fabio Krek(19) lap=14 point=2 t=62.924 et=1441.361</Score>
+<Score et="1442.9">Marcio Medeiros(17) lap=14 point=2 t=63.109 et=1442.858</Score>
+<Score et="1444.1">Otavio Augusto(11) lap=14 point=1 t=21.203 et=1443.985</Score>
+<Score et="1446.3">Alisson Zanoni(2) lap=14 point=1 t=21.225 et=1446.158</Score>
+<Score et="1448.4">Arlindo TC(10) lap=14 point=1 t=21.451 et=1448.214</Score>
+<Score et="1449.4">Tadeu Costa(20) lap=15 point=0 t=82.282 et=1449.354</Score>
+<Score et="1452.6">Marco Frediani(21) lap=14 point=1 t=21.066 et=1452.559</Score>
+<Score et="1457.4">Paulo Nunes(15) lap=15 point=0 t=82.416 et=1457.315</Score>
+<Score et="1461.0">Fabio Krek(19) lap=15 point=0 t=82.508 et=1460.945</Score>
+<Score et="1462.6">Marcio Medeiros(17) lap=15 point=0 t=82.771 et=1462.520</Score>
+<Score et="1469.8">Tadeu Costa(20) lap=15 point=1 t=20.307 et=1469.661</Score>
+<Score et="1470.4">Pechito Ernst(7) lap=14 point=2 t=65.148 et=1470.252</Score>
+<Score et="1477.8">Paulo Nunes(15) lap=15 point=1 t=20.339 et=1477.654</Score>
+<Score et="1481.4">Fabio Krek(19) lap=15 point=1 t=20.337 et=1481.283</Score>
+<Score et="1483.0">Marcio Medeiros(17) lap=15 point=1 t=20.413 et=1482.933</Score>
+<Score et="1489.2">Otavio Augusto(11) lap=14 point=2 t=66.299 et=1489.080</Score>
+<Score et="1489.8">Alisson Zanoni(2) lap=14 point=2 t=64.799 et=1489.731</Score>
+<Score et="1490.4">Pechito Ernst(7) lap=15 point=0 t=85.237 et=1490.341</Score>
+<Score et="1497.5">Marco Frediani(21) lap=14 point=2 t=65.874 et=1497.367</Score>
+<Incident et="1508.8">Alisson Zanoni(2) reported contact (0.10) with Immovable</Incident>
+<Incident et="1508.9">Alisson Zanoni(2) reported contact (0.94) with Immovable</Incident>
+<Score et="1509.6">Otavio Augusto(11) lap=15 point=0 t=86.718 et=1509.499</Score>
+<Score et="1509.7">Alisson Zanoni(2) lap=15 point=0 t=84.661 et=1509.593</Score>
+<Score et="1511.2">Pechito Ernst(7) lap=15 point=1 t=20.640 et=1510.981</Score>
+<Score et="1512.2">Tadeu Costa(20) lap=15 point=2 t=62.727 et=1512.081</Score>
+<Score et="1513.3">Arlindo TC(10) lap=15 point=0 t=86.463 et=1513.226</Score>
+<Score et="1517.8">Marco Frediani(21) lap=15 point=0 t=86.158 et=1517.651</Score>
+<Score et="1520.6">Paulo Nunes(15) lap=15 point=2 t=63.142 et=1520.457</Score>
+<Score et="1524.0">Fabio Krek(19) lap=15 point=2 t=62.887 et=1523.832</Score>
+<Score et="1526.2">Marcio Medeiros(17) lap=15 point=2 t=63.566 et=1526.086</Score>
+<Score et="1530.9">Otavio Augusto(11) lap=15 point=1 t=21.321 et=1530.820</Score>
+<Score et="1530.9">Alisson Zanoni(2) lap=15 point=1 t=21.224 et=1530.818</Score>
+<Score et="1531.6">Tadeu Costa(20) lap=16 point=0 t=82.230 et=1531.584</Score>
+<Score et="1534.5">Arlindo TC(10) lap=15 point=1 t=21.229 et=1534.455</Score>
+<Score et="1539.1">Marco Frediani(21) lap=15 point=1 t=21.341 et=1538.992</Score>
+<Score et="1540.2">Paulo Nunes(15) lap=16 point=0 t=82.805 et=1540.120</Score>
+<Score et="1543.5">Fabio Krek(19) lap=16 point=0 t=82.514 et=1543.460</Score>
+<Score et="1546.0">Marcio Medeiros(17) lap=16 point=0 t=83.377 et=1545.897</Score>
+<Score et="1551.8">Tadeu Costa(20) lap=16 point=1 t=20.135 et=1551.719</Score>
+<Score et="1554.9">Pechito Ernst(7) lap=15 point=2 t=64.377 et=1554.718</Score>
+<Score et="1560.7">Paulo Nunes(15) lap=16 point=1 t=20.497 et=1560.618</Score>
+<Score et="1564.1">Fabio Krek(19) lap=16 point=1 t=20.529 et=1563.989</Score>
+<Score et="1566.4">Marcio Medeiros(17) lap=16 point=1 t=20.361 et=1566.258</Score>
+<Score et="1574.8">Pechito Ernst(7) lap=16 point=0 t=84.337 et=1574.678</Score>
+<Score et="1576.3">Alisson Zanoni(2) lap=15 point=2 t=66.578 et=1576.172</Score>
+<Score et="1576.6">Otavio Augusto(11) lap=15 point=2 t=66.949 et=1576.448</Score>
+<Score et="1579.3">Arlindo TC(10) lap=15 point=2 t=65.974 et=1579.199</Score>
+<Score et="1583.7">Marco Frediani(21) lap=15 point=2 t=65.924 et=1583.575</Score>
+<Score et="1594.5">Tadeu Costa(20) lap=16 point=2 t=62.734 et=1594.317</Score>
+<Score et="1595.5">Pechito Ernst(7) lap=16 point=1 t=20.678 et=1595.356</Score>
+<Score et="1596.2">Alisson Zanoni(2) lap=16 point=0 t=86.531 et=1596.125</Score>
+<Score et="1597.0">Otavio Augusto(11) lap=16 point=0 t=87.388 et=1596.887</Score>
+<Score et="1599.6">Arlindo TC(10) lap=16 point=0 t=86.271 et=1599.497</Score>
+<Score et="1603.0">Paulo Nunes(15) lap=16 point=2 t=62.741 et=1602.862</Score>
+<Score et="1603.7">Marco Frediani(21) lap=16 point=0 t=85.985 et=1603.636</Score>
+<Score et="1606.7">Fabio Krek(19) lap=16 point=2 t=63.154 et=1606.613</Score>
+<Score et="1609.4">Marcio Medeiros(17) lap=16 point=2 t=63.365 et=1609.262</Score>
+<Score et="1613.8">Tadeu Costa(20) lap=17 point=0 t=82.199 et=1613.782</Score>
+<Score et="1617.5">Alisson Zanoni(2) lap=16 point=1 t=21.237 et=1617.362</Score>
+<Score et="1618.5">Otavio Augusto(11) lap=16 point=1 t=21.539 et=1618.426</Score>
+<Score et="1620.6">Arlindo TC(10) lap=16 point=1 t=20.987 et=1620.484</Score>
+<Score et="1622.7">Paulo Nunes(15) lap=17 point=0 t=82.486 et=1622.606</Score>
+<Score et="1625.0">Marco Frediani(21) lap=16 point=1 t=21.291 et=1624.927</Score>
+<Score et="1626.3">Fabio Krek(19) lap=17 point=0 t=82.771 et=1626.230</Score>
+<Score et="1629.1">Marcio Medeiros(17) lap=17 point=0 t=83.115 et=1629.012</Score>
+<Score et="1634.1">Tadeu Costa(20) lap=17 point=1 t=20.222 et=1634.004</Score>
+<Score et="1639.0">Pechito Ernst(7) lap=16 point=2 t=64.205 et=1638.883</Score>
+<Score et="1643.1">Paulo Nunes(15) lap=17 point=1 t=20.359 et=1642.965</Score>
+<Score et="1646.5">Fabio Krek(19) lap=17 point=1 t=20.186 et=1646.416</Score>
+<Score et="1649.4">Marcio Medeiros(17) lap=17 point=1 t=20.300 et=1649.312</Score>
+<Score et="1659.1">Pechito Ernst(7) lap=17 point=0 t=84.311 et=1658.989</Score>
+<Score et="1661.0">Alisson Zanoni(2) lap=16 point=2 t=64.770 et=1660.895</Score>
+<Score et="1663.3">Otavio Augusto(11) lap=16 point=2 t=66.232 et=1663.119</Score>
+<Score et="1665.3">Arlindo TC(10) lap=16 point=2 t=65.636 et=1665.133</Score>
+<Score et="1669.2">Marco Frediani(21) lap=16 point=2 t=65.413 et=1669.049</Score>
+<Score et="1676.8">Tadeu Costa(20) lap=17 point=2 t=62.917 et=1676.699</Score>
+<Score et="1679.9">Pechito Ernst(7) lap=17 point=1 t=20.719 et=1679.708</Score>
+<Score et="1680.9">Alisson Zanoni(2) lap=17 point=0 t=84.701 et=1680.826</Score>
+<Score et="1683.7">Otavio Augusto(11) lap=17 point=0 t=86.673 et=1683.560</Score>
+<Score et="1685.5">Arlindo TC(10) lap=17 point=0 t=85.864 et=1685.361</Score>
+<Score et="1685.7">Paulo Nunes(15) lap=17 point=2 t=63.006 et=1685.613</Score>
+<Score et="1689.2">Marco Frediani(21) lap=17 point=0 t=85.513 et=1689.149</Score>
+<Score et="1689.3">Fabio Krek(19) lap=17 point=2 t=62.941 et=1689.171</Score>
+<Score et="1692.6">Marcio Medeiros(17) lap=17 point=2 t=63.444 et=1692.456</Score>
+<Score et="1696.3">Tadeu Costa(20) lap=18 point=0 t=82.446 et=1696.228</Score>
+<Score et="1702.0">Alisson Zanoni(2) lap=17 point=1 t=21.004 et=1701.829</Score>
+<Score et="1704.9">Otavio Augusto(11) lap=17 point=1 t=21.203 et=1704.762</Score>
+<Score et="1705.4">Paulo Nunes(15) lap=18 point=0 t=82.659 et=1705.265</Score>
+<Score et="1706.7">Arlindo TC(10) lap=17 point=1 t=21.220 et=1706.581</Score>
+<Score et="1709.1">Fabio Krek(19) lap=18 point=0 t=82.737 et=1708.967</Score>
+<Score et="1710.5">Marco Frediani(21) lap=17 point=1 t=21.231 et=1710.380</Score>
+<Score et="1712.3">Marcio Medeiros(17) lap=18 point=0 t=83.179 et=1712.191</Score>
+<Score et="1716.6">Tadeu Costa(20) lap=18 point=1 t=20.245 et=1716.474</Score>
+<Score et="1725.7">Paulo Nunes(15) lap=18 point=1 t=20.343 et=1725.608</Score>
+<Score et="1726.0">Pechito Ernst(7) lap=17 point=2 t=66.871 et=1725.860</Score>
+<Score et="1729.4">Fabio Krek(19) lap=18 point=1 t=20.344 et=1729.311</Score>
+<Score et="1732.6">Marcio Medeiros(17) lap=18 point=1 t=20.281 et=1732.471</Score>
+<Score et="1745.4">Alisson Zanoni(2) lap=17 point=2 t=64.524 et=1745.349</Score>
+<Score et="1746.0">Pechito Ernst(7) lap=18 point=0 t=86.931 et=1745.920</Score>
+<Score et="1749.3">Otavio Augusto(11) lap=17 point=2 t=65.606 et=1749.166</Score>
+<Score et="1751.6">Arlindo TC(10) lap=17 point=2 t=66.164 et=1751.525</Score>
+<Score et="1754.9">Marco Frediani(21) lap=17 point=2 t=65.619 et=1754.769</Score>
+<Score et="1759.3">Tadeu Costa(20) lap=18 point=2 t=62.909 et=1759.137</Score>
+<Score et="1765.4">Alisson Zanoni(2) lap=18 point=0 t=84.507 et=1765.332</Score>
+<Score et="1766.7">Pechito Ernst(7) lap=18 point=1 t=20.686 et=1766.606</Score>
+<Score et="1768.2">Paulo Nunes(15) lap=18 point=2 t=62.807 et=1768.072</Score>
+<Score et="1769.8">Otavio Augusto(11) lap=18 point=0 t=86.127 et=1769.687</Score>
+<Score et="1772.2">Fabio Krek(19) lap=18 point=2 t=63.093 et=1772.060</Score>
+<Score et="1772.2">Arlindo TC(10) lap=18 point=0 t=86.413 et=1771.774</Score>
+<Score et="1775.0">Marco Frediani(21) lap=18 point=0 t=85.758 et=1774.907</Score>
+<Score et="1775.7">Marcio Medeiros(17) lap=18 point=2 t=63.325 et=1775.515</Score>
+<Score et="1778.8">Tadeu Costa(20) lap=19 point=0 t=82.461 et=1778.689</Score>
+<Score et="1786.2">Alisson Zanoni(2) lap=18 point=1 t=20.813 et=1786.146</Score>
+<Score et="1787.9">Paulo Nunes(15) lap=19 point=0 t=82.504 et=1787.769</Score>
+<Score et="1791.3">Otavio Augusto(11) lap=18 point=1 t=21.497 et=1791.184</Score>
+<Score et="1791.7">Fabio Krek(19) lap=19 point=0 t=82.722 et=1791.689</Score>
+<Score et="1792.7">Arlindo TC(10) lap=18 point=1 t=20.877 et=1792.651</Score>
+<Score et="1795.3">Marcio Medeiros(17) lap=19 point=0 t=83.018 et=1795.208</Score>
+<Score et="1800.2">Tadeu Costa(20) lap=19 point=1 t=21.425 et=1800.115</Score>
+<Score et="1801.3">Marco Frediani(21) lap=18 point=1 t=26.332 et=1801.239</Score>
+<Score et="1808.4">Paulo Nunes(15) lap=19 point=1 t=20.489 et=1808.257</Score>
+<Score et="1810.6">Pechito Ernst(7) lap=18 point=2 t=64.535 et=1810.455</Score>
+<Score et="1812.2">Fabio Krek(19) lap=19 point=1 t=20.381 et=1812.070</Score>
+<Score et="1815.6">Marcio Medeiros(17) lap=19 point=1 t=20.344 et=1815.552</Score>
+<Score et="1829.6">Alisson Zanoni(2) lap=18 point=2 t=64.138 et=1829.471</Score>
+<Score et="1830.4">Pechito Ernst(7) lap=19 point=0 t=84.390 et=1830.310</Score>
+<Score et="1836.0">Otavio Augusto(11) lap=18 point=2 t=66.143 et=1835.829</Score>
+<Score et="1842.9">Tadeu Costa(20) lap=19 point=2 t=64.181 et=1842.870</Score>
+<Score et="1846.0">Marco Frediani(21) lap=18 point=2 t=70.973 et=1845.880</Score>
+<Score et="1849.5">Alisson Zanoni(2) lap=19 point=0 t=84.079 et=1849.411</Score>
+<Score et="1850.7">Paulo Nunes(15) lap=19 point=2 t=62.807 et=1850.576</Score>
+<Score et="1851.1">Pechito Ernst(7) lap=19 point=1 t=20.623 et=1850.933</Score>
+<Score et="1855.0">Fabio Krek(19) lap=19 point=2 t=63.240 et=1854.929</Score>
+<Score et="1856.3">Otavio Augusto(11) lap=19 point=0 t=86.584 et=1856.271</Score>
+<Score et="1858.2">Arlindo TC(10) lap=19 point=0 t=86.347 et=1858.120</Score>
+<Score et="1858.8">Marcio Medeiros(17) lap=19 point=2 t=63.473 et=1858.681</Score>
+<Score et="1862.5">Tadeu Costa(20) lap=20 point=0 t=83.766 et=1862.455</Score>
+<Score et="1866.1">Marco Frediani(21) lap=19 point=0 t=91.118 et=1866.025</Score>
+<Score et="1870.4">Paulo Nunes(15) lap=20 point=0 t=82.559 et=1870.327</Score>
+<Score et="1870.9">Alisson Zanoni(2) lap=19 point=1 t=21.336 et=1870.747</Score>
+<Score et="1874.7">Fabio Krek(19) lap=20 point=0 t=82.909 et=1874.598</Score>
+<Score et="1877.6">Otavio Augusto(11) lap=19 point=1 t=21.238 et=1877.509</Score>
+<Score et="1878.5">Marcio Medeiros(17) lap=20 point=0 t=83.229 et=1878.438</Score>
+<Score et="1879.3">Arlindo TC(10) lap=19 point=1 t=21.030 et=1879.150</Score>
+<Score et="1882.7">Tadeu Costa(20) lap=20 point=1 t=20.209 et=1882.664</Score>
+<Score et="1888.0">Marco Frediani(21) lap=19 point=1 t=21.844 et=1887.869</Score>
+<Score et="1890.9">Paulo Nunes(15) lap=20 point=1 t=20.425 et=1890.753</Score>
+<Score et="1894.7">Pechito Ernst(7) lap=19 point=2 t=64.250 et=1894.560</Score>
+<Score et="1895.2">Fabio Krek(19) lap=20 point=1 t=20.428 et=1895.026</Score>
+<Score et="1898.8">Marcio Medeiros(17) lap=20 point=1 t=20.270 et=1898.708</Score>
+<Score et="1914.4">Alisson Zanoni(2) lap=19 point=2 t=64.866 et=1914.278</Score>
+<Score et="1914.8">Pechito Ernst(7) lap=20 point=0 t=84.349 et=1914.659</Score>
+<Score et="1922.3">Otavio Augusto(11) lap=19 point=2 t=65.879 et=1922.150</Score>
+<Score et="1924.2">Arlindo TC(10) lap=19 point=2 t=65.984 et=1924.105</Score>
+<Score et="1925.6">Tadeu Costa(20) lap=20 point=2 t=62.997 et=1925.452</Score>
+<Score et="1933.4">Paulo Nunes(15) lap=20 point=2 t=62.911 et=1933.239</Score>
+<Score et="1934.4">Alisson Zanoni(2) lap=20 point=0 t=84.842 et=1934.253</Score>
+<Score et="1935.8">Pechito Ernst(7) lap=20 point=1 t=20.978 et=1935.637</Score>
+<Score et="1936.3">Marco Frediani(21) lap=19 point=2 t=70.140 et=1936.165</Score>
+<Score et="1938.1">Fabio Krek(19) lap=20 point=2 t=63.348 et=1937.946</Score>
+<Score et="1942.2">Marcio Medeiros(17) lap=20 point=2 t=63.655 et=1942.093</Score>
+<Score et="1942.5">Otavio Augusto(11) lap=20 point=0 t=86.173 et=1942.444</Score>
+<Score et="1944.5">Arlindo TC(10) lap=20 point=0 t=86.267 et=1944.387</Score>
+<Score et="1945.4">Tadeu Costa(20) lap=21 point=0 t=82.870 et=1945.324</Score>
+<Score et="1953.1">Paulo Nunes(15) lap=21 point=0 t=82.705 et=1953.032</Score>
+<Score et="1955.3">Alisson Zanoni(2) lap=20 point=1 t=20.982 et=1955.235</Score>
+<Incident et="1955.9">Pechito Ernst(7) reported contact (0.61) with Immovable</Incident>
+<Score et="1956.5">Marco Frediani(21) lap=20 point=0 t=90.392 et=1956.417</Score>
+<Score et="1957.6">Fabio Krek(19) lap=21 point=0 t=82.976 et=1957.574</Score>
+<Incident et="1959.4">Pechito Ernst(7) reported contact (0.10) with Immovable</Incident>
+<Score et="1961.8">Marcio Medeiros(17) lap=21 point=0 t=83.355 et=1961.792</Score>
+<Score et="1964.0">Otavio Augusto(11) lap=20 point=1 t=21.392 et=1963.836</Score>
+<Score et="1965.7">Tadeu Costa(20) lap=21 point=1 t=20.385 et=1965.709</Score>
+<Score et="1967.2">Arlindo TC(10) lap=20 point=1 t=22.714 et=1967.101</Score>
+<Score et="1973.7">Paulo Nunes(15) lap=21 point=1 t=20.608 et=1973.640</Score>
+<Score et="1978.3">Fabio Krek(19) lap=21 point=1 t=20.681 et=1978.255</Score>
+<Score et="1978.9">Marco Frediani(21) lap=20 point=1 t=22.346 et=1978.764</Score>
+<Score et="1982.2">Marcio Medeiros(17) lap=21 point=1 t=20.281 et=1982.074</Score>
+<Score et="1989.4">Pechito Ernst(7) lap=20 point=2 t=74.571 et=1989.230</Score>
+<Score et="1998.9">Alisson Zanoni(2) lap=20 point=2 t=64.501 et=1998.755</Score>
+<Score et="2008.8">Tadeu Costa(20) lap=21 point=2 t=63.381 et=2008.706</Score>
+<Score et="2009.2">Otavio Augusto(11) lap=20 point=2 t=66.640 et=2009.084</Score>
+<Score et="2009.5">Pechito Ernst(7) lap=21 point=0 t=94.767 et=2009.427</Score>
+<Score et="2012.2">Arlindo TC(10) lap=20 point=2 t=67.731 et=2012.118</Score>
+<Score et="2016.4">Paulo Nunes(15) lap=21 point=2 t=63.218 et=2016.250</Score>
+<Score et="2018.7">Alisson Zanoni(2) lap=21 point=0 t=84.365 et=2018.618</Score>
+<Score et="2021.1">Fabio Krek(19) lap=21 point=2 t=63.369 et=2020.943</Score>
+<Score et="2025.2">Marco Frediani(21) lap=20 point=2 t=68.684 et=2025.101</Score>
+<Score et="2025.6">Marcio Medeiros(17) lap=21 point=2 t=63.686 et=2025.478</Score>
+<Score et="2028.5">Tadeu Costa(20) lap=22 point=0 t=83.043 et=2028.368</Score>
+<Score et="2029.6">Otavio Augusto(11) lap=21 point=0 t=87.063 et=2029.507</Score>
+<Score et="2030.5">Pechito Ernst(7) lap=21 point=1 t=20.914 et=2030.340</Score>
+<Score et="2032.6">Arlindo TC(10) lap=21 point=0 t=88.095 et=2032.483</Score>
+<Score et="2036.1">Paulo Nunes(15) lap=22 point=0 t=82.993 et=2036.025</Score>
+<Score et="2039.7">Alisson Zanoni(2) lap=21 point=1 t=20.939 et=2039.558</Score>
+<Score et="2040.8">Fabio Krek(19) lap=22 point=0 t=83.128 et=2040.702</Score>
+<Score et="2045.7">Marco Frediani(21) lap=21 point=0 t=89.235 et=2045.652</Score>
+<Score et="2046.4">Marcio Medeiros(17) lap=22 point=0 t=84.487 et=2046.280</Score>
+<Score et="2048.7">Tadeu Costa(20) lap=22 point=1 t=20.268 et=2048.636</Score>
+<Score et="2051.0">Otavio Augusto(11) lap=21 point=1 t=21.396 et=2050.902</Score>
+<Score et="2056.8">Paulo Nunes(15) lap=22 point=1 t=20.612 et=2056.637</Score>
+<Score et="2061.2">Fabio Krek(19) lap=22 point=1 t=20.396 et=2061.098</Score>
+<Score et="2067.3">Marcio Medeiros(17) lap=22 point=1 t=20.905 et=2067.185</Score>
+<Score et="2067.7">Marco Frediani(21) lap=21 point=1 t=21.939 et=2067.591</Score>
+<Score et="2080.2">Pechito Ernst(7) lap=21 point=2 t=70.659 et=2080.085</Score>
+<Score et="2083.0">Alisson Zanoni(2) lap=21 point=2 t=64.320 et=2082.938</Score>
+<Score et="2091.6">Tadeu Costa(20) lap=22 point=2 t=63.180 et=2091.547</Score>
+<Score et="2095.9">Otavio Augusto(11) lap=21 point=2 t=66.243 et=2095.749</Score>
+<Score et="2098.8">Arlindo TC(10) lap=21 point=2 t=66.141 et=2098.623</Score>
+<Score et="2099.6">Paulo Nunes(15) lap=22 point=2 t=63.519 et=2099.544</Score>
+<Score et="2100.4">Pechito Ernst(7) lap=22 point=0 t=90.849 et=2100.275</Score>
+<Score et="2103.0">Alisson Zanoni(2) lap=22 point=0 t=84.327 et=2102.945</Score>
+<Score et="2103.9">Fabio Krek(19) lap=22 point=2 t=63.156 et=2103.859</Score>
+<Score et="2110.7">Marcio Medeiros(17) lap=22 point=2 t=64.325 et=2110.604</Score>
+<Score et="2111.2">Tadeu Costa(20) lap=23 point=0 t=82.810 et=2111.177</Score>
+<Score et="2112.3">Marco Frediani(21) lap=21 point=2 t=66.518 et=2112.170</Score>
+<Score et="2116.3">Otavio Augusto(11) lap=22 point=0 t=86.681 et=2116.188</Score>
+<Score et="2119.9">Paulo Nunes(15) lap=23 point=0 t=83.815 et=2119.841</Score>
+<Score et="2120.5">Arlindo TC(10) lap=22 point=0 t=86.980 et=2119.463</Score>
+<Score et="2121.2">Pechito Ernst(7) lap=22 point=1 t=20.827 et=2121.103</Score>
+<Score et="2123.6">Fabio Krek(19) lap=23 point=0 t=82.864 et=2123.566</Score>
+<Score et="2124.4">Alisson Zanoni(2) lap=22 point=1 t=21.392 et=2124.336</Score>
+<Score et="2130.4">Marcio Medeiros(17) lap=23 point=0 t=84.112 et=2130.392</Score>
+<Score et="2131.6">Tadeu Costa(20) lap=23 point=1 t=20.322 et=2131.500</Score>
+<Score et="2132.5">Marco Frediani(21) lap=22 point=0 t=86.734 et=2132.386</Score>
+<Score et="2137.6">Otavio Augusto(11) lap=22 point=1 t=21.349 et=2137.537</Score>
+<Score et="2141.8">Paulo Nunes(15) lap=23 point=1 t=21.883 et=2141.723</Score>
+<Score et="2142.3">Arlindo TC(10) lap=22 point=1 t=22.662 et=2142.125</Score>
+<Score et="2144.0">Fabio Krek(19) lap=23 point=1 t=20.332 et=2143.898</Score>
+<Score et="2150.9">Marcio Medeiros(17) lap=23 point=1 t=20.375 et=2150.767</Score>
+<Score et="2153.6">Marco Frediani(21) lap=22 point=1 t=21.176 et=2153.562</Score>
+<Score et="2165.3">Pechito Ernst(7) lap=22 point=2 t=64.953 et=2165.228</Score>
+<Score et="2167.9">Alisson Zanoni(2) lap=22 point=2 t=64.866 et=2167.811</Score>
+<Score et="2174.2">Tadeu Costa(20) lap=23 point=2 t=63.008 et=2174.185</Score>
+<Score et="2182.4">Otavio Augusto(11) lap=22 point=2 t=66.169 et=2182.356</Score>
+<Score et="2184.6">Paulo Nunes(15) lap=23 point=2 t=64.625 et=2184.466</Score>
+<Score et="2185.5">Pechito Ernst(7) lap=23 point=0 t=85.095 et=2185.371</Score>
+<Score et="2186.8">Fabio Krek(19) lap=23 point=2 t=63.141 et=2186.708</Score>
+<Score et="2187.8">Alisson Zanoni(2) lap=23 point=0 t=84.724 et=2187.669</Score>
+<Score et="2190.2">Arlindo TC(10) lap=22 point=2 t=70.612 et=2190.075</Score>
+<Score et="2193.7">Tadeu Costa(20) lap=24 point=0 t=82.500 et=2193.677</Score>
+<Score et="2194.3">Marcio Medeiros(17) lap=23 point=2 t=63.741 et=2194.133</Score>
+<Score et="2198.4">Marco Frediani(21) lap=22 point=2 t=65.922 et=2198.308</Score>
+<Score et="2202.9">Otavio Augusto(11) lap=23 point=0 t=86.585 et=2202.772</Score>
+<Score et="2204.3">Paulo Nunes(15) lap=24 point=0 t=84.329 et=2204.169</Score>
+<Score et="2206.4">Pechito Ernst(7) lap=23 point=1 t=20.901 et=2206.272</Score>
+<Score et="2206.5">Fabio Krek(19) lap=24 point=0 t=82.807 et=2206.373</Score>
+<Score et="2208.6">Alisson Zanoni(2) lap=23 point=1 t=20.875 et=2208.544</Score>
+<Score et="2210.7">Arlindo TC(10) lap=23 point=0 t=91.159 et=2210.622</Score>
+<Score et="2213.9">Marcio Medeiros(17) lap=24 point=0 t=83.407 et=2213.799</Score>
+<Score et="2214.2">Tadeu Costa(20) lap=24 point=1 t=20.356 et=2214.034</Score>
+<Score et="2218.6">Marco Frediani(21) lap=23 point=0 t=86.139 et=2218.525</Score>
+<Score et="2224.5">Otavio Augusto(11) lap=23 point=1 t=21.624 et=2224.396</Score>
+<Score et="2224.7">Paulo Nunes(15) lap=24 point=1 t=20.395 et=2224.564</Score>
+<Score et="2226.9">Fabio Krek(19) lap=24 point=1 t=20.359 et=2226.732</Score>
+<Score et="2232.1">Arlindo TC(10) lap=23 point=1 t=21.389 et=2232.011</Score>
+<Score et="2234.3">Marcio Medeiros(17) lap=24 point=1 t=20.394 et=2234.192</Score>
+<Score et="2239.8">Marco Frediani(21) lap=23 point=1 t=21.180 et=2239.705</Score>
+<Score et="2250.6">Pechito Ernst(7) lap=23 point=2 t=65.141 et=2250.512</Score>
+<Score et="2252.0">Alisson Zanoni(2) lap=23 point=2 t=64.297 et=2251.966</Score>
+<Score et="2256.9">Tadeu Costa(20) lap=24 point=2 t=63.113 et=2256.791</Score>
+<Score et="2268.1">Paulo Nunes(15) lap=24 point=2 t=63.788 et=2267.958</Score>
+<Score et="2269.7">Fabio Krek(19) lap=24 point=2 t=63.130 et=2269.503</Score>
+<Score et="2270.0">Otavio Augusto(11) lap=23 point=2 t=67.206 et=2269.979</Score>
+<Score et="2270.6">Pechito Ernst(7) lap=24 point=0 t=85.189 et=2270.560</Score>
+<Score et="2271.9">Alisson Zanoni(2) lap=24 point=0 t=84.194 et=2271.863</Score>
+<Score et="2276.5">Tadeu Costa(20) lap=25 point=0 t=82.736 et=2276.414</Score>
+<Score et="2277.4">Arlindo TC(10) lap=23 point=2 t=66.654 et=2277.276</Score>
+<Score et="2277.7">Marcio Medeiros(17) lap=24 point=2 t=63.759 et=2277.557</Score>
+<Score et="2284.7">Marco Frediani(21) lap=23 point=2 t=66.036 et=2284.560</Score>
+<Score et="2287.8">Paulo Nunes(15) lap=25 point=0 t=83.524 et=2287.694</Score>
+<Score et="2289.4">Fabio Krek(19) lap=25 point=0 t=82.952 et=2289.325</Score>
+<Score et="2290.5">Otavio Augusto(11) lap=24 point=0 t=87.632 et=2290.404</Score>
+<Score et="2291.6">Pechito Ernst(7) lap=24 point=1 t=20.903 et=2291.463</Score>
+<Score et="2292.6">Alisson Zanoni(2) lap=24 point=1 t=20.688 et=2292.550</Score>
+<Score et="2296.8">Tadeu Costa(20) lap=25 point=1 t=20.214 et=2296.628</Score>
+<Score et="2297.5">Marcio Medeiros(17) lap=25 point=0 t=83.619 et=2297.418</Score>
+<Score et="2298.5">Arlindo TC(10) lap=24 point=0 t=87.809 et=2298.430</Score>
+<Score et="2305.1">Marco Frediani(21) lap=24 point=0 t=86.536 et=2305.060</Score>
+<Score et="2308.3">Paulo Nunes(15) lap=25 point=1 t=20.460 et=2308.154</Score>
+<Score et="2309.8">Fabio Krek(19) lap=25 point=1 t=20.357 et=2309.683</Score>
+<Score et="2311.8">Otavio Augusto(11) lap=24 point=1 t=21.291 et=2311.695</Score>
+<Score et="2317.9">Marcio Medeiros(17) lap=25 point=1 t=20.375 et=2317.792</Score>
+<Score et="2326.6">Marco Frediani(21) lap=24 point=1 t=21.408 et=2326.469</Score>
+<Score et="2335.4">Pechito Ernst(7) lap=24 point=2 t=64.705 et=2335.265</Score>
+<Score et="2336.1">Alisson Zanoni(2) lap=24 point=2 t=64.118 et=2335.980</Score>
+<Score et="2339.4">Tadeu Costa(20) lap=25 point=2 t=62.920 et=2339.333</Score>
+<Score et="2350.9">Paulo Nunes(15) lap=25 point=2 t=63.040 et=2350.734</Score>
+<Score et="2352.4">Fabio Krek(19) lap=25 point=2 t=62.955 et=2352.281</Score>
+<Score et="2355.3">Pechito Ernst(7) lap=25 point=0 t=84.654 et=2355.214</Score>
+<Score et="2356.0">Alisson Zanoni(2) lap=25 point=0 t=84.092 et=2355.955</Score>
+<Score et="2356.6">Otavio Augusto(11) lap=24 point=2 t=66.101 et=2356.505</Score>
+<Score et="2359.0">Tadeu Costa(20) lap=26 point=0 t=82.466 et=2358.880</Score>
+<Score et="2361.2">Marcio Medeiros(17) lap=25 point=2 t=63.651 et=2361.069</Score>
+<Score et="2365.1">Arlindo TC(10) lap=24 point=2 t=66.596 et=2365.027</Score>
+<Score et="2370.6">Paulo Nunes(15) lap=26 point=0 t=82.827 et=2370.520</Score>
+<Score et="2371.9">Fabio Krek(19) lap=26 point=0 t=82.531 et=2371.856</Score>
+<Score et="2373.9">Marco Frediani(21) lap=24 point=2 t=68.747 et=2373.808</Score>
+<Score et="2376.0">Pechito Ernst(7) lap=25 point=1 t=20.716 et=2375.929</Score>
+<Score et="2376.7">Alisson Zanoni(2) lap=25 point=1 t=20.678 et=2376.633</Score>
+<Score et="2377.0">Otavio Augusto(11) lap=25 point=0 t=86.530 et=2376.934</Score>
+<Score et="2379.3">Tadeu Costa(20) lap=26 point=1 t=20.280 et=2379.160</Score>
+<Score et="2380.9">Marcio Medeiros(17) lap=26 point=0 t=83.429 et=2380.847</Score>
+<Score et="2385.9">Arlindo TC(10) lap=25 point=0 t=86.853 et=2385.283</Score>
+<Score et="2391.2">Paulo Nunes(15) lap=26 point=1 t=20.497 et=2391.017</Score>
+<Score et="2392.3">Fabio Krek(19) lap=26 point=1 t=20.272 et=2392.128</Score>
+<Score et="2394.1">Marco Frediani(21) lap=25 point=0 t=88.912 et=2393.972</Score>
+<Score et="2398.2">Otavio Augusto(11) lap=25 point=1 t=21.134 et=2398.068</Score>
+<Score et="2401.5">Marcio Medeiros(17) lap=26 point=1 t=20.504 et=2401.350</Score>
+<Score et="2406.8">Arlindo TC(10) lap=25 point=1 t=21.455 et=2406.738</Score>
+<Score et="2415.8">Marco Frediani(21) lap=25 point=1 t=21.740 et=2415.713</Score>
+<Score et="2420.2">Pechito Ernst(7) lap=25 point=2 t=64.807 et=2420.020</Score>
+<Score et="2420.4">Alisson Zanoni(2) lap=25 point=2 t=64.360 et=2420.315</Score>
+<Score et="2422.1">Tadeu Costa(20) lap=26 point=2 t=63.131 et=2422.011</Score>
+<Score et="2434.2">Paulo Nunes(15) lap=26 point=2 t=63.516 et=2434.036</Score>
+<Score et="2434.9">Fabio Krek(19) lap=26 point=2 t=62.886 et=2434.743</Score>
+<Score et="2440.2">Pechito Ernst(7) lap=26 point=0 t=84.818 et=2440.031</Score>
+<Score et="2440.2">Alisson Zanoni(2) lap=26 point=0 t=84.148 et=2440.103</Score>
+<Score et="2442.1">Checkered for Tadeu Costa, laps=27/27, endET=2441.980469/2315.346924, crossedAfterTime=0</Score>
+<Score et="2442.1">Tadeu Costa(20) lap=27 point=0 t=83.101 et=2441.980</Score>
+<Score et="2443.2">Otavio Augusto(11) lap=25 point=2 t=66.084 et=2443.018</Score>
+<Score et="2445.0">Marcio Medeiros(17) lap=26 point=2 t=64.004 et=2444.850</Score>
+<Score et="2453.9">Paulo Nunes(15) lap=27 point=0 t=83.269 et=2453.789</Score>
+<Score et="2454.5">Fabio Krek(19) lap=27 point=0 t=82.594 et=2454.450</Score>
+<Score et="2460.9">Marco Frediani(21) lap=25 point=2 t=66.813 et=2460.786</Score>
+<Score et="2462.6">Pechito Ernst(7) lap=26 point=1 t=22.442 et=2462.473</Score>
+<Score et="2462.6">Alisson Zanoni(2) lap=26 point=1 t=22.406 et=2462.509</Score>
+<Score et="2463.5">Otavio Augusto(11) lap=26 point=0 t=86.500 et=2463.434</Score>
+<Score et="2464.7">Marcio Medeiros(17) lap=27 point=0 t=83.762 et=2464.609</Score>
+<Score et="2472.3">Arlindo TC(10) lap=26 point=0 t=86.906 et=2472.189</Score>
+<Score et="2481.3">Marco Frediani(21) lap=26 point=0 t=87.198 et=2481.171</Score>
+<Score et="2506.9">Alisson Zanoni(2) lap=26 point=2 t=66.696 et=2506.799</Score>
+<Score et="2507.6">Pechito Ernst(7) lap=26 point=2 t=67.333 et=2507.364</Score>
+<Score et="2526.9">Alisson Zanoni(2) lap=27 point=0 t=86.688 et=2526.792</Score>
+<Score et="2527.3">Pechito Ernst(7) lap=27 point=0 t=87.116 et=2527.148</Score>
+<Chat et="2550.0">Marco Frediani: so uma corrida hoje</Chat>
+<Chat et="2562.1">*** The server closed Interlagos</Chat>
+<Chat et="2567.6">*** The server opened Interlagos</Chat>
+</Stream>
+<MostLapsCompleted>27</MostLapsCompleted>
+<Driver>
+<Name>Tadeu Costa</Name>
+<SteamID>76561197986370815</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>REIZA_60.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Ben Suttor</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>60</CarNumber>
+<TeamName>Reiza Engineering</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>1</GridPos>
+<Position>1</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="215.3470" s1="25.1752" s2="42.4373" s3="19.5513" fuel="0.655">87.1638</Lap>
+<Lap num="2" p="1" et="302.5107" s1="20.1422" s2="42.4716" s3="19.4403" fuel="0.631">82.0541</Lap>
+<Lap num="3" p="1" et="384.5648" s1="20.1275" s2="42.2834" s3="19.5282" fuel="0.608">81.9391</Lap>
+<Lap num="4" p="1" et="466.5039" s1="20.0461" s2="42.3012" s3="19.4708" fuel="0.584">81.8181</Lap>
+<Lap num="5" p="1" et="548.3220" s1="20.1331" fuel="0.561">--.----</Lap>
+<Lap num="6" p="1" et="630.1699" s1="20.0447" s2="42.3874" s3="19.4630" fuel="0.533">81.8951</Lap>
+<Lap num="7" p="1" et="712.0651" s1="19.9800" s2="41.9510" s3="19.4087" fuel="0.510">81.3397</Lap>
+<Lap num="8" p="1" et="793.4047" s1="20.0281" s2="42.3796" s3="19.4321" fuel="0.486">81.8398</Lap>
+<Lap num="9" p="1" et="875.2446" s1="20.0184" s2="42.4936" s3="19.6011" fuel="0.463">82.1132</Lap>
+<Lap num="10" p="1" et="957.3577" s1="19.9359" s2="41.9982" s3="19.5122" fuel="0.439">81.4464</Lap>
+<Lap num="11" p="1" et="1038.8041" s1="20.0610" s2="42.1895" s3="19.3907" fuel="0.416">81.6412</Lap>
+<Lap num="12" p="1" et="1120.4453" s1="20.1702" s2="42.1560" s3="19.4722" fuel="0.392">81.7983</Lap>
+<Lap num="13" p="1" et="1202.2437" s1="20.1361" s2="42.4030" s3="19.6124" fuel="0.369">82.1515</Lap>
+<Lap num="14" p="1" et="1284.3951" s1="20.5109" s2="42.6449" s3="19.5208" fuel="0.345">82.6765</Lap>
+<Lap num="15" p="1" et="1367.0717" s1="20.1046" s2="42.4891" s3="19.6881" fuel="0.318">82.2819</Lap>
+<Lap num="16" p="1" et="1449.3535" s1="20.3073" s2="42.4198" s3="19.5031" fuel="0.294">82.2301</Lap>
+<Lap num="17" p="1" et="1531.5836" s1="20.1355" s2="42.5981" s3="19.4651" fuel="0.271">82.1987</Lap>
+<Lap num="18" p="1" et="1613.7823" s1="20.2218" s2="42.6949" s3="19.5292" fuel="0.247">82.4459</Lap>
+<Lap num="19" p="1" et="1696.2283" s1="20.2455" s2="42.6633" s3="19.5522" fuel="0.224">82.4611</Lap>
+<Lap num="20" p="1" et="1778.6893" s1="21.4252" s2="42.7557" s3="19.5846" fuel="0.200">83.7655</Lap>
+<Lap num="21" p="1" et="1862.4548" s1="20.2092" s2="42.7877" s3="19.8727" fuel="0.176">82.8696</Lap>
+<Lap num="22" p="1" et="1945.3245" s1="20.3848" s2="42.9967" s3="19.6616" fuel="0.153">83.0431</Lap>
+<Lap num="23" p="1" et="2028.3676" s1="20.2682" s2="42.9116" s3="19.6301" fuel="0.129">82.8099</Lap>
+<Lap num="24" p="1" et="2111.1775" s1="20.3223" s2="42.6855" s3="19.4922" fuel="0.102">82.5000</Lap>
+<Lap num="25" p="1" et="2193.6775" s1="20.3564" s2="42.7568" s3="19.6230" fuel="0.078">82.7363</Lap>
+<Lap num="26" p="1" et="2276.4138" s1="20.2139" s2="42.7058" s3="19.5464" fuel="0.055">82.4661</Lap>
+<Lap num="27" p="1" et="2358.8799" s1="20.2800" s2="42.8508" s3="19.9697" fuel="0.031">83.1006</Lap>
+<BestLapTime>81.3397</BestLapTime>
+<FinishTime>2226.6335</FinishTime>
+<Laps>27</Laps>
+<LapsLed>27</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fabio Krek</Name>
+<SteamID>76561198075838855</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>AJR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Stefan Meyer</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>JLM Racing V10</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>2</GridPos>
+<Position>3</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="215.3470" s1="25.4887" s2="42.6295" s3="19.6229" fuel="0.682">87.7410</Lap>
+<Lap num="2" p="2" et="303.0880" s1="20.4049" s2="42.2480" s3="19.5364" fuel="0.659">82.1893</Lap>
+<Lap num="3" p="3" et="385.2773" s1="20.1658" s2="43.6803" s3="19.4747" fuel="0.635">83.3208</Lap>
+<Lap num="4" p="3" et="468.5981" s1="20.2063" s2="42.3176" s3="19.5583" fuel="0.612">82.0822</Lap>
+<Lap num="5" p="2" et="550.6803" s1="20.1953" fuel="0.588">--.----</Lap>
+<Lap num="6" p="4" et="632.8565" s1="20.1799" s2="46.8019" s3="19.5890" fuel="0.565">86.5708</Lap>
+<Lap num="7" p="4" et="719.4273" s1="20.1655" s2="41.9538" s3="19.3374" fuel="0.541">81.4567</Lap>
+<Lap num="8" p="4" et="800.8840" s1="20.2422" s2="43.0568" s3="19.5590" fuel="0.518">82.8581</Lap>
+<Lap num="9" p="3" et="883.7421" s1="20.4586" s2="42.4305" s3="19.5366" fuel="0.494">82.4257</Lap>
+<Lap num="10" p="3" et="966.1677" s1="20.2568" s2="42.3176" s3="19.7477" fuel="0.471">82.3221</Lap>
+<Lap num="11" p="3" et="1048.4899" s1="20.5754" s2="42.4344" s3="19.7223" fuel="0.447">82.7322</Lap>
+<Lap num="12" p="3" et="1131.2220" s1="20.1904" s2="42.2429" s3="19.7441" fuel="0.424">82.1775</Lap>
+<Lap num="13" p="3" et="1213.3995" s1="20.5059" s2="42.6320" s3="19.6786" fuel="0.400">82.8164</Lap>
+<Lap num="14" p="3" et="1296.2159" s1="20.3826" s2="42.2894" s3="19.5497" fuel="0.376">82.2217</Lap>
+<Lap num="15" p="3" et="1378.4376" s1="20.2874" s2="42.6362" s3="19.5842" fuel="0.353">82.5078</Lap>
+<Lap num="16" p="3" et="1460.9454" s1="20.3374" s2="42.5494" s3="19.6276" fuel="0.329">82.5144</Lap>
+<Lap num="17" p="3" et="1543.4598" s1="20.5288" s2="42.6248" s3="19.6169" fuel="0.306">82.7705</Lap>
+<Lap num="18" p="3" et="1626.2303" s1="20.1859" s2="42.7549" s3="19.7960" fuel="0.282">82.7368</Lap>
+<Lap num="19" p="3" et="1708.9672" s1="20.3440" s2="42.7487" s3="19.6293" fuel="0.259">82.7219</Lap>
+<Lap num="20" p="3" et="1791.6891" s1="20.3810" s2="42.8594" s3="19.6683" fuel="0.235">82.9087</Lap>
+<Lap num="21" p="3" et="1874.5978" s1="20.4279" s2="42.9202" s3="19.6284" fuel="0.212">82.9764</Lap>
+<Lap num="22" p="3" et="1957.5742" s1="20.6809" s2="42.6880" s3="19.7590" fuel="0.192">83.1279</Lap>
+<Lap num="23" p="3" et="2040.7021" s1="20.3960" s2="42.7605" s3="19.7075" fuel="0.169">82.8640</Lap>
+<Lap num="24" p="3" et="2123.5662" s1="20.3318" s2="42.8096" s3="19.6658" fuel="0.145">82.8071</Lap>
+<Lap num="25" p="3" et="2206.3733" s1="20.3591" s2="42.7708" s3="19.8223" fuel="0.122">82.9521</Lap>
+<Lap num="26" p="3" et="2289.3254" s1="20.3574" s2="42.5977" s3="19.5759" fuel="0.098">82.5310</Lap>
+<Lap num="27" p="3" et="2371.8564" s1="20.2717" s2="42.6147" s3="19.7073" fuel="0.075">82.5938</Lap>
+<BestLapTime>81.4567</BestLapTime>
+<FinishTime>2239.1033</FinishTime>
+<Laps>27</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Paulo Nunes</Name>
+<SteamID>76561198071178019</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>REIZA_60.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Ben Suttor</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>60</CarNumber>
+<TeamName>Reiza Engineering</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>3</GridPos>
+<Position>2</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="215.3470" s1="25.9254" s2="42.5504" s3="19.3651" fuel="0.710">87.8409</Lap>
+<Lap num="2" p="3" et="303.1878" s1="20.4176" fuel="0.686">--.----</Lap>
+<Lap num="3" p="2" et="385.6202" s1="20.1594" s2="42.8746" s3="19.7053" fuel="0.663">82.7393</Lap>
+<Lap num="4" p="2" et="468.3596" s1="20.0096" s2="41.9082" s3="19.6569" fuel="0.639">81.5747</Lap>
+<Lap num="5" p="3" et="549.9343" s1="20.2701" s2="42.3776" s3="20.4382" fuel="0.616">83.0860</Lap>
+<Lap num="6" p="2" et="633.0203" s1="20.1445" s2="42.8084" s3="19.7588" fuel="0.592">82.7117</Lap>
+<Lap num="7" p="2" et="715.7319" s1="20.3942" s2="42.0700" s3="19.7653" fuel="0.569">82.2294</Lap>
+<Lap num="8" p="2" et="797.9614" s1="20.8398" s2="42.1313" s3="19.6761" fuel="0.541">82.6472</Lap>
+<Lap num="9" p="2" et="880.6086" s1="20.3026" s2="42.2040" s3="19.6967" fuel="0.518">82.2033</Lap>
+<Lap num="10" p="2" et="962.8119" s1="20.4307" s2="42.7857" s3="19.8364" fuel="0.494">83.0529</Lap>
+<Lap num="11" p="2" et="1045.8647" s1="20.3992" s2="42.1523" s3="19.6315" fuel="0.471">82.1830</Lap>
+<Lap num="12" p="2" et="1128.0477" s1="20.1863" s2="42.2235" s3="19.5229" fuel="0.447">81.9327</Lap>
+<Lap num="13" p="2" et="1209.9805" s1="20.3214" s2="42.3242" s3="19.7190" fuel="0.424">82.3646</Lap>
+<Lap num="14" p="2" et="1292.3451" s1="20.3544" s2="42.4281" s3="19.7714" fuel="0.400">82.5538</Lap>
+<Lap num="15" p="2" et="1374.8989" s1="20.2908" s2="42.3219" s3="19.8035" fuel="0.376">82.4161</Lap>
+<Lap num="16" p="2" et="1457.3151" s1="20.3392" s2="42.8026" s3="19.6635" fuel="0.349">82.8053</Lap>
+<Lap num="17" p="2" et="1540.1204" s1="20.4973" s2="42.2441" s3="19.7445" fuel="0.325">82.4860</Lap>
+<Lap num="18" p="2" et="1622.6063" s1="20.3590" s2="42.6475" s3="19.6521" fuel="0.302">82.6586</Lap>
+<Lap num="19" p="2" et="1705.2649" s1="20.3428" s2="42.4647" s3="19.6963" fuel="0.278">82.5038</Lap>
+<Lap num="20" p="2" et="1787.7687" s1="20.4888" s2="42.3182" s3="19.7517" fuel="0.255">82.5587</Lap>
+<Lap num="21" p="2" et="1870.3274" s1="20.4252" s2="42.4863" s3="19.7932" fuel="0.231">82.7047</Lap>
+<Lap num="22" p="2" et="1953.0321" s1="20.6083" s2="42.6099" s3="19.7749" fuel="0.208">82.9930</Lap>
+<Lap num="23" p="2" et="2036.0251" s1="20.6118" s2="42.9072" s3="20.2964" fuel="0.184">83.8154</Lap>
+<Lap num="24" p="2" et="2119.8406" s1="21.8826" s2="42.7424" s3="19.7036" fuel="0.161">84.3286</Lap>
+<Lap num="25" p="2" et="2204.1692" s1="20.3953" s2="43.3931" s3="19.7361" fuel="0.137">83.5244</Lap>
+<Lap num="26" p="2" et="2287.6936" s1="20.4604" s2="42.5798" s3="19.7864" fuel="0.110">82.8267</Lap>
+<Lap num="27" p="2" et="2370.5203" s1="20.4971" s2="43.0186" s3="19.7532" fuel="0.086">83.2688</Lap>
+<BestLapTime>81.5747</BestLapTime>
+<FinishTime>2238.4421</FinishTime>
+<Laps>27</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=3,ABS=1</ControlAndAids>
+<ControlAndAids startLap="2" endLap="27">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marcio Medeiros</Name>
+<SteamID>76561198260620054</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>VX_8.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Jim Balas</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>8</CarNumber>
+<TeamName>VX Endurance</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>4</GridPos>
+<Position>4</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="215.3470" s1="26.7104" s2="42.9718" s3="19.5956" fuel="0.659">89.2778</Lap>
+<Lap num="2" p="4" et="304.6248" s1="20.1664" s2="42.7146" s3="19.8249" fuel="0.635">82.7058</Lap>
+<Lap num="3" p="4" et="387.3306" s1="20.3312" s2="42.7004" s3="19.6278" fuel="0.612">82.6595</Lap>
+<Lap num="4" p="4" et="469.9901" s1="20.2404" s2="42.5266" s3="19.5891" fuel="0.588">82.3560</Lap>
+<Lap num="5" p="4" et="552.3461" s1="20.2988" s2="42.6537" s3="19.6537" fuel="0.565">82.6063</Lap>
+<Lap num="6" p="3" et="634.9524" s1="20.1060" s2="43.5886" s3="19.6023" fuel="0.537">83.2969</Lap>
+<Lap num="7" p="3" et="718.2493" s1="20.2598" s2="42.6387" s3="19.5861" fuel="0.514">82.4846</Lap>
+<Lap num="8" p="3" et="800.7339" s1="20.1946" s2="42.9996" s3="19.7809" fuel="0.490">82.9750</Lap>
+<Lap num="9" p="4" et="883.7089" s1="20.6088" s2="42.9870" s3="19.5878" fuel="0.467">83.1837</Lap>
+<Lap num="10" p="4" et="966.8926" s1="20.1364" s2="42.4738" s3="19.5436" fuel="0.443">82.1537</Lap>
+<Lap num="11" p="4" et="1049.0463" s1="20.1638" s2="42.9916" s3="19.5935" fuel="0.420">82.7489</Lap>
+<Lap num="12" p="4" et="1131.7952" s1="20.2578" s2="42.6866" s3="19.5973" fuel="0.396">82.5417</Lap>
+<Lap num="13" p="4" et="1214.3369" s1="20.1840" s2="42.8489" s3="19.8320" fuel="0.373">82.8649</Lap>
+<Lap num="14" p="4" et="1297.2018" s1="20.1913" s2="42.7583" s3="19.5970" fuel="0.349">82.5466</Lap>
+<Lap num="15" p="4" et="1379.7484" s1="20.1648" s2="42.9447" s3="19.6620" fuel="0.322">82.7715</Lap>
+<Lap num="16" p="4" et="1462.5199" s1="20.4133" s2="43.1526" s3="19.8108" fuel="0.298">83.3767</Lap>
+<Lap num="17" p="4" et="1545.8966" s1="20.3613" s2="43.0040" s3="19.7499" fuel="0.275">83.1152</Lap>
+<Lap num="18" p="4" et="1629.0118" s1="20.2998" s2="43.1444" s3="19.7345" fuel="0.251">83.1787</Lap>
+<Lap num="19" p="4" et="1712.1906" s1="20.2806" s2="43.0441" s3="19.6931" fuel="0.227">83.0178</Lap>
+<Lap num="20" p="4" et="1795.2084" s1="20.3440" s2="43.1290" s3="19.7563" fuel="0.204">83.2294</Lap>
+<Lap num="21" p="4" et="1878.4377" s1="20.2699" s2="43.3855" s3="19.6992" fuel="0.180">83.3546</Lap>
+<Lap num="22" p="4" et="1961.7924" s1="20.2815" s2="43.4043" s3="20.8015" fuel="0.157">84.4873</Lap>
+<Lap num="23" p="4" et="2046.2797" s1="20.9052" s2="43.4194" s3="19.7876" fuel="0.133">84.1122</Lap>
+<Lap num="24" p="4" et="2130.3918" s1="20.3750" s2="43.3662" s3="19.6655" fuel="0.110">83.4067</Lap>
+<Lap num="25" p="4" et="2213.7986" s1="20.3936" s2="43.3652" s3="19.8604" fuel="0.086">83.6191</Lap>
+<Lap num="26" p="4" et="2297.4177" s1="20.3745" s2="43.2766" s3="19.7778" fuel="0.059">83.4290</Lap>
+<Lap num="27" p="4" et="2380.8467" s1="20.5037" s2="43.5000" s3="19.7585" fuel="0.035">83.7622</Lap>
+<BestLapTime>82.1537</BestLapTime>
+<FinishTime>2249.2620</FinishTime>
+<Laps>27</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Alisson Zanoni</Name>
+<SteamID>76561197983685876</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>VX_8.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Jim Balas</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>8</CarNumber>
+<TeamName>VX Endurance</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>6</GridPos>
+<Position>5</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="215.3470" s1="29.8495" s2="45.4508" s3="27.0630" fuel="0.710" pit="1">102.3634</Lap>
+<Lap num="2" p="9" et="317.7104" s1="30.9582" s2="43.2171" s3="19.9201" fuel="0.686">94.0954</Lap>
+<Lap num="3" p="9" et="411.8058" s1="20.6079" s2="42.8447" s3="19.8914" fuel="0.663">83.3440</Lap>
+<Lap num="4" p="9" et="495.1498" s1="20.7802" s2="42.8217" s3="19.8826" fuel="0.639">83.4845</Lap>
+<Lap num="5" p="9" et="578.6343" s1="20.6671" s2="42.7416" s3="19.6636" fuel="0.616">83.0723</Lap>
+<Lap num="6" p="9" et="661.7065" s1="20.6924" s2="42.6990" s3="19.7432" fuel="0.592">83.1346</Lap>
+<Lap num="7" p="9" et="744.8411" s1="26.0267" s2="43.0755" s3="19.7264" fuel="0.569">88.8286</Lap>
+<Lap num="8" p="9" et="833.6697" s1="21.6395" s2="43.0700" s3="20.4419" fuel="0.545">85.1514</Lap>
+<Lap num="9" p="9" et="918.8212" s1="21.2830" s2="42.5938" s3="19.8221" fuel="0.522">83.6989</Lap>
+<Lap num="10" p="9" et="1002.5201" s1="20.5594" s2="43.3616" s3="19.8224" fuel="0.498">83.7433</Lap>
+<Lap num="11" p="8" et="1086.2634" s1="21.0043" s2="44.2156" s3="19.9247" fuel="0.475">85.1445</Lap>
+<Lap num="12" p="8" et="1171.4080" s1="21.0043" s2="43.1760" s3="19.8822" fuel="0.451">84.0625</Lap>
+<Lap num="13" p="8" et="1255.4705" s1="20.6095" s2="43.3467" s3="19.8439" fuel="0.427">83.8000</Lap>
+<Lap num="14" p="7" et="1339.2705" s1="20.7762" s2="44.5847" s3="20.3010" fuel="0.404">85.6620</Lap>
+<Lap num="15" p="7" et="1424.9325" s1="21.2251" s2="43.5735" s3="19.8623" fuel="0.380">84.6609</Lap>
+<Lap num="16" p="6" et="1509.5934" s1="21.2244" s2="45.3538" s3="19.9534" fuel="0.357">86.5315</Lap>
+<Lap num="17" p="6" et="1596.1249" s1="21.2372" s2="43.5327" s3="19.9308" fuel="0.333">84.7007</Lap>
+<Lap num="18" p="6" et="1680.8256" s1="21.0037" s2="43.5201" s3="19.9829" fuel="0.310">84.5067</Lap>
+<Lap num="19" p="6" et="1765.3323" s1="20.8134" s2="43.3251" s3="19.9408" fuel="0.286">84.0792</Lap>
+<Lap num="20" p="6" et="1849.4115" s1="21.3356" s2="43.5309" s3="19.9752" fuel="0.263">84.8417</Lap>
+<Lap num="21" p="6" et="1934.2532" s1="20.9817" s2="43.5197" s3="19.8638" fuel="0.239">84.3651</Lap>
+<Lap num="22" p="6" et="2018.6183" s1="20.9393" s2="43.3809" s3="20.0063" fuel="0.216">84.3265</Lap>
+<Lap num="23" p="6" et="2102.9448" s1="21.3916" s2="43.4746" s3="19.8577" fuel="0.192">84.7239</Lap>
+<Lap num="24" p="6" et="2187.6687" s1="20.8755" s2="43.4216" s3="19.8967" fuel="0.169">84.1938</Lap>
+<Lap num="25" p="6" et="2271.8625" s1="20.6875" s2="43.4302" s3="19.9746" fuel="0.145">84.0923</Lap>
+<Lap num="26" p="6" et="2355.9548" s1="20.6785" s2="43.6819" s3="19.7881" fuel="0.122">84.1484</Lap>
+<Lap num="27" p="5" et="2440.1033" s1="22.4055" s2="44.2905" s3="19.9922" fuel="0.098">86.6882</Lap>
+<BestLapTime>83.0723</BestLapTime>
+<FinishTime>2311.4446</FinishTime>
+<Laps>27</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=3,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="2" endLap="27">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Pechito Ernst</Name>
+<SteamID>76561198243045054</SteamID>
+<RaceRank>0.06</RaceRank>
+<Connected>1</Connected>
+<VehFile>VX_8.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Jim Balas</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>8</CarNumber>
+<TeamName>VX Endurance</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>5</GridPos>
+<Position>6</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="215.3470" s1="27.6385" s2="43.4012" s3="20.2519" fuel="0.678">91.2915</Lap>
+<Lap num="2" p="5" et="306.6385" s1="20.6945" s2="43.1375" s3="19.8423" fuel="0.655">83.6743</Lap>
+<Lap num="3" p="5" et="390.3128" s1="20.4283" s2="42.9028" s3="20.0829" fuel="0.635">83.4140</Lap>
+<Lap num="4" p="5" et="473.7268" s1="25.3498" s2="43.0717" s3="19.8586" fuel="0.612">88.2802</Lap>
+<Lap num="5" p="5" et="562.0070" s1="20.4543" s2="42.9808" s3="19.8851" fuel="0.584">83.3202</Lap>
+<Lap num="6" p="5" et="645.3271" s1="20.5762" s2="43.0675" s3="19.9202" fuel="0.561">83.5639</Lap>
+<Lap num="7" p="5" et="728.8911" s1="20.5018" s2="43.1576" s3="19.9685" fuel="0.537">83.6279</Lap>
+<Lap num="8" p="5" et="812.5189" s1="20.5079" s2="43.0410" s3="19.8069" fuel="0.514">83.3559</Lap>
+<Lap num="9" p="5" et="895.8748" s1="20.4788" s2="42.9282" s3="20.0618" fuel="0.490">83.4688</Lap>
+<Lap num="10" p="5" et="979.3436" s1="20.4448" s2="43.1483" s3="19.9080" fuel="0.467">83.5011</Lap>
+<Lap num="11" p="5" et="1062.8447" s1="20.6654" s2="42.8838" s3="19.8562" fuel="0.443">83.4054</Lap>
+<Lap num="12" p="5" et="1146.2501" s1="20.6132" s2="42.8593" s3="19.9227" fuel="0.420">83.3951</Lap>
+<Lap num="13" p="5" et="1229.6453" s1="20.6082" s2="44.1118" s3="20.0763" fuel="0.400">84.7963</Lap>
+<Lap num="14" p="5" et="1314.4415" s1="20.6571" s2="49.8662" s3="20.1392" fuel="0.376">90.6625</Lap>
+<Lap num="15" p="5" et="1405.1040" s1="20.7386" s2="44.4098" s3="20.0883" fuel="0.353">85.2367</Lap>
+<Lap num="16" p="5" et="1490.3407" s1="20.6400" s2="43.7369" s3="19.9602" fuel="0.329">84.3372</Lap>
+<Lap num="17" p="5" et="1574.6779" s1="20.6785" s2="43.5262" s3="20.1064" fuel="0.306">84.3112</Lap>
+<Lap num="18" p="5" et="1658.9890" s1="20.7188" s2="46.1520" s3="20.0605" fuel="0.282">86.9313</Lap>
+<Lap num="19" p="5" et="1745.9203" s1="20.6859" s2="43.8490" s3="19.8551" fuel="0.259">84.3900</Lap>
+<Lap num="20" p="5" et="1830.3103" s1="20.6226" s2="43.6274" s3="20.0991" fuel="0.235">84.3491</Lap>
+<Lap num="21" p="5" et="1914.6594" s1="20.9778" s2="53.5931" s3="20.1963" fuel="0.212">94.7672</Lap>
+<Lap num="22" p="5" et="2009.4266" s1="20.9136" s2="49.7452" s3="20.1899" fuel="0.188">90.8488</Lap>
+<Lap num="23" p="5" et="2100.2754" s1="20.8274" s2="44.1252" s3="20.1426" fuel="0.165">85.0952</Lap>
+<Lap num="24" p="5" et="2185.3706" s1="20.9011" s2="44.2400" s3="20.0483" fuel="0.145">85.1895</Lap>
+<Lap num="25" p="5" et="2270.5601" s1="20.9031" s2="43.8022" s3="19.9482" fuel="0.122">84.6536</Lap>
+<Lap num="26" p="5" et="2355.2136" s1="20.7156" s2="44.0911" s3="20.0112" fuel="0.098">84.8179</Lap>
+<Lap num="27" p="6" et="2440.0315" s1="22.4419" s2="44.8906" s3="19.7839" fuel="0.075">87.1165</Lap>
+<BestLapTime>83.3202</BestLapTime>
+<FinishTime>2311.8010</FinishTime>
+<Laps>27</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=3,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="2" endLap="13">PlayerControl,TC=2,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="14" endLap="27">PlayerControl,TC=3,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Otavio Augusto</Name>
+<SteamID>76561198864795077</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>PADOLE_21.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>AJR: Paulo Frazao</VehName>
+<CarType>Powertec V8</CarType>
+<CarClass>Powertec V8</CarClass>
+<CarNumber>21</CarNumber>
+<TeamName>Padole Racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>8</GridPos>
+<Position>7</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="215.3470" s1="28.0916" s2="44.8952" s3="20.5535" fuel="0.663">93.5403</Lap>
+<Lap num="2" p="7" et="308.8872" s1="21.3789" s2="44.2856" s3="20.4503" fuel="0.639">86.1148</Lap>
+<Lap num="3" p="7" et="395.0020" s1="21.1431" s2="44.6322" s3="21.0662" fuel="0.616">86.8415</Lap>
+<Lap num="4" p="7" et="481.8435" s1="21.0910" s2="43.7484" s3="20.3424" fuel="0.592">85.1819</Lap>
+<Lap num="5" p="7" et="567.0254" s1="21.0297" s2="43.7427" s3="20.3699" fuel="0.573">85.1422</Lap>
+<Lap num="6" p="7" et="652.1676" s1="20.7661" s2="43.7164" s3="20.1012" fuel="0.549">84.5836</Lap>
+<Lap num="7" p="7" et="736.7512" s1="20.9853" s2="44.3040" s3="20.1823" fuel="0.525">85.4715</Lap>
+<Lap num="8" p="6" et="822.2227" s1="20.9676" s2="44.2441" s3="20.3812" fuel="0.502">85.5930</Lap>
+<Lap num="9" p="6" et="907.8157" s1="21.7836" s2="43.8788" s3="20.2480" fuel="0.478">85.9105</Lap>
+<Lap num="10" p="6" et="993.7262" s1="21.0511" s2="43.8856" s3="20.9093" fuel="0.459">85.8459</Lap>
+<Lap num="11" p="6" et="1079.5721" s1="21.5021" s2="43.6978" s3="20.4070" fuel="0.435">85.6068</Lap>
+<Lap num="12" p="6" et="1165.1790" s1="21.1384" s2="44.5690" s3="20.5433" fuel="0.412">86.2507</Lap>
+<Lap num="13" p="6" et="1251.4297" s1="21.0863" fuel="0.388">--.----</Lap>
+<Lap num="14" p="6" et="1336.9741" s1="21.3749" s2="44.1016" s3="20.3308" fuel="0.365">85.8073</Lap>
+<Lap num="15" p="6" et="1422.7814" s1="21.2032" s2="45.0956" s3="20.4187" fuel="0.345">86.7175</Lap>
+<Lap num="16" p="7" et="1509.4989" s1="21.3207" s2="45.6285" s3="20.4386" fuel="0.322">87.3878</Lap>
+<Lap num="17" p="7" et="1596.8867" s1="21.5393" s2="44.6931" s3="20.4404" fuel="0.298">86.6729</Lap>
+<Lap num="18" p="7" et="1683.5596" s1="21.2026" s2="44.4033" s3="20.5211" fuel="0.275">86.1271</Lap>
+<Lap num="19" p="7" et="1769.6866" s1="21.4972" s2="44.6455" s3="20.4417" fuel="0.255">86.5844</Lap>
+<Lap num="20" p="7" et="1856.2710" s1="21.2383" s2="44.6407" s3="20.2938" fuel="0.231">86.1729</Lap>
+<Lap num="21" p="7" et="1942.4438" s1="21.3923" s2="45.2479" s3="20.4226" fuel="0.208">87.0629</Lap>
+<Lap num="22" p="7" et="2029.5067" s1="21.3956" s2="44.8469" s3="20.4382" fuel="0.188">86.6808</Lap>
+<Lap num="23" p="7" et="2116.1875" s1="21.3491" s2="44.8196" s3="20.4163" fuel="0.165">86.5850</Lap>
+<Lap num="24" p="7" et="2202.7725" s1="21.6240" s2="45.5820" s3="20.4255" fuel="0.141">87.6316</Lap>
+<Lap num="25" p="7" et="2290.4041" s1="21.2913" s2="44.8101" s3="20.4287" fuel="0.122">86.5300</Lap>
+<Lap num="26" p="7" et="2376.9341" s1="21.1335" s2="44.9504" s3="20.4160" fuel="0.098">86.5000</Lap>
+<BestLapTime>84.5836</BestLapTime>
+<FinishTime>2248.0872</FinishTime>
+<Laps>26</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,TC=3,ABS=1,Clutch,AutoBlip,DrivingLine</ControlAndAids>
+<ControlAndAids startLap="6" endLap="9">PlayerControl,TC=2,ABS=1,Clutch,AutoBlip,DrivingLine</ControlAndAids>
+<ControlAndAids startLap="10" endLap="10">PlayerControl,TC=3,ABS=1,Clutch,AutoBlip,DrivingLine</ControlAndAids>
+<ControlAndAids startLap="11" endLap="17">PlayerControl,TC=2,ABS=1,Clutch,AutoBlip,DrivingLine</ControlAndAids>
+<ControlAndAids startLap="18" endLap="26">PlayerControl,TC=3,ABS=1,Clutch,AutoBlip,DrivingLine</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Arlindo TC</Name>
+<SteamID>76561198024477204</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>AJR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Stefan Meyer</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>JLM Racing V10</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>7</GridPos>
+<Position>8</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="215.3470" s1="27.8434" s2="44.8792" s3="20.7013" fuel="0.608">93.4239</Lap>
+<Lap num="2" p="6" et="308.7708" s1="21.2750" s2="44.3324" s3="20.3185" fuel="0.584">85.9259</Lap>
+<Lap num="3" p="6" et="394.6967" s1="21.1013" s2="44.2200" s3="20.1892" fuel="0.561">85.5105</Lap>
+<Lap num="4" p="6" et="480.2072" s1="21.0950" s2="44.0906" s3="20.3142" fuel="0.537">85.4998</Lap>
+<Lap num="5" p="6" et="565.7071" s1="20.9413" s2="43.8539" s3="20.2203" fuel="0.514">85.0155</Lap>
+<Lap num="6" p="6" et="650.7226" s1="21.4764" s2="44.0244" s3="20.0943" fuel="0.490">85.5951</Lap>
+<Lap num="7" p="6" et="736.3177" s1="21.3619" s2="44.1559" s3="20.1738" fuel="0.467">85.6916</Lap>
+<Lap num="8" p="7" et="822.0093" s1="21.0727" s2="44.7318" s3="20.2272" fuel="0.439">86.0316</Lap>
+<Lap num="9" p="7" et="908.0409" s1="21.6879" s2="44.8729" fuel="0.416">--.----</Lap>
+<Lap num="10" p="7" et="995.0463" s1="21.1060" s2="43.9312" s3="20.6456" fuel="0.392">85.6827</Lap>
+<Lap num="11" p="7" et="1080.7290" s1="21.3159" s2="44.7367" s3="20.5532" fuel="0.369">86.6058</Lap>
+<Lap num="12" p="7" et="1167.3348" s1="21.1720" s2="44.2697" s3="20.2191" fuel="0.345">85.6608</Lap>
+<Lap num="13" p="7" et="1252.9956" s1="20.8970" s2="44.6072" s3="20.2533" fuel="0.318">85.7574</Lap>
+<Lap num="14" p="8" et="1338.7531" s1="21.2589" s2="46.4463" s3="20.3042" fuel="0.294">88.0094</Lap>
+<Lap num="15" p="9" et="1426.7625" s1="21.4513" fuel="0.271">86.4634</Lap>
+<Lap num="16" p="8" et="1513.2258" s1="21.2292" s2="44.7443" s3="20.2979" fuel="0.247">86.2714</Lap>
+<Lap num="17" p="8" et="1599.4972" s1="20.9868" s2="44.6489" s3="20.2283" fuel="0.224">85.8640</Lap>
+<Lap num="18" p="8" et="1685.3612" s1="21.2200" s2="44.9438" s3="20.2488" fuel="0.200">86.4126</Lap>
+<Lap num="19" p="9" et="1771.7738" s1="20.8774" fuel="0.173">86.3467</Lap>
+<Lap num="20" p="8" et="1858.1205" s1="21.0298" s2="44.9545" s3="20.2825" fuel="0.149">86.2667</Lap>
+<Lap num="21" p="8" et="1944.3872" s1="22.7136" s2="45.0172" s3="20.3646" fuel="0.125">88.0955</Lap>
+<Lap num="22" p="8" et="2032.4827" fuel="0.102">86.9802</Lap>
+<Lap num="23" p="8" et="2119.4629" s1="22.6619" s2="47.9504" s3="20.5466" fuel="0.078">91.1589</Lap>
+<Lap num="24" p="8" et="2210.6218" s1="21.3894" s2="45.2646" s3="21.1545" fuel="0.055">87.8086</Lap>
+<Lap num="25" p="8" et="2298.4304" fuel="0.031">86.8530</Lap>
+<Lap num="26" p="9" et="2385.2834" s1="21.4548" fuel="0.008">86.9055</Lap>
+<BestLapTime>85.0155</BestLapTime>
+<FinishTime>2256.8420</FinishTime>
+<Laps>26</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="26">PlayerControl,TC=3,ABS=1,Clutch,AutoBlip,DrivingLine</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marco Frediani</Name>
+<SteamID>76561198122926368</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>AJR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Stefan Meyer</VehName>
+<CarType>Judd V10</CarType>
+<CarClass>Judd V10</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>JLM Racing V10</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>9</GridPos>
+<Position>9</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="215.3470" s1="28.3560" s2="45.9999" s3="20.1310" fuel="0.659">94.4870</Lap>
+<Lap num="2" p="8" et="309.8340" s1="21.2176" s2="44.3764" s3="19.9909" fuel="0.635">85.5849</Lap>
+<Lap num="3" p="8" et="395.4189" s1="20.7351" s2="48.1886" s3="20.2737" fuel="0.612">89.1974</Lap>
+<Lap num="4" p="8" et="484.6163" s1="21.2628" s2="44.7235" s3="20.2112" fuel="0.588">86.1975</Lap>
+<Lap num="5" p="8" et="570.8138" s1="21.0109" s2="44.4733" s3="20.1343" fuel="0.569">85.6185</Lap>
+<Lap num="6" p="8" et="656.4323" s1="21.3110" s2="43.9729" s3="20.1324" fuel="0.545">85.4163</Lap>
+<Lap num="7" p="8" et="741.8486" s1="21.0673" s2="44.3632" s3="20.2360" fuel="0.522">85.6666</Lap>
+<Lap num="8" p="8" et="827.5152" s1="22.4680" s2="43.9053" s3="20.2272" fuel="0.498">86.6006</Lap>
+<Lap num="9" p="8" et="914.1158" s1="21.1711" s2="44.8243" s3="20.0352" fuel="0.475">86.0306</Lap>
+<Lap num="10" p="8" et="1000.1464" s1="21.1278" s2="44.3730" s3="20.0640" fuel="0.451">85.5648</Lap>
+<Lap num="11" p="9" et="1085.7112" s1="21.4415" s2="44.7246" s3="20.0709" fuel="0.427">86.2371</Lap>
+<Lap num="12" p="9" et="1171.9482" s1="20.9600" s2="44.0073" s3="23.1747" fuel="0.404">88.1420</Lap>
+<Lap num="13" p="9" et="1260.0902" s1="21.3832" s2="44.0537" s3="20.1033" fuel="0.384">85.5402</Lap>
+<Lap num="14" p="9" et="1345.6304" s1="21.2751" s2="44.5513" s3="20.0363" fuel="0.361">85.8627</Lap>
+<Lap num="15" p="9" et="1431.4930" s1="21.0663" s2="44.8074" s3="20.2842" fuel="0.337">86.1578</Lap>
+<Lap num="16" p="9" et="1517.6509" s1="21.3411" s2="44.5833" s3="20.0607" fuel="0.314">85.9850</Lap>
+<Lap num="17" p="9" et="1603.6359" s1="21.2910" s2="44.1222" s3="20.1001" fuel="0.290">85.5133</Lap>
+<Lap num="18" p="9" et="1689.1492" s1="21.2306" s2="44.3888" s3="20.1384" fuel="0.267">85.7578</Lap>
+<Lap num="19" p="9" et="1774.9070" s1="26.3315" s2="44.6418" s3="20.1447" fuel="0.243">91.1180</Lap>
+<Lap num="20" p="9" et="1866.0250" s1="21.8440" s2="48.2958" s3="20.2526" fuel="0.220">90.3923</Lap>
+<Lap num="21" p="9" et="1956.4174" s1="22.3462" s2="46.3378" s3="20.5507" fuel="0.196">89.2346</Lap>
+<Lap num="22" p="9" et="2045.6520" s1="21.9391" s2="44.5793" s3="20.2153" fuel="0.176">86.7338</Lap>
+<Lap num="23" p="9" et="2132.3857" s1="21.1763" s2="44.7456" s3="20.2170" fuel="0.153">86.1389</Lap>
+<Lap num="24" p="9" et="2218.5247" s1="21.1804" s2="44.8552" s3="20.5000" fuel="0.129">86.5356</Lap>
+<Lap num="25" p="9" et="2305.0603" s1="21.4082" s2="47.3391" s3="20.1648" fuel="0.110">88.9121</Lap>
+<Lap num="26" p="9" et="2393.9724" s1="21.7405" s2="45.0728" s3="20.3850" fuel="0.086">87.1982</Lap>
+<BestLapTime>85.4163</BestLapTime>
+<FinishTime>2265.8237</FinishTime>
+<Laps>26</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="26">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>XTR Rodrigo Vicente</Name>
+<SteamID>76561198191626235</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>PINK_55.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>AJR: Rodrigo Vicente</VehName>
+<CarType>Chevy V8</CarType>
+<CarClass>Chevy V8</CarClass>
+<CarNumber>55</CarNumber>
+<TeamName>Pink Motorsport </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>10</GridPos>
+<Position>10</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>
