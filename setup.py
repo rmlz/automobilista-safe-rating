@@ -48,7 +48,7 @@ REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '0.0.1'
 
 # What packages are required for this module to be executed?
-REQUIRED = ['beautifulsoup4', 'pandas'
+REQUIRED = ['beautifulsoup4', 'pandas', 'lxml', 'pprint'
     # 'requests', 'maya', 'records',
 ]
 

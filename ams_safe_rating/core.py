@@ -6,12 +6,16 @@ Safe Rating Calculator for Game Automobilista's LOG Files.
 This script is under the MIT License - 2019.
 
 @author: Ramon Pinto de Barros
+@version: 0.0.1
+@license: MIT License
 """
 import os
 from datetime import date, datetime, timedelta
+from pprint import pprint
 from .helpers import xmlreader, createdb
 
 def calculator():
+	"Core function for calculating the Safety Rating for Automobilista."
 	PATH_CONFIG = {
 	        'logs': 'LOGS\\',
 	        'database': 'DB\\',
@@ -23,16 +27,18 @@ def calculator():
 
 	while True: #start loop
 	    while True:
-	        print('WELCOME')
-	        print('The result files below are ready for use')
+	        pprint("Welcome to the Safe Rating Calculator for Game Automobilista's LOG Files.")
+	        pprint("@author: Ramon Pinto de Barros")
+	        pprint("@version: 0.0.1")
+	        pprint("@license: MIT License")
 	        print('----------')
 	        try:
 	        	oslist =  os.listdir(PATH_CONFIG['logs'])
 	        	logfiles = [(oslist[i], i+1) for i in range(len(os.listdir(PATH_CONFIG['logs']))) if oslist[i].endswith('.xml')]
 	        	if len(logfiles) > 0:
-		        	print([('FILENAME', 'FILENUMBER')] + logfiles)
+		        	pprint([('FILENAME', 'FILENUMBER')] + logfiles)
 		        	print('----------')
-		        	print('The result files above are ready for use')
+		        	print('Select one of the log files above')
 		        else:
 		        	print("There's no LOGS in the LOGS folder.")
 		        	print("Please, add a copy of a AMS .xml log file to the folder")
@@ -121,7 +127,7 @@ def calculator():
 	                    number_dbs = len(files)
 	                    print('There are ' + str(number_dbs) + ' csv files on the directory')
 	                    print('Please, input the name of what csv file you want to open')
-	                    print(files)
+	                    pprint(files)
 	                    open_db = input('Open:')
 	                    if open_db.endswith('.csv') == False:
 	                        open_db = open_db + '.csv'

@@ -307,15 +307,15 @@ def xmlreader(database_path, result_file, db_file, track_dificulty):
     #Summing the Incident values into driver's object in database
     #It's important to set up the parameters before running the code
     if track_dificulty == 1:
-        QR_regen = 2
+        QR_regen = 0.5
     elif track_dificulty == 2:
-        QR_regen = 2.5
+        QR_regen = 0.75
     elif track_dificulty == 3:
-        QR_regen = 3
+        QR_regen = 1.0
     elif track_dificulty == 4:
-        QR_regen = 4
+        QR_regen = 1.2
     elif track_dificulty == 5:
-        QR_regen = 5.5
+        QR_regen = 1.3
     ###########--------PARAMETERS---------#############
     max_incidents = float(16) #Max log value for penalization
     startQR = float(10) #Start value of QualityRating. The value goes down
@@ -347,7 +347,7 @@ def xmlreader(database_path, result_file, db_file, track_dificulty):
             #print(incident)
         st_id = name_id_pos_stpos_laplist_fulltime_userid_bestlap_lapsled_finishstat_content[1][j]
         rated_incident = rate_for_incidents * incident
-        print(rated_incident, incident)
+        #print(rated_incident, incident)
         inc_dict_list.append({'steamID':st_id, 'incidents': round(rated_incident, 2)})
         incident_sum.append(incident)
         incident = float(0)
@@ -392,6 +392,7 @@ def xmlreader(database_path, result_file, db_file, track_dificulty):
     
     try: #THE DATABASE HAS ANY DATA!??!?!
         df = pd.read_csv(database_path + db_file,index_col=[0] )
+        df = df.transpose()
         df.to_csv('DB\\BACKUP\\' + db_file.replace('.csv','') + '_' + timestr + '.csv')
         print('BACKUP FILE WITH NAME' + db_file + '_' + timestr + ' HAS BEEN CREATED')
         print('Database "' + db_file + '" is being updated')
@@ -461,6 +462,7 @@ def xmlreader(database_path, result_file, db_file, track_dificulty):
             data[finalresultlist[i]['driver']+','+finalresultlist[i]['steamID'] +' delta'] = [0, data[finalresultlist[i]['driver']+','+finalresultlist[i]['steamID']][1] - data[finalresultlist[i]['driver']+','+finalresultlist[i]['steamID']][0]]
     
     df = pd.DataFrame(data, index = ['Start'] + ['Race '+ str(i+1) for i in range(len(data['dificulty'])-1)])    
+    df = df.transpose()
     print('Incidents, Done!')
     print('------------------------')
     df.to_csv(database_path + db_file)
