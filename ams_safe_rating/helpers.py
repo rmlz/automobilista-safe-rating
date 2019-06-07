@@ -392,11 +392,11 @@ def xmlreader(database_path, result_file, db_file, track_dificulty):
     
     try: #THE DATABASE HAS ANY DATA!??!?!
         df = pd.read_csv(database_path + db_file,index_col=[0] )
-        df = df.transpose()
         df.to_csv('DB\\BACKUP\\' + db_file.replace('.csv','') + '_' + timestr + '.csv')
         print('BACKUP FILE WITH NAME' + db_file + '_' + timestr + ' HAS BEEN CREATED')
         print('Database "' + db_file + '" is being updated')
         data = {}
+        df = df.transpose()
         for item in list(df):
             data[item] = list(df[item])
         

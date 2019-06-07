@@ -1,0 +1,2621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>F1BC Etapa Oficial</ServerName>
+<PlayerFile>DedicatedServer</PlayerFile>
+<DateTime>1552524546</DateTime>
+<TimeString>2019/03/13 20:49:06</TimeString>
+<Mod>reiza500.srs</Mod>
+<Season></Season>
+<TrackVenue>Santa Cruz do Sul</TrackVenue>
+<TrackCourse>Santa Cruz do Sul</TrackCourse>
+<TrackEvent>Santa Cruz do Sul</TrackEvent>
+<TrackLength>3325.3</TrackLength>
+<Game>Automobilista</Game>
+<GameVersion>v1.5.16</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="8042" download="8042">Custom</ConnectionType>
+<MOTD>f1bc.com</MOTD>
+<RaceLaps>0</RaceLaps>
+<RaceTime>50</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|CopaMarcas</VehiclesAllowed>
+<ParcFerme>1</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>255</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1552528105</DateTime>
+<TimeString>2019/03/13 21:48:25</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>50</Minutes>
+<Stream>
+<Incident et="87.7">Guilherme Secchi(0) reported contact (0.10) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="87.8">Marcelo Neiva(20) reported contact (0.06) with another vehicle Guilherme Secchi(0)</Incident>
+<Incident et="90.7">Arthur Targa(1) reported contact (0.10) with another vehicle Guilherme Secchi(0)</Incident>
+<Incident et="90.7">Guilherme Secchi(0) reported contact (0.13) with another vehicle Arthur Targa(1)</Incident>
+<Score et="97.8">Diego Freitas(4) lap=0 point=1 t=28.247 et=97.706</Score>
+<Score et="98.1">Jean Pierre(18) lap=0 point=1 t=28.584 et=98.042</Score>
+<Score et="98.6">Raphael Camelo(7) lap=0 point=1 t=28.996 et=98.454</Score>
+<Score et="98.8">Josias Neto(3) lap=0 point=1 t=29.234 et=98.692</Score>
+<Score et="99.0">Robson Radaell(10) lap=0 point=1 t=29.426 et=98.885</Score>
+<Score et="99.1">Bernardo Cardoso(5) lap=0 point=1 t=29.527 et=98.986</Score>
+<Score et="99.4">Bruno Fernandes(6) lap=0 point=1 t=29.800 et=99.258</Score>
+<Score et="99.5">Luiz de Melo(12) lap=0 point=1 t=29.968 et=99.427</Score>
+<Score et="100.0">Rafael Matta(8) lap=0 point=1 t=30.407 et=99.865</Score>
+<Score et="100.3">Joao Junior(2) lap=0 point=1 t=30.672 et=100.131</Score>
+<Score et="100.6">Juan Manuel Gomez(15) lap=0 point=1 t=31.005 et=100.464</Score>
+<Score et="101.0">Arthur Targa(1) lap=0 point=1 t=31.405 et=100.864</Score>
+<Score et="101.1">Marcelo Neiva(20) lap=0 point=1 t=31.525 et=100.983</Score>
+<Score et="102.2">Guilherme Secchi(0) lap=0 point=1 t=32.645 et=102.103</Score>
+<Score et="108.1">Eduardo Pehls(16) lap=0 point=1 t=38.555 et=108.013</Score>
+<Score et="142.9">Diego Freitas(4) lap=0 point=2 t=73.373 et=142.831</Score>
+<Score et="143.2">Jean Pierre(18) lap=0 point=2 t=73.626 et=143.085</Score>
+<Score et="143.7">Raphael Camelo(7) lap=0 point=2 t=74.071 et=143.529</Score>
+<Score et="144.2">Josias Neto(3) lap=0 point=2 t=74.660 et=144.118</Score>
+<Score et="144.6">Robson Radaell(10) lap=0 point=2 t=74.979 et=144.438</Score>
+<Score et="145.0">Bruno Fernandes(6) lap=0 point=2 t=75.409 et=144.868</Score>
+<Score et="145.3">Luiz de Melo(12) lap=0 point=2 t=75.754 et=145.213</Score>
+<Score et="145.5">Bernardo Cardoso(5) lap=0 point=2 t=75.933 et=145.391</Score>
+<Score et="146.1">Rafael Matta(8) lap=0 point=2 t=76.521 et=145.980</Score>
+<Score et="146.5">Joao Junior(2) lap=0 point=2 t=76.953 et=146.411</Score>
+<Score et="146.8">Juan Manuel Gomez(15) lap=0 point=2 t=77.256 et=146.715</Score>
+<Score et="147.2">Marcelo Neiva(20) lap=0 point=2 t=77.608 et=147.067</Score>
+<Score et="147.5">Arthur Targa(1) lap=0 point=2 t=77.897 et=147.356</Score>
+<Score et="149.4">Guilherme Secchi(0) lap=0 point=2 t=79.814 et=149.272</Score>
+<Score et="155.7">Eduardo Pehls(16) lap=0 point=2 t=86.093 et=155.552</Score>
+<Score et="161.0">Diego Freitas(4) lap=1 point=0 t=91.460 et=160.919</Score>
+<Score et="161.3">Jean Pierre(18) lap=1 point=0 t=91.715 et=161.174</Score>
+<Score et="161.5">Raphael Camelo(7) lap=1 point=0 t=91.963 et=161.422</Score>
+<Score et="162.2">Josias Neto(3) lap=1 point=0 t=92.590 et=162.049</Score>
+<Score et="162.3">Robson Radaell(10) lap=1 point=0 t=92.676 et=162.135</Score>
+<Score et="162.7">Bruno Fernandes(6) lap=1 point=0 t=93.172 et=162.631</Score>
+<Score et="162.9">Luiz de Melo(12) lap=1 point=0 t=-1.000 et=162.828</Score>
+<Score et="163.3">Bernardo Cardoso(5) lap=1 point=0 t=-1.000 et=163.125</Score>
+<Score et="164.0">Rafael Matta(8) lap=1 point=0 t=94.442 et=163.901</Score>
+<Score et="164.6">Joao Junior(2) lap=1 point=0 t=94.976 et=164.435</Score>
+<Score et="164.8">Juan Manuel Gomez(15) lap=1 point=0 t=95.205 et=164.664</Score>
+<Score et="165.1">Marcelo Neiva(20) lap=1 point=0 t=95.527 et=164.985</Score>
+<Score et="165.5">Arthur Targa(1) lap=1 point=0 t=95.922 et=165.381</Score>
+<Score et="167.5">Guilherme Secchi(0) lap=1 point=0 t=97.907 et=167.365</Score>
+<Score et="173.9">Eduardo Pehls(16) lap=1 point=0 t=104.353 et=173.811</Score>
+<Score et="182.1">Diego Freitas(4) lap=1 point=1 t=21.127 et=182.045</Score>
+<Score et="182.6">Jean Pierre(18) lap=1 point=1 t=21.298 et=182.472</Score>
+<Score et="182.9">Raphael Camelo(7) lap=1 point=1 t=21.373 et=182.795</Score>
+<Score et="183.6">Josias Neto(3) lap=1 point=1 t=21.444 et=183.493</Score>
+<Score et="183.8">Robson Radaell(10) lap=1 point=1 t=21.581 et=183.716</Score>
+<Score et="184.2">Bruno Fernandes(6) lap=1 point=1 t=21.477 et=184.107</Score>
+<Score et="184.6">Luiz de Melo(12) lap=1 point=1 t=21.650 et=184.478</Score>
+<Score et="184.8">Bernardo Cardoso(5) lap=1 point=1 t=21.535 et=184.660</Score>
+<Score et="185.3">Rafael Matta(8) lap=1 point=1 t=21.239 et=185.140</Score>
+<Score et="185.7">Joao Junior(2) lap=1 point=1 t=21.185 et=185.620</Score>
+<Score et="186.7">Marcelo Neiva(20) lap=1 point=1 t=21.609 et=186.594</Score>
+<Score et="187.1">Arthur Targa(1) lap=1 point=1 t=21.568 et=186.948</Score>
+<Score et="189.2">Guilherme Secchi(0) lap=1 point=1 t=21.694 et=189.059</Score>
+<Score et="195.7">Eduardo Pehls(16) lap=1 point=1 t=21.800 et=195.611</Score>
+<Score et="227.2">Diego Freitas(4) lap=1 point=2 t=66.173 et=227.092</Score>
+<Score et="227.4">Jean Pierre(18) lap=1 point=2 t=66.113 et=227.287</Score>
+<Score et="227.9">Raphael Camelo(7) lap=1 point=2 t=66.322 et=227.744</Score>
+<Score et="228.4">Josias Neto(3) lap=1 point=2 t=66.224 et=228.273</Score>
+<Score et="228.7">Robson Radaell(10) lap=1 point=2 t=66.459 et=228.594</Score>
+<Score et="229.1">Bruno Fernandes(6) lap=1 point=2 t=66.337 et=228.968</Score>
+<Score et="229.5">Luiz de Melo(12) lap=1 point=2 t=66.610 et=229.438</Score>
+<Score et="229.9">Bernardo Cardoso(5) lap=1 point=2 t=66.607 et=229.732</Score>
+<Score et="230.5">Rafael Matta(8) lap=1 point=2 t=66.514 et=230.415</Score>
+<Score et="231.1">Joao Junior(2) lap=1 point=2 t=66.533 et=230.968</Score>
+<Score et="231.2">Juan Manuel Gomez(15) lap=1 point=2 t=66.488 et=231.152</Score>
+<Score et="231.9">Marcelo Neiva(20) lap=1 point=2 t=66.681 et=231.666</Score>
+<Score et="232.9">Arthur Targa(1) lap=1 point=2 t=67.300 et=232.681</Score>
+<Score et="234.9">Guilherme Secchi(0) lap=1 point=2 t=67.384 et=234.750</Score>
+<Score et="241.1">Eduardo Pehls(16) lap=1 point=2 t=67.130 et=240.941</Score>
+<Score et="245.0">Diego Freitas(4) lap=2 point=0 t=-1.000 et=244.829</Score>
+<Score et="245.1">Jean Pierre(18) lap=2 point=0 t=83.862 et=245.036</Score>
+<Score et="245.7">Raphael Camelo(7) lap=2 point=0 t=84.083 et=245.505</Score>
+<Score et="246.1">Josias Neto(3) lap=2 point=0 t=-1.000 et=245.943</Score>
+<Score et="246.4">Robson Radaell(10) lap=2 point=0 t=-1.000 et=246.292</Score>
+<Score et="246.8">Bruno Fernandes(6) lap=2 point=0 t=-1.000 et=246.674</Score>
+<Score et="247.4">Luiz de Melo(12) lap=2 point=0 t=84.421 et=247.249</Score>
+<Score et="247.6">Bernardo Cardoso(5) lap=2 point=0 t=84.386 et=247.511</Score>
+<Score et="248.5">Rafael Matta(8) lap=2 point=0 t=84.471 et=248.372</Score>
+<Score et="248.8">Joao Junior(2) lap=2 point=0 t=84.267 et=248.701</Score>
+<Score et="249.6">Marcelo Neiva(20) lap=2 point=0 t=84.536 et=249.521</Score>
+<Score et="250.5">Juan Manuel Gomez(15) lap=2 point=0 t=84.360 et=249.024</Score>
+<Score et="250.8">Arthur Targa(1) lap=2 point=0 t=85.181 et=250.561</Score>
+<Score et="252.8">Guilherme Secchi(0) lap=2 point=0 t=85.367 et=252.732</Score>
+<Score et="259.1">Eduardo Pehls(16) lap=2 point=0 t=85.161 et=258.972</Score>
+<Score et="266.0">Diego Freitas(4) lap=2 point=1 t=21.112 et=265.942</Score>
+<Score et="266.3">Jean Pierre(18) lap=2 point=1 t=21.174 et=266.210</Score>
+<Score et="266.9">Raphael Camelo(7) lap=2 point=1 t=21.204 et=266.710</Score>
+<Score et="267.2">Josias Neto(3) lap=2 point=1 t=21.201 et=267.144</Score>
+<Score et="267.7">Robson Radaell(10) lap=2 point=1 t=21.270 et=267.561</Score>
+<Score et="268.1">Bruno Fernandes(6) lap=2 point=1 t=21.306 et=267.980</Score>
+<Score et="268.6">Luiz de Melo(12) lap=2 point=1 t=21.200 et=268.449</Score>
+<Score et="268.9">Bernardo Cardoso(5) lap=2 point=1 t=21.214 et=268.725</Score>
+<Score et="269.7">Rafael Matta(8) lap=2 point=1 t=21.227 et=269.598</Score>
+<Score et="270.1">Joao Junior(2) lap=2 point=1 t=21.251 et=269.953</Score>
+<Score et="270.6">Juan Manuel Gomez(15) lap=2 point=1 t=21.470 et=270.495</Score>
+<Score et="271.2">Marcelo Neiva(20) lap=2 point=1 t=21.568 et=271.089</Score>
+<Score et="272.0">Arthur Targa(1) lap=2 point=1 t=21.278 et=271.839</Score>
+<Score et="274.5">Guilherme Secchi(0) lap=2 point=1 t=21.627 et=274.359</Score>
+<Score et="280.4">Eduardo Pehls(16) lap=2 point=1 t=21.375 et=280.347</Score>
+<Score et="310.8">Diego Freitas(4) lap=2 point=2 t=65.868 et=310.697</Score>
+<Score et="311.1">Jean Pierre(18) lap=2 point=2 t=65.937 et=310.973</Score>
+<Score et="311.7">Raphael Camelo(7) lap=2 point=2 t=66.026 et=311.531</Score>
+<Score et="312.0">Josias Neto(3) lap=2 point=2 t=65.890 et=311.833</Score>
+<Score et="312.7">Robson Radaell(10) lap=2 point=2 t=66.246 et=312.538</Score>
+<Score et="312.9">Bruno Fernandes(6) lap=2 point=2 t=66.169 et=312.843</Score>
+<Score et="314.0">Luiz de Melo(12) lap=2 point=2 t=66.625 et=313.874</Score>
+<Score et="314.2">Bernardo Cardoso(5) lap=2 point=2 t=66.521 et=314.032</Score>
+<Score et="315.0">Rafael Matta(8) lap=2 point=2 t=66.486 et=314.858</Score>
+<Score et="315.4">Joao Junior(2) lap=2 point=2 t=66.600 et=315.301</Score>
+<Score et="315.6">Juan Manuel Gomez(15) lap=2 point=2 t=66.465 et=315.489</Score>
+<Score et="316.2">Marcelo Neiva(20) lap=2 point=2 t=66.526 et=316.048</Score>
+<Score et="317.1">Arthur Targa(1) lap=2 point=2 t=66.451 et=317.012</Score>
+<Score et="320.1">Guilherme Secchi(0) lap=2 point=2 t=67.293 et=320.025</Score>
+<Score et="325.7">Eduardo Pehls(16) lap=2 point=2 t=66.648 et=325.619</Score>
+<Score et="328.6">Diego Freitas(4) lap=3 point=0 t=83.662 et=328.492</Score>
+<Score et="328.9">Jean Pierre(18) lap=3 point=0 t=83.730 et=328.766</Score>
+<Score et="329.5">Raphael Camelo(7) lap=3 point=0 t=83.799 et=329.304</Score>
+<Score et="329.7">Josias Neto(3) lap=3 point=0 t=83.590 et=329.533</Score>
+<Score et="330.5">Robson Radaell(10) lap=3 point=0 t=-1.000 et=330.360</Score>
+<Score et="330.8">Bruno Fernandes(6) lap=3 point=0 t=84.019 et=330.693</Score>
+<Score et="331.8">Luiz de Melo(12) lap=3 point=0 t=84.452 et=331.701</Score>
+<Score et="331.9">Bernardo Cardoso(5) lap=3 point=0 t=84.305 et=331.816</Score>
+<Score et="332.9">Rafael Matta(8) lap=3 point=0 t=84.378 et=332.750</Score>
+<Score et="333.2">Joao Junior(2) lap=3 point=0 t=84.431 et=333.132</Score>
+<Score et="333.5">Juan Manuel Gomez(15) lap=3 point=0 t=84.351 et=333.375</Score>
+<Score et="333.8">Marcelo Neiva(20) lap=3 point=0 t=84.187 et=333.708</Score>
+<Score et="335.1">Arthur Targa(1) lap=3 point=0 t=84.369 et=334.931</Score>
+<Score et="338.2">Guilherme Secchi(0) lap=3 point=0 t=85.358 et=338.090</Score>
+<Score et="343.7">Eduardo Pehls(16) lap=3 point=0 t=84.600 et=343.572</Score>
+<Score et="349.7">Diego Freitas(4) lap=3 point=1 t=21.100 et=349.592</Score>
+<Score et="349.9">Jean Pierre(18) lap=3 point=1 t=21.077 et=349.843</Score>
+<Score et="350.6">Raphael Camelo(7) lap=3 point=1 t=21.113 et=350.417</Score>
+<Score et="350.8">Josias Neto(3) lap=3 point=1 t=21.137 et=350.670</Score>
+<Score et="352.0">Robson Radaell(10) lap=3 point=1 t=21.525 et=351.885</Score>
+<Score et="352.1">Bruno Fernandes(6) lap=3 point=1 t=21.341 et=352.034</Score>
+<Score et="353.1">Bernardo Cardoso(5) lap=3 point=1 t=21.161 et=352.977</Score>
+<Score et="353.9">Luiz de Melo(12) lap=3 point=1 t=22.049 et=353.750</Score>
+<Score et="354.2">Rafael Matta(8) lap=3 point=1 t=21.366 et=354.116</Score>
+<Score et="354.4">Joao Junior(2) lap=3 point=1 t=21.135 et=354.267</Score>
+<Score et="355.2">Marcelo Neiva(20) lap=3 point=1 t=21.300 et=355.008</Score>
+<Score et="356.4">Arthur Targa(1) lap=3 point=1 t=21.375 et=356.306</Score>
+<Score et="359.8">Guilherme Secchi(0) lap=3 point=1 t=21.557 et=359.647</Score>
+<Score et="365.1">Eduardo Pehls(16) lap=3 point=1 t=21.440 et=365.011</Score>
+<Score et="394.7">Diego Freitas(4) lap=3 point=2 t=66.075 et=394.567</Score>
+<Score et="394.9">Jean Pierre(18) lap=3 point=2 t=66.005 et=394.770</Score>
+<Score et="395.3">Raphael Camelo(7) lap=3 point=2 t=65.850 et=395.154</Score>
+<Score et="396.1">Josias Neto(3) lap=3 point=2 t=66.425 et=395.958</Score>
+<Score et="396.9">Robson Radaell(10) lap=3 point=2 t=66.459 et=396.818</Score>
+<Score et="397.2">Bruno Fernandes(6) lap=3 point=2 t=66.433 et=397.126</Score>
+<Score et="398.2">Bernardo Cardoso(5) lap=3 point=2 t=66.296 et=398.112</Score>
+<Score et="399.0">Luiz de Melo(12) lap=3 point=2 t=67.211 et=398.912</Score>
+<Score et="399.4">Rafael Matta(8) lap=3 point=2 t=66.565 et=399.315</Score>
+<Score et="399.8">Joao Junior(2) lap=3 point=2 t=66.594 et=399.726</Score>
+<Score et="400.1">Juan Manuel Gomez(15) lap=3 point=2 t=66.653 et=400.028</Score>
+<Score et="400.6">Marcelo Neiva(20) lap=3 point=2 t=66.756 et=400.465</Score>
+<Score et="401.6">Arthur Targa(1) lap=3 point=2 t=66.588 et=401.518</Score>
+<Score et="405.8">Guilherme Secchi(0) lap=3 point=2 t=67.596 et=405.687</Score>
+<Score et="410.5">Eduardo Pehls(16) lap=3 point=2 t=66.847 et=410.418</Score>
+<Score et="412.7">Diego Freitas(4) lap=4 point=0 t=84.050 et=412.542</Score>
+<Score et="412.7">Jean Pierre(18) lap=4 point=0 t=83.873 et=412.639</Score>
+<Score et="413.0">Raphael Camelo(7) lap=4 point=0 t=83.516 et=412.820</Score>
+<Score et="413.9">Josias Neto(3) lap=4 point=0 t=84.201 et=413.735</Score>
+<Score et="414.7">Robson Radaell(10) lap=4 point=0 t=-1.000 et=414.599</Score>
+<Score et="415.0">Bruno Fernandes(6) lap=4 point=0 t=84.150 et=414.843</Score>
+<Score et="416.2">Bernardo Cardoso(5) lap=4 point=0 t=84.213 et=416.029</Score>
+<Score et="416.9">Luiz de Melo(12) lap=4 point=0 t=85.102 et=416.803</Score>
+<Score et="417.4">Rafael Matta(8) lap=4 point=0 t=84.546 et=417.295</Score>
+<Score et="417.7">Joao Junior(2) lap=4 point=0 t=84.444 et=417.576</Score>
+<Score et="418.0">Juan Manuel Gomez(15) lap=4 point=0 t=84.539 et=417.914</Score>
+<Score et="418.3">Marcelo Neiva(20) lap=4 point=0 t=84.507 et=418.215</Score>
+<Score et="419.6">Arthur Targa(1) lap=4 point=0 t=84.563 et=419.493</Score>
+<Score et="423.9">Guilherme Secchi(0) lap=4 point=0 t=85.646 et=423.737</Score>
+<Score et="428.8">Eduardo Pehls(16) lap=4 point=0 t=85.121 et=428.693</Score>
+<Score et="434.3">Raphael Camelo(7) lap=4 point=1 t=21.301 et=434.121</Score>
+<Score et="434.4">Jean Pierre(18) lap=4 point=1 t=21.705 et=434.344</Score>
+<Score et="434.6">Diego Freitas(4) lap=4 point=1 t=21.976 et=434.517</Score>
+<Score et="435.2">Josias Neto(3) lap=4 point=1 t=21.329 et=435.064</Score>
+<Score et="435.9">Robson Radaell(10) lap=4 point=1 t=21.201 et=435.801</Score>
+<Score et="436.4">Bruno Fernandes(6) lap=4 point=1 t=21.461 et=436.304</Score>
+<Score et="437.4">Bernardo Cardoso(5) lap=4 point=1 t=21.271 et=437.300</Score>
+<Score et="438.1">Luiz de Melo(12) lap=4 point=1 t=21.229 et=438.032</Score>
+<Score et="438.9">Rafael Matta(8) lap=4 point=1 t=21.495 et=438.790</Score>
+<Score et="439.1">Joao Junior(2) lap=4 point=1 t=21.377 et=438.954</Score>
+<Score et="439.3">Juan Manuel Gomez(15) lap=4 point=1 t=21.250 et=439.164</Score>
+<Score et="439.6">Marcelo Neiva(20) lap=4 point=1 t=21.294 et=439.510</Score>
+<Score et="441.0">Arthur Targa(1) lap=4 point=1 t=21.363 et=440.857</Score>
+<Score et="445.8">Guilherme Secchi(0) lap=4 point=1 t=21.937 et=445.674</Score>
+<Score et="450.3">Eduardo Pehls(16) lap=4 point=1 t=21.521 et=450.213</Score>
+<Incident et="458.6">Raphael Camelo(7) reported contact (0.26) with another vehicle Diego Freitas(4)</Incident>
+<Incident et="458.6">Diego Freitas(4) reported contact (0.16) with another vehicle Raphael Camelo(7)</Incident>
+<Score et="479.1">Jean Pierre(18) lap=4 point=2 t=66.371 et=479.010</Score>
+<Score et="480.0">Raphael Camelo(7) lap=4 point=2 t=67.034 et=479.854</Score>
+<Score et="480.3">Diego Freitas(4) lap=4 point=2 t=67.650 et=480.192</Score>
+<Score et="480.5">Josias Neto(3) lap=4 point=2 t=66.674 et=480.408</Score>
+<Score et="481.2">Robson Radaell(10) lap=4 point=2 t=66.475 et=481.075</Score>
+<Score et="481.5">Bruno Fernandes(6) lap=4 point=2 t=66.575 et=481.418</Score>
+<Score et="482.5">Bernardo Cardoso(5) lap=4 point=2 t=66.388 et=482.417</Score>
+<Score et="483.0">Luiz de Melo(12) lap=4 point=2 t=66.121 et=482.924</Score>
+<Score et="483.9">Rafael Matta(8) lap=4 point=2 t=66.486 et=483.781</Score>
+<Score et="484.3">Joao Junior(2) lap=4 point=2 t=66.602 et=484.179</Score>
+<Score et="484.5">Juan Manuel Gomez(15) lap=4 point=2 t=66.475 et=484.389</Score>
+<Score et="484.9">Marcelo Neiva(20) lap=4 point=2 t=66.554 et=484.769</Score>
+<Score et="486.2">Arthur Targa(1) lap=4 point=2 t=66.624 et=486.117</Score>
+<Score et="491.4">Guilherme Secchi(0) lap=4 point=2 t=67.536 et=491.272</Score>
+<Score et="495.9">Eduardo Pehls(16) lap=4 point=2 t=67.110 et=495.803</Score>
+<Score et="497.0">Jean Pierre(18) lap=5 point=0 t=84.259 et=496.898</Score>
+<Score et="497.8">Raphael Camelo(7) lap=5 point=0 t=84.822 et=497.642</Score>
+<Score et="498.0">Diego Freitas(4) lap=5 point=0 t=85.367 et=497.909</Score>
+<Score et="498.4">Josias Neto(3) lap=5 point=0 t=84.499 et=498.233</Score>
+<Score et="499.1">Robson Radaell(10) lap=5 point=0 t=84.362 et=498.961</Score>
+<Score et="499.3">Bruno Fernandes(6) lap=5 point=0 t=84.300 et=499.143</Score>
+<Score et="500.6">Bernardo Cardoso(5) lap=5 point=0 t=84.482 et=500.511</Score>
+<Score et="500.8">Luiz de Melo(12) lap=5 point=0 t=83.909 et=500.711</Score>
+<Score et="501.7">Rafael Matta(8) lap=5 point=0 t=-1.000 et=501.625</Score>
+<Score et="502.0">Joao Junior(2) lap=5 point=0 t=84.334 et=501.911</Score>
+<Score et="502.5">Marcelo Neiva(20) lap=5 point=0 t=84.145 et=502.360</Score>
+<Score et="504.2">Arthur Targa(1) lap=5 point=0 t=84.574 et=504.067</Score>
+<Score et="505.0">Juan Manuel Gomez(15) lap=5 point=0 t=-1.000 et=502.273</Score>
+<Score et="509.4">Guilherme Secchi(0) lap=5 point=0 t=85.511 et=509.247</Score>
+<Score et="513.9">Eduardo Pehls(16) lap=5 point=0 t=85.108 et=513.800</Score>
+<Score et="518.5">Jean Pierre(18) lap=5 point=1 t=21.515 et=518.413</Score>
+<Score et="518.9">Raphael Camelo(7) lap=5 point=1 t=21.152 et=518.794</Score>
+<Score et="519.2">Diego Freitas(4) lap=5 point=1 t=21.171 et=519.080</Score>
+<Score et="519.5">Josias Neto(3) lap=5 point=1 t=21.138 et=519.371</Score>
+<Score et="520.6">Robson Radaell(10) lap=5 point=1 t=21.474 et=520.435</Score>
+<Score et="520.7">Bruno Fernandes(6) lap=5 point=1 t=21.475 et=520.618</Score>
+<Score et="522.2">Bernardo Cardoso(5) lap=5 point=1 t=21.589 et=522.100</Score>
+<Score et="522.3">Luiz de Melo(12) lap=5 point=1 t=21.520 et=522.232</Score>
+<Score et="523.0">Rafael Matta(8) lap=5 point=1 t=21.278 et=522.903</Score>
+<Score et="523.2">Joao Junior(2) lap=5 point=1 t=21.166 et=523.077</Score>
+<Score et="524.2">Marcelo Neiva(20) lap=5 point=1 t=21.648 et=524.008</Score>
+<Score et="524.3">Juan Manuel Gomez(15) lap=5 point=1 t=21.915 et=524.189</Score>
+<Score et="525.5">Arthur Targa(1) lap=5 point=1 t=21.279 et=525.347</Score>
+<Score et="530.9">Guilherme Secchi(0) lap=5 point=1 t=21.483 et=530.731</Score>
+<Score et="535.3">Eduardo Pehls(16) lap=5 point=1 t=21.388 et=535.188</Score>
+<Score et="563.4">Jean Pierre(18) lap=5 point=2 t=66.362 et=563.260</Score>
+<Score et="563.8">Raphael Camelo(7) lap=5 point=2 t=66.046 et=563.688</Score>
+<Score et="564.0">Diego Freitas(4) lap=5 point=2 t=65.995 et=563.904</Score>
+<Score et="564.5">Josias Neto(3) lap=5 point=2 t=66.175 et=564.408</Score>
+<Score et="565.9">Robson Radaell(10) lap=5 point=2 t=66.806 et=565.768</Score>
+<Score et="566.0">Bruno Fernandes(6) lap=5 point=2 t=66.780 et=565.923</Score>
+<Score et="567.6">Bernardo Cardoso(5) lap=5 point=2 t=66.939 et=567.450</Score>
+<Score et="567.8">Luiz de Melo(12) lap=5 point=2 t=66.973 et=567.685</Score>
+<Score et="568.4">Rafael Matta(8) lap=5 point=2 t=66.629 et=568.254</Score>
+<Score et="568.8">Joao Junior(2) lap=5 point=2 t=66.733 et=568.644</Score>
+<Score et="569.2">Marcelo Neiva(20) lap=5 point=2 t=66.749 et=569.109</Score>
+<Score et="569.7">Juan Manuel Gomez(15) lap=5 point=2 t=67.251 et=569.525</Score>
+<Score et="570.8">Arthur Targa(1) lap=5 point=2 t=66.641 et=570.708</Score>
+<Score et="576.9">Guilherme Secchi(0) lap=5 point=2 t=67.542 et=576.789</Score>
+<Score et="581.2">Eduardo Pehls(16) lap=5 point=2 t=67.286 et=581.086</Score>
+<Score et="581.2">Jean Pierre(18) lap=6 point=0 t=84.212 et=581.110</Score>
+<Score et="581.6">Raphael Camelo(7) lap=6 point=0 t=83.762 et=581.404</Score>
+<Score et="582.1">Diego Freitas(4) lap=6 point=0 t=84.033 et=581.942</Score>
+<Score et="582.4">Josias Neto(3) lap=6 point=0 t=83.975 et=582.208</Score>
+<Score et="583.8">Robson Radaell(10) lap=6 point=0 t=84.765 et=583.726</Score>
+<Score et="584.0">Bruno Fernandes(6) lap=6 point=0 t=84.734 et=583.877</Score>
+<Score et="585.6">Bernardo Cardoso(5) lap=6 point=0 t=85.004 et=585.515</Score>
+<Score et="585.7">Luiz de Melo(12) lap=6 point=0 t=84.867 et=585.578</Score>
+<Score et="586.2">Rafael Matta(8) lap=6 point=0 t=84.503 et=586.128</Score>
+<Score et="586.6">Joao Junior(2) lap=6 point=0 t=84.605 et=586.516</Score>
+<Score et="587.0">Marcelo Neiva(20) lap=6 point=0 t=84.485 et=586.845</Score>
+<Score et="587.5">Juan Manuel Gomez(15) lap=6 point=0 t=85.150 et=587.424</Score>
+<Score et="588.8">Arthur Targa(1) lap=6 point=0 t=84.653 et=588.721</Score>
+<Score et="594.9">Guilherme Secchi(0) lap=6 point=0 t=85.487 et=594.734</Score>
+<Score et="599.3">Eduardo Pehls(16) lap=6 point=0 t=85.361 et=599.161</Score>
+<Score et="602.5">Jean Pierre(18) lap=6 point=1 t=21.280 et=602.390</Score>
+<Score et="602.7">Raphael Camelo(7) lap=6 point=1 t=21.129 et=602.533</Score>
+<Score et="603.3">Diego Freitas(4) lap=6 point=1 t=21.239 et=603.181</Score>
+<Score et="603.7">Josias Neto(3) lap=6 point=1 t=21.351 et=603.559</Score>
+<Score et="605.3">Robson Radaell(10) lap=6 point=1 t=21.409 et=605.135</Score>
+<Score et="605.4">Bruno Fernandes(6) lap=6 point=1 t=21.403 et=605.280</Score>
+<Score et="607.1">Luiz de Melo(12) lap=6 point=1 t=21.381 et=606.959</Score>
+<Score et="607.2">Bernardo Cardoso(5) lap=6 point=1 t=21.550 et=607.065</Score>
+<Score et="607.5">Rafael Matta(8) lap=6 point=1 t=21.254 et=607.382</Score>
+<Score et="607.7">Joao Junior(2) lap=6 point=1 t=21.101 et=607.617</Score>
+<Score et="608.2">Marcelo Neiva(20) lap=6 point=1 t=21.156 et=608.001</Score>
+<Score et="608.9">Juan Manuel Gomez(15) lap=6 point=1 t=21.349 et=608.773</Score>
+<Score et="610.1">Arthur Targa(1) lap=6 point=1 t=21.266 et=609.986</Score>
+<Score et="616.2">Guilherme Secchi(0) lap=6 point=1 t=21.313 et=616.047</Score>
+<Score et="620.6">Eduardo Pehls(16) lap=6 point=1 t=21.360 et=620.521</Score>
+<Incident et="632.7">Robson Radaell(10) reported contact (0.03) with another vehicle Bruno Fernandes(6)</Incident>
+<Score et="647.3">Jean Pierre(18) lap=6 point=2 t=66.117 et=647.227</Score>
+<Score et="647.7">Raphael Camelo(7) lap=6 point=2 t=66.136 et=647.540</Score>
+<Score et="648.6">Diego Freitas(4) lap=6 point=2 t=66.537 et=648.479</Score>
+<Score et="648.9">Josias Neto(3) lap=6 point=2 t=66.525 et=648.733</Score>
+<Score et="650.9">Robson Radaell(10) lap=6 point=2 t=67.034 et=650.760</Score>
+<Score et="651.1">Bruno Fernandes(6) lap=6 point=2 t=67.066 et=650.943</Score>
+<Score et="652.2">Luiz de Melo(12) lap=6 point=2 t=66.555 et=652.133</Score>
+<Score et="652.8">Bernardo Cardoso(5) lap=6 point=2 t=67.174 et=652.689</Score>
+<Score et="653.1">Rafael Matta(8) lap=6 point=2 t=66.887 et=653.015</Score>
+<Score et="653.5">Joao Junior(2) lap=6 point=2 t=66.814 et=653.331</Score>
+<Score et="653.8">Marcelo Neiva(20) lap=6 point=2 t=66.770 et=653.616</Score>
+<Score et="654.3">Juan Manuel Gomez(15) lap=6 point=2 t=66.765 et=654.189</Score>
+<Score et="655.5">Arthur Targa(1) lap=6 point=2 t=66.717 et=655.438</Score>
+<Score et="662.1">Guilherme Secchi(0) lap=6 point=2 t=67.263 et=661.997</Score>
+<Score et="665.2">Jean Pierre(18) lap=7 point=0 t=83.957 et=665.067</Score>
+<Score et="665.5">Raphael Camelo(7) lap=7 point=0 t=84.012 et=665.416</Score>
+<Score et="666.1">Eduardo Pehls(16) lap=6 point=2 t=66.864 et=666.025</Score>
+<Score et="666.5">Diego Freitas(4) lap=7 point=0 t=84.493 et=666.435</Score>
+<Score et="666.7">Josias Neto(3) lap=7 point=0 t=84.401 et=666.609</Score>
+<Score et="669.0">Robson Radaell(10) lap=7 point=0 t=85.176 et=668.902</Score>
+<Score et="669.1">Bruno Fernandes(6) lap=7 point=0 t=85.125 et=669.002</Score>
+<Score et="670.2">Luiz de Melo(12) lap=7 point=0 t=84.586 et=670.164</Score>
+<Score et="670.8">Bernardo Cardoso(5) lap=7 point=0 t=85.176 et=670.691</Score>
+<Score et="671.0">Rafael Matta(8) lap=7 point=0 t=84.792 et=670.920</Score>
+<Score et="671.3">Joao Junior(2) lap=7 point=0 t=84.625 et=671.142</Score>
+<Score et="671.5">Marcelo Neiva(20) lap=7 point=0 t=-1.000 et=671.383</Score>
+<Score et="672.9">Juan Manuel Gomez(15) lap=7 point=0 t=84.752 et=672.176</Score>
+<Score et="673.5">Arthur Targa(1) lap=7 point=0 t=84.685 et=673.406</Score>
+<Score et="680.3">Guilherme Secchi(0) lap=7 point=0 t=85.413 et=680.148</Score>
+<Score et="684.3">Eduardo Pehls(16) lap=7 point=0 t=85.013 et=684.174</Score>
+<Score et="686.3">Jean Pierre(18) lap=7 point=1 t=21.168 et=686.235</Score>
+<Score et="686.7">Raphael Camelo(7) lap=7 point=1 t=21.130 et=686.547</Score>
+<Score et="687.9">Diego Freitas(4) lap=7 point=1 t=21.412 et=687.847</Score>
+<Score et="688.2">Josias Neto(3) lap=7 point=1 t=21.438 et=688.047</Score>
+<Score et="691.1">Robson Radaell(10) lap=7 point=1 t=22.039 et=690.942</Score>
+<Score et="691.3">Bruno Fernandes(6) lap=7 point=1 t=22.144 et=691.146</Score>
+<Score et="691.6">Luiz de Melo(12) lap=7 point=1 t=21.334 et=691.499</Score>
+<Score et="692.4">Bernardo Cardoso(5) lap=7 point=1 t=21.623 et=692.314</Score>
+<Score et="692.8">Rafael Matta(8) lap=7 point=1 t=21.722 et=692.642</Score>
+<Score et="693.0">Joao Junior(2) lap=7 point=1 t=21.697 et=692.839</Score>
+<Score et="693.1">Marcelo Neiva(20) lap=7 point=1 t=21.525 et=692.908</Score>
+<Score et="693.8">Juan Manuel Gomez(15) lap=7 point=1 t=21.472 et=693.648</Score>
+<Score et="694.9">Arthur Targa(1) lap=7 point=1 t=21.385 et=694.791</Score>
+<Incident et="697.3">Joao Junior(2) reported contact (0.13) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="697.4">Marcelo Neiva(20) reported contact (0.19) with another vehicle Joao Junior(2)</Incident>
+<Incident et="697.4">Marcelo Neiva(20) reported contact (0.03) with another vehicle Joao Junior(2)</Incident>
+<Score et="701.7">Guilherme Secchi(0) lap=7 point=1 t=21.441 et=701.588</Score>
+<Score et="705.9">Eduardo Pehls(16) lap=7 point=1 t=21.617 et=705.791</Score>
+<Score et="731.4">Jean Pierre(18) lap=7 point=2 t=66.248 et=731.315</Score>
+<Score et="732.1">Raphael Camelo(7) lap=7 point=2 t=66.505 et=731.921</Score>
+<Score et="733.1">Diego Freitas(4) lap=7 point=2 t=66.519 et=732.954</Score>
+<Score et="733.3">Josias Neto(3) lap=7 point=2 t=66.574 et=733.183</Score>
+<Score et="736.7">Robson Radaell(10) lap=7 point=2 t=67.723 et=736.625</Score>
+<Score et="737.1">Bruno Fernandes(6) lap=7 point=2 t=67.997 et=736.999</Score>
+<Score et="737.2">Luiz de Melo(12) lap=7 point=2 t=66.984 et=737.149</Score>
+<Score et="738.0">Bernardo Cardoso(5) lap=7 point=2 t=67.195 et=737.886</Score>
+<Score et="738.4">Rafael Matta(8) lap=7 point=2 t=67.352 et=738.272</Score>
+<Score et="738.9">Marcelo Neiva(20) lap=7 point=2 t=67.350 et=738.733</Score>
+<Score et="739.1">Joao Junior(2) lap=7 point=2 t=67.868 et=739.010</Score>
+<Score et="740.3">Arthur Targa(1) lap=7 point=2 t=66.813 et=740.219</Score>
+<Score et="747.6">Guilherme Secchi(0) lap=7 point=2 t=67.305 et=747.452</Score>
+<Score et="749.4">Jean Pierre(18) lap=8 point=0 t=84.202 et=749.269</Score>
+<Score et="750.0">Raphael Camelo(7) lap=8 point=0 t=84.438 et=749.854</Score>
+<Score et="751.1">Diego Freitas(4) lap=8 point=0 t=84.557 et=750.992</Score>
+<Score et="751.2">Josias Neto(3) lap=8 point=0 t=84.518 et=751.127</Score>
+<Score et="751.6">Eduardo Pehls(16) lap=7 point=2 t=67.329 et=751.503</Score>
+<Score et="754.9">Robson Radaell(10) lap=8 point=0 t=85.822 et=754.725</Score>
+<Score et="755.1">Bruno Fernandes(6) lap=8 point=0 t=85.946 et=754.947</Score>
+<Score et="755.2">Luiz de Melo(12) lap=8 point=0 t=84.998 et=755.162</Score>
+<Score et="756.0">Bernardo Cardoso(5) lap=8 point=0 t=85.251 et=755.942</Score>
+<Score et="756.3">Rafael Matta(8) lap=8 point=0 t=85.296 et=756.215</Score>
+<Score et="756.9">Marcelo Neiva(20) lap=8 point=0 t=85.408 et=756.792</Score>
+<Score et="757.1">Joao Junior(2) lap=8 point=0 t=85.874 et=757.015</Score>
+<Score et="757.5">Juan Manuel Gomez(15) lap=8 point=0 t=85.163 et=757.339</Score>
+<Score et="758.4">Arthur Targa(1) lap=8 point=0 t=84.886 et=758.292</Score>
+<Score et="765.6">Guilherme Secchi(0) lap=8 point=0 t=85.368 et=765.515</Score>
+<Score et="769.9">Eduardo Pehls(16) lap=8 point=0 t=85.613 et=769.786</Score>
+<Score et="770.6">Jean Pierre(18) lap=8 point=1 t=21.232 et=770.501</Score>
+<Score et="771.2">Raphael Camelo(7) lap=8 point=1 t=21.156 et=771.010</Score>
+<Score et="772.3">Diego Freitas(4) lap=8 point=1 t=21.290 et=772.281</Score>
+<Score et="772.8">Josias Neto(3) lap=8 point=1 t=21.541 et=772.668</Score>
+<Score et="776.4">Robson Radaell(10) lap=8 point=1 t=21.546 et=776.271</Score>
+<Score et="776.6">Bruno Fernandes(6) lap=8 point=1 t=21.546 et=776.493</Score>
+<Score et="776.9">Luiz de Melo(12) lap=8 point=1 t=21.636 et=776.799</Score>
+<Score et="777.4">Bernardo Cardoso(5) lap=8 point=1 t=21.374 et=777.316</Score>
+<Score et="777.8">Rafael Matta(8) lap=8 point=1 t=21.453 et=777.669</Score>
+<Score et="778.5">Joao Junior(2) lap=8 point=1 t=21.352 et=778.367</Score>
+<Score et="779.0">Marcelo Neiva(20) lap=8 point=1 t=22.032 et=778.824</Score>
+<Score et="779.1">Juan Manuel Gomez(15) lap=8 point=1 t=21.633 et=778.972</Score>
+<Score et="779.8">Arthur Targa(1) lap=8 point=1 t=21.373 et=779.665</Score>
+<Score et="787.1">Guilherme Secchi(0) lap=8 point=1 t=21.459 et=786.974</Score>
+<Score et="791.5">Eduardo Pehls(16) lap=8 point=1 t=21.591 et=791.377</Score>
+<Score et="815.5">Jean Pierre(18) lap=8 point=2 t=66.102 et=815.371</Score>
+<Score et="816.1">Raphael Camelo(7) lap=8 point=2 t=66.085 et=815.939</Score>
+<Score et="817.7">Diego Freitas(4) lap=8 point=2 t=66.585 et=817.577</Score>
+<Score et="818.0">Josias Neto(3) lap=8 point=2 t=66.722 et=817.849</Score>
+<Score et="822.1">Robson Radaell(10) lap=8 point=2 t=67.214 et=821.939</Score>
+<Score et="822.2">Bruno Fernandes(6) lap=8 point=2 t=67.208 et=822.156</Score>
+<Score et="822.5">Luiz de Melo(12) lap=8 point=2 t=67.196 et=822.358</Score>
+<Score et="822.8">Bernardo Cardoso(5) lap=8 point=2 t=66.712 et=822.654</Score>
+<Score et="823.0">Rafael Matta(8) lap=8 point=2 t=66.639 et=822.855</Score>
+<Score et="824.0">Joao Junior(2) lap=8 point=2 t=66.862 et=823.877</Score>
+<Score et="824.5">Marcelo Neiva(20) lap=8 point=2 t=67.520 et=824.311</Score>
+<Score et="824.8">Juan Manuel Gomez(15) lap=8 point=2 t=67.350 et=824.689</Score>
+<Score et="825.6">Arthur Targa(1) lap=8 point=2 t=67.138 et=825.431</Score>
+<Score et="833.3">Guilherme Secchi(0) lap=8 point=2 t=67.637 et=833.153</Score>
+<Score et="833.4">Jean Pierre(18) lap=9 point=0 t=84.004 et=833.273</Score>
+<Score et="834.0">Raphael Camelo(7) lap=9 point=0 t=83.975 et=833.829</Score>
+<Score et="835.7">Diego Freitas(4) lap=9 point=0 t=84.644 et=835.636</Score>
+<Score et="835.9">Josias Neto(3) lap=9 point=0 t=84.632 et=835.760</Score>
+<Score et="836.8">Eduardo Pehls(16) lap=8 point=2 t=66.904 et=836.691</Score>
+<Score et="840.2">Robson Radaell(10) lap=9 point=0 t=85.360 et=840.085</Score>
+<Score et="840.3">Bruno Fernandes(6) lap=9 point=0 t=85.250 et=840.198</Score>
+<Score et="840.5">Luiz de Melo(12) lap=9 point=0 t=85.216 et=840.378</Score>
+<Score et="840.8">Bernardo Cardoso(5) lap=9 point=0 t=84.758 et=840.700</Score>
+<Score et="840.9">Rafael Matta(8) lap=9 point=0 t=84.580 et=840.796</Score>
+<Score et="842.0">Joao Junior(2) lap=9 point=0 t=84.861 et=841.876</Score>
+<Score et="842.3">Marcelo Neiva(20) lap=9 point=0 t=85.376 et=842.168</Score>
+<Score et="842.8">Juan Manuel Gomez(15) lap=9 point=0 t=85.353 et=842.692</Score>
+<Score et="843.5">Arthur Targa(1) lap=9 point=0 t=-1.000 et=843.431</Score>
+<Score et="851.6">Guilherme Secchi(0) lap=9 point=0 t=85.957 et=851.472</Score>
+<Score et="854.6">Jean Pierre(18) lap=9 point=1 t=21.204 et=854.477</Score>
+<Score et="855.1">Raphael Camelo(7) lap=9 point=1 t=21.125 et=854.954</Score>
+<Score et="855.2">Eduardo Pehls(16) lap=9 point=0 t=85.263 et=855.049</Score>
+<Score et="857.5">Josias Neto(3) lap=9 point=1 t=21.599 et=857.358</Score>
+<Score et="857.7">Diego Freitas(4) lap=9 point=1 t=21.931 et=857.567</Score>
+<Score et="861.7">Robson Radaell(10) lap=9 point=1 t=21.500 et=861.585</Score>
+<Score et="862.0">Bruno Fernandes(6) lap=9 point=1 t=21.677 et=861.875</Score>
+<Score et="862.2">Luiz de Melo(12) lap=9 point=1 t=21.696 et=862.074</Score>
+<Score et="862.3">Rafael Matta(8) lap=9 point=1 t=21.374 et=862.170</Score>
+<Score et="862.4">Bernardo Cardoso(5) lap=9 point=1 t=21.602 et=862.302</Score>
+<Score et="863.3">Joao Junior(2) lap=9 point=1 t=21.312 et=863.189</Score>
+<Score et="863.7">Marcelo Neiva(20) lap=9 point=1 t=21.341 et=863.508</Score>
+<Score et="864.2">Juan Manuel Gomez(15) lap=9 point=1 t=21.414 et=864.107</Score>
+<Score et="865.1">Arthur Targa(1) lap=9 point=1 t=21.525 et=864.956</Score>
+<Score et="873.3">Guilherme Secchi(0) lap=9 point=1 t=21.710 et=873.182</Score>
+<Score et="876.9">Eduardo Pehls(16) lap=9 point=1 t=21.712 et=876.761</Score>
+<Incident et="883.7">Joao Junior(2) reported contact (0.10) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="883.8">Marcelo Neiva(20) reported contact (0.06) with another vehicle Joao Junior(2)</Incident>
+<Score et="899.4">Jean Pierre(18) lap=9 point=2 t=66.012 et=899.285</Score>
+<Score et="900.1">Raphael Camelo(7) lap=9 point=2 t=66.165 et=899.994</Score>
+<Score et="902.9">Josias Neto(3) lap=9 point=2 t=66.974 et=902.733</Score>
+<Score et="903.1">Diego Freitas(4) lap=9 point=2 t=67.360 et=902.995</Score>
+<Score et="907.4">Robson Radaell(10) lap=9 point=2 t=67.204 et=907.289</Score>
+<Score et="907.6">Bruno Fernandes(6) lap=9 point=2 t=67.326 et=907.524</Score>
+<Score et="907.9">Luiz de Melo(12) lap=9 point=2 t=67.453 et=907.831</Score>
+<Score et="908.1">Bernardo Cardoso(5) lap=9 point=2 t=67.275 et=907.975</Score>
+<Score et="908.6">Rafael Matta(8) lap=9 point=2 t=67.720 et=908.515</Score>
+<Score et="909.2">Joao Junior(2) lap=9 point=2 t=67.254 et=909.131</Score>
+<Score et="909.5">Marcelo Neiva(20) lap=9 point=2 t=67.216 et=909.383</Score>
+<Score et="910.8">Arthur Targa(1) lap=9 point=2 t=67.263 et=910.693</Score>
+<Score et="917.5">Jean Pierre(18) lap=10 point=0 t=84.096 et=917.369</Score>
+<Score et="918.0">Raphael Camelo(7) lap=10 point=0 t=84.052 et=917.881</Score>
+<Score et="919.2">Guilherme Secchi(0) lap=9 point=2 t=67.615 et=919.088</Score>
+<Score et="920.8">Josias Neto(3) lap=10 point=0 t=84.936 et=920.696</Score>
+<Score et="921.0">Diego Freitas(4) lap=10 point=0 t=85.295 et=920.930</Score>
+<Score et="922.6">Eduardo Pehls(16) lap=9 point=2 t=67.412 et=922.461</Score>
+<Score et="925.5">Robson Radaell(10) lap=10 point=0 t=85.328 et=925.412</Score>
+<Score et="925.6">Bruno Fernandes(6) lap=10 point=0 t=85.327 et=925.525</Score>
+<Score et="925.8">Luiz de Melo(12) lap=10 point=0 t=85.359 et=925.737</Score>
+<Score et="926.2">Bernardo Cardoso(5) lap=10 point=0 t=85.350 et=926.050</Score>
+<Score et="926.6">Rafael Matta(8) lap=10 point=0 t=85.670 et=926.465</Score>
+<Score et="927.3">Joao Junior(2) lap=10 point=0 t=85.326 et=927.202</Score>
+<Score et="927.5">Marcelo Neiva(20) lap=10 point=0 t=85.153 et=927.320</Score>
+<Score et="927.8">Juan Manuel Gomez(15) lap=10 point=0 t=85.025 et=927.717</Score>
+<Score et="928.9">Arthur Targa(1) lap=10 point=0 t=85.389 et=928.820</Score>
+<Score et="937.5">Guilherme Secchi(0) lap=10 point=0 t=85.883 et=937.356</Score>
+<Score et="938.8">Jean Pierre(18) lap=10 point=1 t=21.302 et=938.671</Score>
+<Score et="939.4">Raphael Camelo(7) lap=10 point=1 t=21.348 et=939.229</Score>
+<Score et="940.9">Eduardo Pehls(16) lap=10 point=0 t=85.748 et=940.797</Score>
+<Score et="942.2">Josias Neto(3) lap=10 point=1 t=21.362 et=942.058</Score>
+<Score et="942.3">Diego Freitas(4) lap=10 point=1 t=21.261 et=942.192</Score>
+<Score et="947.2">Bruno Fernandes(6) lap=10 point=1 t=21.579 et=947.104</Score>
+<Score et="947.4">Luiz de Melo(12) lap=10 point=1 t=21.524 et=947.260</Score>
+<Score et="947.6">Robson Radaell(10) lap=10 point=1 t=22.022 et=947.435</Score>
+<Score et="947.7">Bernardo Cardoso(5) lap=10 point=1 t=21.525 et=947.575</Score>
+<Score et="948.2">Rafael Matta(8) lap=10 point=1 t=21.625 et=948.090</Score>
+<Score et="948.8">Joao Junior(2) lap=10 point=1 t=21.486 et=948.688</Score>
+<Score et="949.1">Marcelo Neiva(20) lap=10 point=1 t=21.668 et=948.988</Score>
+<Score et="949.4">Juan Manuel Gomez(15) lap=10 point=1 t=21.529 et=949.247</Score>
+<Score et="950.5">Arthur Targa(1) lap=10 point=1 t=21.563 et=950.383</Score>
+<Score et="959.4">Guilherme Secchi(0) lap=10 point=1 t=21.929 et=959.284</Score>
+<Score et="962.5">Eduardo Pehls(16) lap=10 point=1 t=21.582 et=962.379</Score>
+<Incident et="969.3">Juan Manuel Gomez(15) reported contact (0.06) with another vehicle Marcelo Neiva(20)</Incident>
+<Score et="983.6">Jean Pierre(18) lap=10 point=2 t=66.132 et=983.501</Score>
+<Score et="984.8">Raphael Camelo(7) lap=10 point=2 t=66.798 et=984.679</Score>
+<Score et="987.6">Josias Neto(3) lap=10 point=2 t=66.801 et=987.497</Score>
+<Score et="988.0">Diego Freitas(4) lap=10 point=2 t=66.943 et=987.873</Score>
+<Score et="992.6">Bruno Fernandes(6) lap=10 point=2 t=66.954 et=992.479</Score>
+<Score et="992.7">Luiz de Melo(12) lap=10 point=2 t=66.888 et=992.625</Score>
+<Score et="993.4">Robson Radaell(10) lap=10 point=2 t=67.872 et=993.285</Score>
+<Score et="993.6">Bernardo Cardoso(5) lap=10 point=2 t=67.431 et=993.481</Score>
+<Score et="994.0">Rafael Matta(8) lap=10 point=2 t=67.415 et=993.880</Score>
+<Score et="994.4">Joao Junior(2) lap=10 point=2 t=67.099 et=994.301</Score>
+<Score et="995.2">Marcelo Neiva(20) lap=10 point=2 t=67.852 et=995.172</Score>
+<Score et="996.2">Arthur Targa(1) lap=10 point=2 t=67.299 et=996.118</Score>
+<Score et="1001.6">Jean Pierre(18) lap=11 point=0 t=84.102 et=1001.471</Score>
+<Score et="1002.8">Raphael Camelo(7) lap=11 point=0 t=84.785 et=1002.666</Score>
+<Score et="1005.7">Guilherme Secchi(0) lap=10 point=2 t=68.192 et=1005.547</Score>
+<Score et="1005.7">Josias Neto(3) lap=11 point=0 t=84.888 et=1005.585</Score>
+<Score et="1006.1">Diego Freitas(4) lap=11 point=0 t=85.064 et=1005.994</Score>
+<Score et="1008.1">Eduardo Pehls(16) lap=10 point=2 t=67.219 et=1008.016</Score>
+<Score et="1010.7">Bruno Fernandes(6) lap=11 point=0 t=85.070 et=1010.595</Score>
+<Score et="1010.8">Luiz de Melo(12) lap=11 point=0 t=84.945 et=1010.682</Score>
+<Score et="1011.6">Robson Radaell(10) lap=11 point=0 t=85.998 et=1011.410</Score>
+<Score et="1011.7">Bernardo Cardoso(5) lap=11 point=0 t=85.534 et=1011.584</Score>
+<Score et="1012.0">Rafael Matta(8) lap=11 point=0 t=85.400 et=1011.865</Score>
+<Score et="1012.3">Joao Junior(2) lap=11 point=0 t=-1.000 et=1012.232</Score>
+<Score et="1013.2">Marcelo Neiva(20) lap=11 point=0 t=85.796 et=1013.116</Score>
+<Score et="1013.7">Juan Manuel Gomez(15) lap=11 point=0 t=85.821 et=1013.539</Score>
+<Score et="1014.4">Arthur Targa(1) lap=11 point=0 t=85.442 et=1014.262</Score>
+<Score et="1022.9">Jean Pierre(18) lap=11 point=1 t=21.289 et=1022.760</Score>
+<Incident et="1023.0">Robson Radaell(10) reported contact (0.10) with another vehicle Rafael Matta(8)</Incident>
+<Incident et="1023.1">Rafael Matta(8) reported contact (0.10) with another vehicle Robson Radaell(10)</Incident>
+<Incident et="1023.9">Rafael Matta(8) reported contact (0.03) with another vehicle Joao Junior(2)</Incident>
+<Score et="1024.0">Guilherme Secchi(0) lap=11 point=0 t=86.467 et=1023.822</Score>
+<Score et="1024.0">Raphael Camelo(7) lap=11 point=1 t=21.243 et=1023.910</Score>
+<Score et="1026.3">Eduardo Pehls(16) lap=11 point=0 t=85.427 et=1026.224</Score>
+<Score et="1027.1">Josias Neto(3) lap=11 point=1 t=21.403 et=1026.988</Score>
+<Score et="1027.4">Diego Freitas(4) lap=11 point=1 t=21.273 et=1027.267</Score>
+<Score et="1032.3">Luiz de Melo(12) lap=11 point=1 t=21.558 et=1032.240</Score>
+<Score et="1032.5">Bruno Fernandes(6) lap=11 point=1 t=21.824 et=1032.419</Score>
+<Score et="1033.3">Bernardo Cardoso(5) lap=11 point=1 t=21.619 et=1033.203</Score>
+<Score et="1033.7">Robson Radaell(10) lap=11 point=1 t=22.125 et=1033.535</Score>
+<Score et="1033.9">Rafael Matta(8) lap=11 point=1 t=21.926 et=1033.792</Score>
+<Score et="1034.4">Joao Junior(2) lap=11 point=1 t=22.085 et=1034.316</Score>
+<Score et="1035.0">Marcelo Neiva(20) lap=11 point=1 t=21.572 et=1034.688</Score>
+<Score et="1035.2">Juan Manuel Gomez(15) lap=11 point=1 t=21.475 et=1035.014</Score>
+<Score et="1035.9">Arthur Targa(1) lap=11 point=1 t=21.521 et=1035.783</Score>
+<Incident et="1037.8">Luiz de Melo(12) reported contact (0.00) with another vehicle Bruno Fernandes(6)</Incident>
+<Score et="1045.7">Guilherme Secchi(0) lap=11 point=1 t=21.756 et=1045.579</Score>
+<Score et="1047.9">Eduardo Pehls(16) lap=11 point=1 t=21.578 et=1047.802</Score>
+<Score et="1067.9">Jean Pierre(18) lap=11 point=2 t=66.345 et=1067.816</Score>
+<Score et="1069.3">Raphael Camelo(7) lap=11 point=2 t=66.443 et=1069.109</Score>
+<Score et="1072.4">Josias Neto(3) lap=11 point=2 t=66.652 et=1072.236</Score>
+<Score et="1072.8">Diego Freitas(4) lap=11 point=2 t=66.756 et=1072.750</Score>
+<Score et="1077.8">Luiz de Melo(12) lap=11 point=2 t=67.042 et=1077.724</Score>
+<Score et="1078.1">Bruno Fernandes(6) lap=11 point=2 t=67.373 et=1077.968</Score>
+<Score et="1078.8">Bernardo Cardoso(5) lap=11 point=2 t=67.050 et=1078.635</Score>
+<Score et="1079.2">Robson Radaell(10) lap=11 point=2 t=67.635 et=1079.045</Score>
+<Score et="1080.1">Rafael Matta(8) lap=11 point=2 t=68.091 et=1079.957</Score>
+<Score et="1080.2">Joao Junior(2) lap=11 point=2 t=67.895 et=1080.126</Score>
+<Score et="1080.8">Marcelo Neiva(20) lap=11 point=2 t=67.401 et=1080.517</Score>
+<Score et="1081.8">Arthur Targa(1) lap=11 point=2 t=67.423 et=1081.685</Score>
+<Score et="1086.0">Jean Pierre(18) lap=12 point=0 t=84.464 et=1085.935</Score>
+<Score et="1087.3">Raphael Camelo(7) lap=12 point=0 t=84.527 et=1087.194</Score>
+<Score et="1090.4">Josias Neto(3) lap=12 point=0 t=84.699 et=1090.283</Score>
+<Score et="1090.8">Diego Freitas(4) lap=12 point=0 t=84.648 et=1090.642</Score>
+<Score et="1091.9">Guilherme Secchi(0) lap=11 point=2 t=67.986 et=1091.808</Score>
+<Score et="1094.3">Eduardo Pehls(16) lap=11 point=2 t=67.969 et=1094.193</Score>
+<Score et="1095.9">Luiz de Melo(12) lap=12 point=0 t=85.161 et=1095.843</Score>
+<Score et="1096.1">Bruno Fernandes(6) lap=12 point=0 t=85.440 et=1096.034</Score>
+<Score et="1097.0">Bernardo Cardoso(5) lap=12 point=0 t=85.298 et=1096.882</Score>
+<Score et="1097.2">Robson Radaell(10) lap=12 point=0 t=85.643 et=1097.053</Score>
+<Score et="1098.2">Rafael Matta(8) lap=12 point=0 t=86.253 et=1098.118</Score>
+<Score et="1098.4">Joao Junior(2) lap=12 point=0 t=86.045 et=1098.276</Score>
+<Score et="1098.5">Marcelo Neiva(20) lap=12 point=0 t=85.267 et=1098.383</Score>
+<Score et="1099.0">Juan Manuel Gomez(15) lap=12 point=0 t=85.304 et=1098.843</Score>
+<Score et="1100.0">Arthur Targa(1) lap=12 point=0 t=85.625 et=1099.886</Score>
+<Score et="1107.4">Jean Pierre(18) lap=12 point=1 t=21.334 et=1107.269</Score>
+<Score et="1108.6">Raphael Camelo(7) lap=12 point=1 t=21.286 et=1108.479</Score>
+<Score et="1110.3">Guilherme Secchi(0) lap=12 point=0 t=86.400 et=1110.222</Score>
+<Score et="1112.0">Josias Neto(3) lap=12 point=1 t=21.575 et=1111.858</Score>
+<Score et="1112.2">Diego Freitas(4) lap=12 point=1 t=21.414 et=1112.056</Score>
+<Score et="1112.5">Eduardo Pehls(16) lap=12 point=0 t=86.181 et=1112.405</Score>
+<Score et="1117.3">Luiz de Melo(12) lap=12 point=1 t=21.365 et=1117.207</Score>
+<Score et="1117.6">Bruno Fernandes(6) lap=12 point=1 t=21.472 et=1117.506</Score>
+<Score et="1118.6">Bernardo Cardoso(5) lap=12 point=1 t=21.573 et=1118.455</Score>
+<Score et="1118.8">Robson Radaell(10) lap=12 point=1 t=21.668 et=1118.720</Score>
+<Score et="1119.8">Rafael Matta(8) lap=12 point=1 t=21.604 et=1119.722</Score>
+<Score et="1120.0">Joao Junior(2) lap=12 point=1 t=21.668 et=1119.944</Score>
+<Score et="1120.7">Marcelo Neiva(20) lap=12 point=1 t=22.131 et=1120.515</Score>
+<Score et="1121.2">Juan Manuel Gomez(15) lap=12 point=1 t=22.202 et=1121.045</Score>
+<Score et="1121.6">Arthur Targa(1) lap=12 point=1 t=21.586 et=1121.473</Score>
+<Score et="1132.1">Guilherme Secchi(0) lap=12 point=1 t=21.753 et=1131.975</Score>
+<Score et="1134.1">Eduardo Pehls(16) lap=12 point=1 t=21.542 et=1133.946</Score>
+<Score et="1152.7">Jean Pierre(18) lap=12 point=2 t=66.631 et=1152.565</Score>
+<Score et="1154.0">Raphael Camelo(7) lap=12 point=2 t=66.624 et=1153.817</Score>
+<Score et="1157.2">Josias Neto(3) lap=12 point=2 t=66.838 et=1157.121</Score>
+<Score et="1157.6">Diego Freitas(4) lap=12 point=2 t=66.825 et=1157.467</Score>
+<Score et="1162.9">Luiz de Melo(12) lap=12 point=2 t=66.988 et=1162.830</Score>
+<Score et="1163.2">Bruno Fernandes(6) lap=12 point=2 t=67.059 et=1163.093</Score>
+<Score et="1164.5">Bernardo Cardoso(5) lap=12 point=2 t=67.503 et=1164.385</Score>
+<Score et="1164.8">Robson Radaell(10) lap=12 point=2 t=67.582 et=1164.635</Score>
+<Score et="1165.6">Rafael Matta(8) lap=12 point=2 t=67.406 et=1165.524</Score>
+<Score et="1166.1">Joao Junior(2) lap=12 point=2 t=67.740 et=1166.016</Score>
+<Score et="1166.4">Marcelo Neiva(20) lap=12 point=2 t=67.814 et=1166.197</Score>
+<Score et="1166.9">Juan Manuel Gomez(15) lap=12 point=2 t=67.946 et=1166.789</Score>
+<Score et="1167.4">Arthur Targa(1) lap=12 point=2 t=67.383 et=1167.269</Score>
+<Score et="1170.8">Jean Pierre(18) lap=13 point=0 t=84.751 et=1170.686</Score>
+<Score et="1172.1">Raphael Camelo(7) lap=13 point=0 t=84.727 et=1171.920</Score>
+<Score et="1175.3">Josias Neto(3) lap=13 point=0 t=84.900 et=1175.183</Score>
+<Score et="1175.4">Diego Freitas(4) lap=13 point=0 t=84.650 et=1175.292</Score>
+<Score et="1178.4">Guilherme Secchi(0) lap=12 point=2 t=68.059 et=1178.281</Score>
+<Score et="1179.9">Eduardo Pehls(16) lap=12 point=2 t=67.335 et=1179.740</Score>
+<Score et="1181.0">Luiz de Melo(12) lap=13 point=0 t=85.031 et=1180.874</Score>
+<Score et="1181.3">Bruno Fernandes(6) lap=13 point=0 t=85.187 et=1181.221</Score>
+<Score et="1182.8">Bernardo Cardoso(5) lap=13 point=0 t=85.777 et=1182.659</Score>
+<Score et="1183.8">Rafael Matta(8) lap=13 point=0 t=85.604 et=1183.722</Score>
+<Score et="1184.3">Joao Junior(2) lap=13 point=0 t=85.925 et=1184.202</Score>
+<Score et="1184.5">Marcelo Neiva(20) lap=13 point=0 t=85.984 et=1184.367</Score>
+<Score et="1185.6">Arthur Targa(1) lap=13 point=0 t=85.626 et=1185.512</Score>
+<Score et="1185.6">Juan Manuel Gomez(15) lap=13 point=0 t=86.221 et=1185.064</Score>
+<Score et="1192.0">Jean Pierre(18) lap=13 point=1 t=21.261 et=1191.947</Score>
+<Score et="1193.4">Raphael Camelo(7) lap=13 point=1 t=21.310 et=1193.231</Score>
+<Score et="1196.8">Guilherme Secchi(0) lap=13 point=0 t=86.510 et=1196.733</Score>
+<Score et="1196.9">Diego Freitas(4) lap=13 point=1 t=21.567 et=1196.859</Score>
+<Score et="1197.1">Josias Neto(3) lap=13 point=1 t=21.813 et=1196.997</Score>
+<Score et="1198.3">Eduardo Pehls(16) lap=13 point=0 t=85.769 et=1198.173</Score>
+<Score et="1202.4">Luiz de Melo(12) lap=13 point=1 t=21.380 et=1202.254</Score>
+<Score et="1202.9">Bruno Fernandes(6) lap=13 point=1 t=21.547 et=1202.768</Score>
+<Score et="1204.2">Bernardo Cardoso(5) lap=13 point=1 t=21.374 et=1204.033</Score>
+<Score et="1205.6">Rafael Matta(8) lap=13 point=1 t=21.760 et=1205.482</Score>
+<Score et="1205.8">Joao Junior(2) lap=13 point=1 t=21.458 et=1205.660</Score>
+<Score et="1206.0">Marcelo Neiva(20) lap=13 point=1 t=21.481 et=1205.848</Score>
+<Score et="1206.6">Juan Manuel Gomez(15) lap=13 point=1 t=21.442 et=1206.506</Score>
+<Score et="1207.2">Arthur Targa(1) lap=13 point=1 t=21.626 et=1207.139</Score>
+<Score et="1212.7">Robson Radaell(10) lap=13 point=0 t=115.532 et=1212.585</Score>
+<Score et="1218.5">Guilherme Secchi(0) lap=13 point=1 t=21.631 et=1218.364</Score>
+<Score et="1219.9">Eduardo Pehls(16) lap=13 point=1 t=21.656 et=1219.829</Score>
+<Score et="1237.2">Jean Pierre(18) lap=13 point=2 t=66.399 et=1237.085</Score>
+<Score et="1238.7">Raphael Camelo(7) lap=13 point=2 t=66.636 et=1238.556</Score>
+<Score et="1239.5">Robson Radaell(10) lap=13 point=1 t=26.768 et=1239.353</Score>
+<Score et="1242.6">Diego Freitas(4) lap=13 point=2 t=67.201 et=1242.493</Score>
+<Score et="1242.9">Josias Neto(3) lap=13 point=2 t=67.606 et=1242.789</Score>
+<Score et="1247.9">Luiz de Melo(12) lap=13 point=2 t=66.959 et=1247.833</Score>
+<Score et="1248.4">Bruno Fernandes(6) lap=13 point=2 t=67.101 et=1248.322</Score>
+<Score et="1250.0">Bernardo Cardoso(5) lap=13 point=2 t=67.191 et=1249.850</Score>
+<Score et="1251.6">Rafael Matta(8) lap=13 point=2 t=67.746 et=1251.468</Score>
+<Score et="1251.9">Marcelo Neiva(20) lap=13 point=2 t=67.341 et=1251.708</Score>
+<Score et="1252.5">Joao Junior(2) lap=13 point=2 t=68.183 et=1252.385</Score>
+<Score et="1253.1">Arthur Targa(1) lap=13 point=2 t=67.443 et=1252.956</Score>
+<Score et="1255.3">Jean Pierre(18) lap=14 point=0 t=84.565 et=1255.251</Score>
+<Score et="1256.7">Raphael Camelo(7) lap=14 point=0 t=84.684 et=1256.604</Score>
+<Score et="1260.7">Diego Freitas(4) lap=14 point=0 t=85.293 et=1260.585</Score>
+<Score et="1261.2">Josias Neto(3) lap=14 point=0 t=85.825 et=1261.008</Score>
+<Score et="1265.1">Guilherme Secchi(0) lap=13 point=2 t=68.231 et=1264.963</Score>
+<Score et="1265.8">Eduardo Pehls(16) lap=13 point=2 t=67.575 et=1265.748</Score>
+<Score et="1266.2">Luiz de Melo(12) lap=14 point=0 t=85.228 et=1266.102</Score>
+<Score et="1266.6">Bruno Fernandes(6) lap=14 point=0 t=85.263 et=1266.484</Score>
+<Score et="1270.0">Marcelo Neiva(20) lap=14 point=0 t=85.473 et=1269.840</Score>
+<Score et="1270.7">Joao Junior(2) lap=14 point=0 t=86.332 et=1270.534</Score>
+<Score et="1271.0">Juan Manuel Gomez(15) lap=14 point=0 t=85.816 et=1270.880</Score>
+<Score et="1271.4">Arthur Targa(1) lap=14 point=0 t=85.728 et=1271.241</Score>
+<Score et="1276.8">Jean Pierre(18) lap=14 point=1 t=21.418 et=1276.669</Score>
+<Score et="1278.1">Raphael Camelo(7) lap=14 point=1 t=21.300 et=1277.904</Score>
+<Score et="1282.1">Diego Freitas(4) lap=14 point=1 t=21.361 et=1281.946</Score>
+<Score et="1282.4">Josias Neto(3) lap=14 point=1 t=21.285 et=1282.294</Score>
+<Score et="1283.5">Guilherme Secchi(0) lap=14 point=0 t=86.623 et=1283.355</Score>
+<Score et="1284.2">Eduardo Pehls(16) lap=14 point=0 t=85.901 et=1284.074</Score>
+<Score et="1284.5">Robson Radaell(10) lap=13 point=2 t=71.750 et=1284.335</Score>
+<Score et="1287.6">Luiz de Melo(12) lap=14 point=1 t=21.437 et=1287.539</Score>
+<Score et="1288.1">Bruno Fernandes(6) lap=14 point=1 t=21.501 et=1287.985</Score>
+<Score et="1291.4">Marcelo Neiva(20) lap=14 point=1 t=21.420 et=1291.260</Score>
+<Score et="1292.1">Joao Junior(2) lap=14 point=1 t=21.493 et=1292.026</Score>
+<Score et="1292.5">Juan Manuel Gomez(15) lap=14 point=1 t=21.486 et=1292.366</Score>
+<Score et="1292.8">Arthur Targa(1) lap=14 point=1 t=21.424 et=1292.664</Score>
+<Score et="1297.8">Bernardo Cardoso(5) lap=14 point=0 t=114.966 et=1297.625</Score>
+<Score et="1299.2">Rafael Matta(8) lap=14 point=0 t=115.398 et=1299.120</Score>
+<Score et="1302.4">Robson Radaell(10) lap=14 point=0 t=89.740 et=1302.325</Score>
+<Score et="1305.6">Guilherme Secchi(0) lap=14 point=1 t=22.130 et=1305.485</Score>
+<Score et="1305.9">Eduardo Pehls(16) lap=14 point=1 t=21.779 et=1305.853</Score>
+<Score et="1322.1">Jean Pierre(18) lap=14 point=2 t=66.714 et=1321.965</Score>
+<Score et="1323.5">Raphael Camelo(7) lap=14 point=2 t=66.725 et=1323.329</Score>
+<Score et="1323.7">Bernardo Cardoso(5) lap=14 point=1 t=25.828 et=1323.453</Score>
+<Score et="1323.9">Robson Radaell(10) lap=14 point=1 t=21.510 et=1323.835</Score>
+<Score et="1325.1">Rafael Matta(8) lap=14 point=1 t=25.886 et=1325.006</Score>
+<Score et="1327.5">Diego Freitas(4) lap=14 point=2 t=66.865 et=1327.450</Score>
+<Score et="1328.2">Josias Neto(3) lap=14 point=2 t=67.028 et=1328.036</Score>
+<Score et="1333.2">Luiz de Melo(12) lap=14 point=2 t=67.014 et=1333.115</Score>
+<Score et="1333.8">Bruno Fernandes(6) lap=14 point=2 t=67.184 et=1333.669</Score>
+<Score et="1336.9">Marcelo Neiva(20) lap=14 point=2 t=66.928 et=1336.768</Score>
+<Score et="1338.1">Joao Junior(2) lap=14 point=2 t=67.443 et=1337.976</Score>
+<Score et="1338.4">Juan Manuel Gomez(15) lap=14 point=2 t=67.415 et=1338.295</Score>
+<Score et="1338.8">Arthur Targa(1) lap=14 point=2 t=67.415 et=1338.656</Score>
+<Score et="1340.2">Jean Pierre(18) lap=15 point=0 t=84.817 et=1340.068</Score>
+<Score et="1341.5">Raphael Camelo(7) lap=15 point=0 t=84.754 et=1341.359</Score>
+<Score et="1345.8">Diego Freitas(4) lap=15 point=0 t=85.064 et=1345.649</Score>
+<Score et="1346.3">Josias Neto(3) lap=15 point=0 t=85.181 et=1346.189</Score>
+<Score et="1351.4">Luiz de Melo(12) lap=15 point=0 t=85.147 et=1351.249</Score>
+<Score et="1351.9">Guilherme Secchi(0) lap=14 point=2 t=68.473 et=1351.828</Score>
+<Score et="1352.4">Eduardo Pehls(16) lap=14 point=2 t=68.162 et=1352.236</Score>
+<Score et="1355.0">Marcelo Neiva(20) lap=15 point=0 t=85.018 et=1354.858</Score>
+<Score et="1357.2">Arthur Targa(1) lap=15 point=0 t=85.828 et=1357.069</Score>
+<Score et="1361.6">Jean Pierre(18) lap=15 point=1 t=21.430 et=1361.497</Score>
+<Score et="1362.8">Raphael Camelo(7) lap=15 point=1 t=21.300 et=1362.659</Score>
+<Score et="1367.2">Diego Freitas(4) lap=15 point=1 t=21.459 et=1367.108</Score>
+<Score et="1367.7">Josias Neto(3) lap=15 point=1 t=21.384 et=1367.573</Score>
+<Score et="1368.5">Bernardo Cardoso(5) lap=14 point=2 t=70.727 et=1368.352</Score>
+<Score et="1368.7">Robson Radaell(10) lap=14 point=2 t=66.223 et=1368.547</Score>
+<Score et="1370.1">Rafael Matta(8) lap=14 point=2 t=70.870 et=1369.990</Score>
+<Score et="1370.5">Guilherme Secchi(0) lap=15 point=0 t=86.985 et=1370.341</Score>
+<Score et="1370.7">Eduardo Pehls(16) lap=15 point=0 t=86.537 et=1370.611</Score>
+<Score et="1372.7">Luiz de Melo(12) lap=15 point=1 t=21.382 et=1372.630</Score>
+<Score et="1376.5">Marcelo Neiva(20) lap=15 point=1 t=21.505 et=1376.363</Score>
+<Score et="1378.7">Arthur Targa(1) lap=15 point=1 t=21.514 et=1378.583</Score>
+<Score et="1381.0">Bruno Fernandes(6) lap=15 point=0 t=114.359 et=1380.843</Score>
+<Score et="1385.1">Joao Junior(2) lap=15 point=0 t=114.468 et=1385.001</Score>
+<Score et="1385.5">Juan Manuel Gomez(15) lap=15 point=0 t=114.534 et=1385.414</Score>
+<Score et="1386.4">Bernardo Cardoso(5) lap=15 point=0 t=88.675 et=1386.300</Score>
+<Score et="1386.5">Robson Radaell(10) lap=15 point=0 t=84.078 et=1386.403</Score>
+<Score et="1388.1">Rafael Matta(8) lap=15 point=0 t=88.870 et=1387.990</Score>
+<Score et="1392.3">Eduardo Pehls(16) lap=15 point=1 t=21.634 et=1392.245</Score>
+<Score et="1392.8">Guilherme Secchi(0) lap=15 point=1 t=-1.000 et=1392.731</Score>
+<Score et="1406.9">Bruno Fernandes(6) lap=15 point=1 t=25.986 et=1406.829</Score>
+<Score et="1407.0">Jean Pierre(18) lap=15 point=2 t=66.844 et=1406.912</Score>
+<Score et="1407.8">Bernardo Cardoso(5) lap=15 point=1 t=21.404 et=1407.704</Score>
+<Score et="1408.0">Robson Radaell(10) lap=15 point=1 t=21.460 et=1407.862</Score>
+<Score et="1408.2">Raphael Camelo(7) lap=15 point=2 t=66.662 et=1408.020</Score>
+<Score et="1409.4">Rafael Matta(8) lap=15 point=1 t=21.250 et=1409.240</Score>
+<Score et="1410.8">Joao Junior(2) lap=15 point=1 t=25.725 et=1410.726</Score>
+<Score et="1411.5">Juan Manuel Gomez(15) lap=15 point=1 t=25.983 et=1411.397</Score>
+<Score et="1412.8">Diego Freitas(4) lap=15 point=2 t=67.096 et=1412.746</Score>
+<Score et="1413.3">Josias Neto(3) lap=15 point=2 t=66.971 et=1413.161</Score>
+<Score et="1418.6">Luiz de Melo(12) lap=15 point=2 t=67.225 et=1418.474</Score>
+<Score et="1424.0">Marcelo Neiva(20) lap=15 point=2 t=69.003 et=1423.861</Score>
+<Score et="1424.5">Arthur Targa(1) lap=15 point=2 t=67.303 et=1424.372</Score>
+<Score et="1425.2">Jean Pierre(18) lap=16 point=0 t=-1.000 et=1425.060</Score>
+<Score et="1426.3">Raphael Camelo(7) lap=16 point=0 t=84.796 et=1426.154</Score>
+<Score et="1430.9">Diego Freitas(4) lap=16 point=0 t=85.159 et=1430.808</Score>
+<Incident et="1432.3">Luiz de Melo(12) reported contact (0.06) with Immovable</Incident>
+<Incident et="1432.4">Luiz de Melo(12) reported contact (0.42) with Immovable</Incident>
+<Score et="1438.3">Eduardo Pehls(16) lap=15 point=2 t=67.566 et=1438.177</Score>
+<Score et="1439.4">Guilherme Secchi(0) lap=15 point=2 t=-1.000 et=1439.286</Score>
+<Score et="1446.4">Jean Pierre(18) lap=16 point=1 t=21.252 et=1446.312</Score>
+<Score et="1447.9">Raphael Camelo(7) lap=16 point=1 t=21.643 et=1447.797</Score>
+<Score et="1451.8">Bruno Fernandes(6) lap=15 point=2 t=70.875 et=1451.718</Score>
+<Score et="1452.3">Diego Freitas(4) lap=16 point=1 t=21.333 et=1452.142</Score>
+<Score et="1452.6">Bernardo Cardoso(5) lap=15 point=2 t=66.182 et=1452.482</Score>
+<Score et="1452.9">Robson Radaell(10) lap=15 point=2 t=66.399 et=1452.802</Score>
+<Score et="1454.1">Rafael Matta(8) lap=15 point=2 t=66.041 et=1454.031</Score>
+<Score et="1456.4">Joao Junior(2) lap=15 point=2 t=71.292 et=1456.293</Score>
+<Score et="1456.7">Eduardo Pehls(16) lap=16 point=0 t=85.953 et=1456.564</Score>
+<Score et="1456.8">Juan Manuel Gomez(15) lap=15 point=2 t=71.266 et=1456.680</Score>
+<Score et="1457.6">Guilherme Secchi(0) lap=16 point=0 t=-1.000 et=1457.463</Score>
+<Score et="1460.6">Josias Neto(3) lap=16 point=0 t=114.269 et=1460.458</Score>
+<Score et="1466.7">Luiz de Melo(12) lap=16 point=0 t=115.377 et=1466.625</Score>
+<Score et="1469.8">Bruno Fernandes(6) lap=16 point=0 t=88.868 et=1469.711</Score>
+<Score et="1470.4">Bernardo Cardoso(5) lap=16 point=0 t=84.012 et=1470.312</Score>
+<Score et="1470.4">Marcelo Neiva(20) lap=16 point=0 t=115.475 et=1470.333</Score>
+<Score et="1470.7">Robson Radaell(10) lap=16 point=0 t=84.174 et=1470.576</Score>
+<Score et="1471.5">Arthur Targa(1) lap=16 point=0 t=114.337 et=1471.406</Score>
+<Score et="1471.9">Rafael Matta(8) lap=16 point=0 t=83.857 et=1471.847</Score>
+<Score et="1474.6">Joao Junior(2) lap=16 point=0 t=89.439 et=1474.440</Score>
+<Score et="1475.5">Juan Manuel Gomez(15) lap=16 point=0 t=89.125 et=1474.539</Score>
+<Score et="1478.4">Eduardo Pehls(16) lap=16 point=1 t=21.722 et=1478.286</Score>
+<Score et="1479.1">Guilherme Secchi(0) lap=16 point=1 t=21.564 et=1479.026</Score>
+<Incident et="1485.3">Marcelo Neiva(20) reported contact (0.03) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Incident et="1485.3">Juan Manuel Gomez(15) reported contact (0.16) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1486.6">Juan Manuel Gomez(15) reported contact (0.10) with another vehicle Marcelo Neiva(20)</Incident>
+<Score et="1486.7">Josias Neto(3) lap=16 point=1 t=26.085 et=1486.543</Score>
+<Score et="1491.2">Bruno Fernandes(6) lap=16 point=1 t=21.384 et=1491.095</Score>
+<Score et="1491.7">Bernardo Cardoso(5) lap=16 point=1 t=21.220 et=1491.532</Score>
+<Score et="1491.8">Jean Pierre(18) lap=16 point=2 t=66.679 et=1491.738</Score>
+<Score et="1491.9">Robson Radaell(10) lap=16 point=1 t=21.167 et=1491.743</Score>
+<Score et="1492.4">Luiz de Melo(12) lap=16 point=1 t=25.623 et=1492.249</Score>
+<Score et="1493.2">Rafael Matta(8) lap=16 point=1 t=21.228 et=1493.076</Score>
+<Score et="1493.4">Raphael Camelo(7) lap=16 point=2 t=67.128 et=1493.282</Score>
+<Score et="1496.3">Joao Junior(2) lap=16 point=1 t=21.714 et=1496.154</Score>
+<Score et="1497.0">Juan Manuel Gomez(15) lap=16 point=1 t=-1.000 et=1496.925</Score>
+<Score et="1497.4">Marcelo Neiva(20) lap=16 point=1 t=26.952 et=1497.285</Score>
+<Score et="1497.8">Arthur Targa(1) lap=16 point=1 t=26.303 et=1497.709</Score>
+<Score et="1497.9">Diego Freitas(4) lap=16 point=2 t=66.991 et=1497.800</Score>
+<Score et="1510.1">Jean Pierre(18) lap=17 point=0 t=84.901 et=1509.961</Score>
+<Score et="1516.0">Diego Freitas(4) lap=17 point=0 t=85.125 et=1515.933</Score>
+<Score et="1524.9">Eduardo Pehls(16) lap=16 point=2 t=68.250 et=1524.814</Score>
+<Score et="1525.9">Guilherme Secchi(0) lap=16 point=2 t=68.344 et=1525.807</Score>
+<Score et="1531.5">Jean Pierre(18) lap=17 point=1 t=21.433 et=1531.394</Score>
+<Score et="1531.9">Josias Neto(3) lap=16 point=2 t=71.339 et=1531.798</Score>
+<Score et="1536.0">Bruno Fernandes(6) lap=16 point=2 t=66.211 et=1535.922</Score>
+<Score et="1536.6">Bernardo Cardoso(5) lap=16 point=2 t=66.151 et=1536.462</Score>
+<Score et="1536.9">Robson Radaell(10) lap=16 point=2 t=66.133 et=1536.710</Score>
+<Score et="1537.5">Diego Freitas(4) lap=17 point=1 t=21.470 et=1537.403</Score>
+<Score et="1537.7">Luiz de Melo(12) lap=16 point=2 t=70.958 et=1537.583</Score>
+<Score et="1538.7">Rafael Matta(8) lap=16 point=2 t=66.718 et=1538.565</Score>
+<Score et="1539.5">Raphael Camelo(7) lap=17 point=0 t=113.252 et=1539.406</Score>
+<Score et="1541.6">Joao Junior(2) lap=16 point=2 t=67.086 et=1541.526</Score>
+<Score et="1541.9">Juan Manuel Gomez(15) lap=16 point=2 t=-1.000 et=1541.805</Score>
+<Score et="1542.6">Marcelo Neiva(20) lap=16 point=2 t=72.116 et=1542.449</Score>
+<Score et="1543.3">Arthur Targa(1) lap=16 point=2 t=71.800 et=1543.206</Score>
+<Score et="1549.8">Josias Neto(3) lap=17 point=0 t=89.204 et=1549.662</Score>
+<Score et="1553.9">Bruno Fernandes(6) lap=17 point=0 t=84.090 et=1553.801</Score>
+<Score et="1554.4">Bernardo Cardoso(5) lap=17 point=0 t=83.919 et=1554.231</Score>
+<Score et="1554.7">Robson Radaell(10) lap=17 point=0 t=83.983 et=1554.560</Score>
+<Score et="1555.7">Luiz de Melo(12) lap=17 point=0 t=88.954 et=1555.579</Score>
+<Score et="1556.8">Rafael Matta(8) lap=17 point=0 t=84.833 et=1556.680</Score>
+<Score et="1559.5">Joao Junior(2) lap=17 point=0 t=84.965 et=1559.406</Score>
+<Score et="1559.9">Juan Manuel Gomez(15) lap=17 point=0 t=-1.000 et=1559.739</Score>
+<Score et="1560.3">Marcelo Neiva(20) lap=17 point=0 t=89.856 et=1560.189</Score>
+<Score et="1561.2">Arthur Targa(1) lap=17 point=0 t=89.725 et=1561.131</Score>
+<Score et="1565.2">Raphael Camelo(7) lap=17 point=1 t=25.648 et=1565.054</Score>
+<Score et="1571.1">Josias Neto(3) lap=17 point=1 t=21.271 et=1570.934</Score>
+<Score et="1571.9">Eduardo Pehls(16) lap=17 point=0 t=115.197 et=1571.761</Score>
+<Score et="1573.2">Guilherme Secchi(0) lap=17 point=0 t=115.585 et=1573.047</Score>
+<Score et="1575.2">Bruno Fernandes(6) lap=17 point=1 t=21.317 et=1575.118</Score>
+<Score et="1575.6">Bernardo Cardoso(5) lap=17 point=1 t=21.199 et=1575.430</Score>
+<Score et="1576.1">Robson Radaell(10) lap=17 point=1 t=21.415 et=1575.974</Score>
+<Score et="1576.9">Luiz de Melo(12) lap=17 point=1 t=21.224 et=1576.804</Score>
+<Score et="1577.4">Jean Pierre(18) lap=17 point=2 t=67.390 et=1577.351</Score>
+<Score et="1578.1">Rafael Matta(8) lap=17 point=1 t=21.295 et=1577.975</Score>
+<Score et="1580.6">Joao Junior(2) lap=17 point=1 t=21.104 et=1580.509</Score>
+<Score et="1581.1">Juan Manuel Gomez(15) lap=17 point=1 t=21.207 et=1580.946</Score>
+<Score et="1581.6">Marcelo Neiva(20) lap=17 point=1 t=21.326 et=1581.515</Score>
+<Score et="1582.6">Arthur Targa(1) lap=17 point=1 t=21.391 et=1582.522</Score>
+<Score et="1583.5">Diego Freitas(4) lap=17 point=2 t=67.458 et=1583.392</Score>
+<Score et="1597.9">Eduardo Pehls(16) lap=17 point=1 t=26.060 et=1597.821</Score>
+<Score et="1599.2">Guilherme Secchi(0) lap=17 point=1 t=26.000 et=1599.047</Score>
+<Score et="1601.8">Diego Freitas(4) lap=18 point=0 t=85.758 et=1601.692</Score>
+<Score et="1610.0">Raphael Camelo(7) lap=17 point=2 t=70.423 et=1609.829</Score>
+<Score et="1615.9">Josias Neto(3) lap=17 point=2 t=66.046 et=1615.708</Score>
+<Score et="1620.5">Bernardo Cardoso(5) lap=17 point=2 t=66.169 et=1620.400</Score>
+<Score et="1620.7">Bruno Fernandes(6) lap=17 point=2 t=66.742 et=1620.543</Score>
+<Score et="1621.4">Robson Radaell(10) lap=17 point=2 t=66.675 et=1621.235</Score>
+<Score et="1621.9">Luiz de Melo(12) lap=17 point=2 t=66.179 et=1621.758</Score>
+<Score et="1623.3">Diego Freitas(4) lap=18 point=1 t=21.538 et=1623.230</Score>
+<Score et="1623.4">Rafael Matta(8) lap=17 point=2 t=66.548 et=1623.228</Score>
+<Score et="1625.7">Joao Junior(2) lap=17 point=2 t=66.134 et=1625.540</Score>
+<Score et="1626.1">Juan Manuel Gomez(15) lap=17 point=2 t=66.225 et=1625.964</Score>
+<Score et="1626.6">Marcelo Neiva(20) lap=17 point=2 t=66.244 et=1626.433</Score>
+<Score et="1627.0">Jean Pierre(18) lap=18 point=0 t=116.899 et=1626.860</Score>
+<Score et="1627.7">Raphael Camelo(7) lap=18 point=0 t=-1.000 et=1627.530</Score>
+<Score et="1627.8">Arthur Targa(1) lap=17 point=2 t=66.516 et=1627.647</Score>
+<Score et="1633.7">Josias Neto(3) lap=18 point=0 t=83.846 et=1633.508</Score>
+<Score et="1638.5">Bernardo Cardoso(5) lap=18 point=0 t=84.106 et=1638.337</Score>
+<Score et="1638.5">Bruno Fernandes(6) lap=18 point=0 t=84.633 et=1638.434</Score>
+<Score et="1639.3">Robson Radaell(10) lap=18 point=0 t=84.638 et=1639.198</Score>
+<Score et="1639.6">Luiz de Melo(12) lap=18 point=0 t=83.938 et=1639.518</Score>
+<Score et="1641.4">Rafael Matta(8) lap=18 point=0 t=84.560 et=1641.240</Score>
+<Score et="1643.2">Eduardo Pehls(16) lap=17 point=2 t=71.357 et=1643.118</Score>
+<Score et="1643.5">Joao Junior(2) lap=18 point=0 t=84.014 et=1643.420</Score>
+<Score et="1644.0">Juan Manuel Gomez(15) lap=18 point=0 t=84.153 et=1643.892</Score>
+<Score et="1644.3">Marcelo Neiva(20) lap=18 point=0 t=83.953 et=1644.142</Score>
+<Score et="1645.0">Guilherme Secchi(0) lap=17 point=2 t=71.800 et=1644.847</Score>
+<Score et="1645.6">Arthur Targa(1) lap=18 point=0 t=84.380 et=1645.510</Score>
+<Score et="1648.9">Raphael Camelo(7) lap=18 point=1 t=21.175 et=1648.704</Score>
+<Incident et="1652.0">Juan Manuel Gomez(15) reported contact (0.10) with another vehicle Marcelo Neiva(20)</Incident>
+<Score et="1652.8">Jean Pierre(18) lap=18 point=1 t=25.825 et=1652.685</Score>
+<Score et="1654.9">Josias Neto(3) lap=18 point=1 t=21.276 et=1654.784</Score>
+<Incident et="1655.1">Marcelo Neiva(20) reported contact (0.10) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Incident et="1655.1">Juan Manuel Gomez(15) reported contact (0.06) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1657.8">Marcelo Neiva(20) reported contact (0.26) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Incident et="1657.9">Juan Manuel Gomez(15) reported contact (0.03) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1657.9">Juan Manuel Gomez(15) reported contact (0.16) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1657.9">Marcelo Neiva(20) reported contact (0.10) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Incident et="1657.9">Marcelo Neiva(20) reported contact (0.13) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Incident et="1657.9">Juan Manuel Gomez(15) reported contact (0.10) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1658.0">Juan Manuel Gomez(15) reported contact (0.13) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1658.0">Marcelo Neiva(20) reported contact (0.16) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Score et="1659.9">Bruno Fernandes(6) lap=18 point=1 t=21.362 et=1659.796</Score>
+<Score et="1660.0">Bernardo Cardoso(5) lap=18 point=1 t=21.554 et=1659.891</Score>
+<Score et="1660.6">Robson Radaell(10) lap=18 point=1 t=21.323 et=1660.521</Score>
+<Score et="1660.8">Luiz de Melo(12) lap=18 point=1 t=21.206 et=1660.724</Score>
+<Score et="1661.3">Eduardo Pehls(16) lap=18 point=0 t=89.412 et=1661.174</Score>
+<Score et="1662.6">Rafael Matta(8) lap=18 point=1 t=21.282 et=1662.522</Score>
+<Score et="1663.3">Guilherme Secchi(0) lap=18 point=0 t=90.125 et=1663.172</Score>
+<Score et="1664.6">Joao Junior(2) lap=18 point=1 t=21.084 et=1664.503</Score>
+<Score et="1666.0">Juan Manuel Gomez(15) lap=18 point=1 t=21.972 et=1665.864</Score>
+<Score et="1666.2">Marcelo Neiva(20) lap=18 point=1 t=-1.000 et=1666.037</Score>
+<Score et="1666.9">Arthur Targa(1) lap=18 point=1 t=21.274 et=1666.784</Score>
+<Score et="1669.3">Diego Freitas(4) lap=18 point=2 t=67.475 et=1669.167</Score>
+<Incident et="1669.3">Marcelo Neiva(20) reported contact (0.23) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Incident et="1669.3">Juan Manuel Gomez(15) reported contact (0.26) with another vehicle Marcelo Neiva(20)</Incident>
+<Incident et="1669.4">Marcelo Neiva(20) reported contact (0.10) with another vehicle Juan Manuel Gomez(15)</Incident>
+<Score et="1682.7">Eduardo Pehls(16) lap=18 point=1 t=21.397 et=1682.571</Score>
+<Score et="1684.7">Guilherme Secchi(0) lap=18 point=1 t=21.400 et=1684.572</Score>
+<Incident et="1690.9">Guilherme Secchi(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="1691.2">Guilherme Secchi(0) reported contact (0.06) with Immovable</Incident>
+<Incident et="1693.1">Guilherme Secchi(0) reported contact (0.13) with Wheel</Incident>
+<Score et="1693.4">Raphael Camelo(7) lap=18 point=2 t=65.700 et=1693.229</Score>
+<Score et="1698.0">Jean Pierre(18) lap=18 point=2 t=71.051 et=1697.911</Score>
+<Score et="1699.6">Josias Neto(3) lap=18 point=2 t=65.957 et=1699.466</Score>
+<Score et="1704.9">Bruno Fernandes(6) lap=18 point=2 t=66.361 et=1704.794</Score>
+<Score et="1705.1">Bernardo Cardoso(5) lap=18 point=2 t=66.670 et=1705.006</Score>
+<Score et="1705.7">Robson Radaell(10) lap=18 point=2 t=66.425 et=1705.623</Score>
+<Score et="1706.0">Luiz de Melo(12) lap=18 point=2 t=66.406 et=1705.924</Score>
+<Score et="1707.8">Rafael Matta(8) lap=18 point=2 t=66.400 et=1707.640</Score>
+<Score et="1709.8">Joao Junior(2) lap=18 point=2 t=66.237 et=1709.657</Score>
+<Score et="1711.2">Raphael Camelo(7) lap=19 point=0 t=83.487 et=1711.016</Score>
+<Score et="1711.5">Marcelo Neiva(20) lap=18 point=2 t=-1.000 et=1711.408</Score>
+<Score et="1712.5">Arthur Targa(1) lap=18 point=2 t=66.832 et=1712.343</Score>
+<Score et="1714.1">Juan Manuel Gomez(15) lap=18 point=2 t=70.135 et=1714.027</Score>
+<Score et="1715.9">Jean Pierre(18) lap=19 point=0 t=88.962 et=1715.822</Score>
+<Score et="1717.4">Josias Neto(3) lap=19 point=0 t=83.758 et=1717.266</Score>
+<Score et="1718.3">Diego Freitas(4) lap=19 point=0 t=116.500 et=1718.192</Score>
+<Score et="1722.8">Bruno Fernandes(6) lap=19 point=0 t=84.284 et=1722.718</Score>
+<Score et="1722.9">Bernardo Cardoso(5) lap=19 point=0 t=84.473 et=1722.810</Score>
+<Score et="1723.7">Robson Radaell(10) lap=19 point=0 t=84.397 et=1723.595</Score>
+<Score et="1723.8">Luiz de Melo(12) lap=19 point=0 t=84.198 et=1723.716</Score>
+<Score et="1725.8">Rafael Matta(8) lap=19 point=0 t=84.480 et=1725.720</Score>
+<Score et="1727.8">Joao Junior(2) lap=19 point=0 t=84.269 et=1727.688</Score>
+<Score et="1729.3">Marcelo Neiva(20) lap=19 point=0 t=-1.000 et=1729.233</Score>
+<Score et="1730.2">Eduardo Pehls(16) lap=18 point=2 t=68.942 et=1730.116</Score>
+<Score et="1730.3">Arthur Targa(1) lap=19 point=0 t=84.680 et=1730.191</Score>
+<Vote et="1730.9">Diretor Principal: /addpenalty -1 marcelo neiva</Vote>
+<Penalty et="1730.9">Marcelo Neiva received Drive Thru penalty, 0s, 0laps. Result: penalties=1, 1st=Drive Thru,0s</Penalty>
+<Chat et="1730.9">Drive Thru penalty assigned by live steward to: Marcelo Neiva</Chat>
+<Score et="1732.1">Juan Manuel Gomez(15) lap=19 point=0 t=88.139 et=1732.031</Score>
+<Score et="1732.3">Raphael Camelo(7) lap=19 point=1 t=21.164 et=1732.180</Score>
+<Score et="1737.1">Jean Pierre(18) lap=19 point=1 t=21.223 et=1737.045</Score>
+<Score et="1738.5">Josias Neto(3) lap=19 point=1 t=21.068 et=1738.334</Score>
+<Score et="1744.2">Diego Freitas(4) lap=19 point=1 t=25.893 et=1744.084</Score>
+<Score et="1744.3">Bruno Fernandes(6) lap=19 point=1 t=21.475 et=1744.193</Score>
+<Score et="1744.4">Bernardo Cardoso(5) lap=19 point=1 t=21.491 et=1744.301</Score>
+<Score et="1745.2">Luiz de Melo(12) lap=19 point=1 t=21.364 et=1745.080</Score>
+<Score et="1745.5">Robson Radaell(10) lap=19 point=1 t=21.739 et=1745.335</Score>
+<Score et="1747.4">Rafael Matta(8) lap=19 point=1 t=21.547 et=1747.267</Score>
+<Score et="1748.5">Eduardo Pehls(16) lap=19 point=0 t=87.251 et=1748.424</Score>
+<Score et="1749.1">Joao Junior(2) lap=19 point=1 t=21.280 et=1748.968</Score>
+<Vote et="1750.8">Diretor Principal: /addpenalty 60 juan manuel gomes</Vote>
+<Penalty et="1750.8">Juan Manuel Gomez received Stop/Go penalty, 60s, 0laps. Result: penalties=1, 1st=Stop/Go,60s</Penalty>
+<Chat et="1750.8">Stop/Go penalty assigned by live steward to: Juan Manuel Gomez</Chat>
+<Score et="1750.9">Marcelo Neiva(20) lap=19 point=1 t=21.556 et=1750.789</Score>
+<Score et="1751.5">Arthur Targa(1) lap=19 point=1 t=21.219 et=1751.409</Score>
+<Score et="1770.2">Eduardo Pehls(16) lap=19 point=1 t=21.624 et=1770.048</Score>
+<Score et="1777.4">Raphael Camelo(7) lap=19 point=2 t=66.179 et=1777.195</Score>
+<Score et="1782.4">Jean Pierre(18) lap=19 point=2 t=66.454 et=1782.276</Score>
+<Score et="1783.2">Josias Neto(3) lap=19 point=2 t=65.767 et=1783.033</Score>
+<Score et="1789.1">Diego Freitas(4) lap=19 point=2 t=70.832 et=1789.024</Score>
+<Score et="1789.5">Bruno Fernandes(6) lap=19 point=2 t=66.650 et=1789.368</Score>
+<Score et="1789.9">Bernardo Cardoso(5) lap=19 point=2 t=66.940 et=1789.750</Score>
+<Score et="1790.4">Luiz de Melo(12) lap=19 point=2 t=66.633 et=1790.349</Score>
+<Score et="1790.9">Robson Radaell(10) lap=19 point=2 t=67.203 et=1790.798</Score>
+<Score et="1792.6">Rafael Matta(8) lap=19 point=2 t=66.770 et=1792.490</Score>
+<Score et="1794.5">Joao Junior(2) lap=19 point=2 t=66.696 et=1794.384</Score>
+<Score et="1795.2">Raphael Camelo(7) lap=20 point=0 t=84.014 et=1795.030</Score>
+<Score et="1796.5">Marcelo Neiva(20) lap=19 point=2 t=67.111 et=1796.344</Score>
+<Score et="1800.2">Jean Pierre(18) lap=20 point=0 t=84.271 et=1800.093</Score>
+<Score et="1800.9">Josias Neto(3) lap=20 point=0 t=83.517 et=1800.783</Score>
+<Score et="1801.4">Arthur Targa(1) lap=19 point=2 t=-1.000 et=1801.338</Score>
+<Score et="1806.9">Diego Freitas(4) lap=20 point=0 t=88.580 et=1806.772</Score>
+<Score et="1807.3">Bruno Fernandes(6) lap=20 point=0 t=84.500 et=1807.218</Score>
+<Score et="1807.6">Bernardo Cardoso(5) lap=20 point=0 t=84.703 et=1807.513</Score>
+<Score et="1808.3">Luiz de Melo(12) lap=20 point=0 t=84.465 et=1808.181</Score>
+<Score et="1809.1">Robson Radaell(10) lap=20 point=0 t=85.393 et=1808.989</Score>
+<Score et="1810.7">Rafael Matta(8) lap=20 point=0 t=84.826 et=1810.546</Score>
+<Score et="1812.5">Joao Junior(2) lap=20 point=0 t=84.689 et=1812.377</Score>
+<Score et="1815.6">Eduardo Pehls(16) lap=19 point=2 t=67.062 et=1815.486</Score>
+<Score et="1816.3">Raphael Camelo(7) lap=20 point=1 t=21.124 et=1816.154</Score>
+<Score et="1819.6">Arthur Targa(1) lap=20 point=0 t=-1.000 et=1819.506</Score>
+<Score et="1821.3">Jean Pierre(18) lap=20 point=1 t=21.127 et=1821.220</Score>
+<Score et="1822.0">Josias Neto(3) lap=20 point=1 t=21.116 et=1821.899</Score>
+<Penalty et="1822.4">Juan Manuel Gomez served 1st Stop/Go penalty, result: penalties=0, 1st=Stop/Go,60s</Penalty>
+<Score et="1825.2">Marcelo Neiva(20) lap=20 point=0 t=95.826 et=1825.059</Score>
+<Penalty et="1825.7">Marcelo Neiva served 1st Drive Thru penalty, result: penalties=0, 1st=Drive Thru,0s</Penalty>
+<Score et="1828.1">Diego Freitas(4) lap=20 point=1 t=21.203 et=1827.975</Score>
+<Score et="1828.6">Bruno Fernandes(6) lap=20 point=1 t=21.252 et=1828.470</Score>
+<Score et="1828.7">Bernardo Cardoso(5) lap=20 point=1 t=21.089 et=1828.602</Score>
+<Score et="1829.5">Luiz de Melo(12) lap=20 point=1 t=21.167 et=1829.349</Score>
+<Score et="1830.4">Robson Radaell(10) lap=20 point=1 t=21.321 et=1830.310</Score>
+<Score et="1832.0">Rafael Matta(8) lap=20 point=1 t=21.373 et=1831.919</Score>
+<Score et="1833.7">Joao Junior(2) lap=20 point=1 t=21.149 et=1833.526</Score>
+<Score et="1833.7">Eduardo Pehls(16) lap=20 point=0 t=85.180 et=1833.604</Score>
+<Score et="1840.9">Arthur Targa(1) lap=20 point=1 t=21.293 et=1840.799</Score>
+<Score et="1851.1">Marcelo Neiva(20) lap=20 point=1 t=25.911 et=1850.969</Score>
+<Score et="1855.3">Eduardo Pehls(16) lap=20 point=1 t=21.574 et=1855.178</Score>
+<Score et="1861.2">Raphael Camelo(7) lap=20 point=2 t=66.024 et=1861.054</Score>
+<Score et="1866.3">Jean Pierre(18) lap=20 point=2 t=66.104 et=1866.197</Score>
+<Score et="1866.7">Josias Neto(3) lap=20 point=2 t=65.863 et=1866.646</Score>
+<Score et="1873.0">Diego Freitas(4) lap=20 point=2 t=66.126 et=1872.898</Score>
+<Score et="1873.7">Bruno Fernandes(6) lap=20 point=2 t=66.357 et=1873.575</Score>
+<Score et="1873.9">Bernardo Cardoso(5) lap=20 point=2 t=66.246 et=1873.758</Score>
+<Score et="1874.6">Luiz de Melo(12) lap=20 point=2 t=66.267 et=1874.449</Score>
+<Score et="1875.8">Robson Radaell(10) lap=20 point=2 t=66.655 et=1875.644</Score>
+<Score et="1877.0">Rafael Matta(8) lap=20 point=2 t=66.397 et=1876.943</Score>
+<Score et="1879.0">Raphael Camelo(7) lap=21 point=0 t=83.860 et=1878.890</Score>
+<Score et="1879.2">Joao Junior(2) lap=20 point=2 t=66.674 et=1879.051</Score>
+<Score et="1884.0">Jean Pierre(18) lap=21 point=0 t=-1.000 et=1883.924</Score>
+<Score et="1884.6">Josias Neto(3) lap=21 point=0 t=83.738 et=1884.522</Score>
+<Score et="1886.0">Arthur Targa(1) lap=20 point=2 t=66.367 et=1885.873</Score>
+<Score et="1890.7">Juan Manuel Gomez(15) lap=20 point=0 t=158.532 et=1890.564</Score>
+<Score et="1890.8">Diego Freitas(4) lap=21 point=0 t=83.932 et=1890.703</Score>
+<Score et="1891.7">Bruno Fernandes(6) lap=21 point=0 t=84.375 et=1891.593</Score>
+<Score et="1891.8">Bernardo Cardoso(5) lap=21 point=0 t=84.166 et=1891.678</Score>
+<Score et="1892.4">Luiz de Melo(12) lap=21 point=0 t=84.081 et=1892.262</Score>
+<Score et="1894.0">Robson Radaell(10) lap=21 point=0 t=84.849 et=1893.838</Score>
+<Score et="1895.1">Rafael Matta(8) lap=21 point=0 t=84.485 et=1895.031</Score>
+<Score et="1896.4">Marcelo Neiva(20) lap=20 point=2 t=71.283 et=1896.342</Score>
+<Score et="1897.3">Joao Junior(2) lap=21 point=0 t=84.755 et=1897.132</Score>
+<Score et="1900.1">Raphael Camelo(7) lap=21 point=1 t=21.093 et=1899.983</Score>
+<Score et="1900.8">Eduardo Pehls(16) lap=20 point=2 t=67.035 et=1900.640</Score>
+<Score et="1904.0">Arthur Targa(1) lap=21 point=0 t=84.381 et=1903.886</Score>
+<Score et="1905.1">Jean Pierre(18) lap=21 point=1 t=21.102 et=1905.026</Score>
+<Score et="1905.8">Josias Neto(3) lap=21 point=1 t=21.130 et=1905.652</Score>
+<Sent et="1909.6">Juan Manuel Gomez has left the game but vehicle has been stored in the garage</Sent>
+<Score et="1912.0">Diego Freitas(4) lap=21 point=1 t=21.254 et=1911.957</Score>
+<Score et="1913.1">Bruno Fernandes(6) lap=21 point=1 t=21.356 et=1912.949</Score>
+<Score et="1913.2">Bernardo Cardoso(5) lap=21 point=1 t=21.376 et=1913.054</Score>
+<Score et="1913.4">Luiz de Melo(12) lap=21 point=1 t=21.047 et=1913.309</Score>
+<Score et="1914.5">Marcelo Neiva(20) lap=21 point=0 t=89.233 et=1914.292</Score>
+<Score et="1915.5">Robson Radaell(10) lap=21 point=1 t=21.526 et=1915.364</Score>
+<Score et="1916.3">Rafael Matta(8) lap=21 point=1 t=21.178 et=1916.208</Score>
+<Score et="1918.5">Joao Junior(2) lap=21 point=1 t=21.256 et=1918.388</Score>
+<Score et="1919.0">Eduardo Pehls(16) lap=21 point=0 t=85.314 et=1918.918</Score>
+<Score et="1925.3">Arthur Targa(1) lap=21 point=1 t=21.281 et=1925.167</Score>
+<Score et="1940.3">Eduardo Pehls(16) lap=21 point=1 t=21.284 et=1940.203</Score>
+<Score et="1944.9">Raphael Camelo(7) lap=21 point=2 t=65.840 et=1944.729</Score>
+<Score et="1949.7">Jean Pierre(18) lap=21 point=2 t=65.638 et=1949.562</Score>
+<Score et="1950.5">Josias Neto(3) lap=21 point=2 t=65.870 et=1950.392</Score>
+<Score et="1957.0">Diego Freitas(4) lap=21 point=2 t=66.152 et=1956.855</Score>
+<Score et="1958.3">Bruno Fernandes(6) lap=21 point=2 t=66.610 et=1958.203</Score>
+<Score et="1958.5">Bernardo Cardoso(5) lap=21 point=2 t=66.672 et=1958.350</Score>
+<Score et="1958.9">Luiz de Melo(12) lap=21 point=2 t=66.577 et=1958.839</Score>
+<Score et="1960.9">Robson Radaell(10) lap=21 point=2 t=66.976 et=1960.814</Score>
+<Score et="1961.5">Rafael Matta(8) lap=21 point=2 t=66.401 et=1961.432</Score>
+<Score et="1962.8">Raphael Camelo(7) lap=22 point=0 t=83.772 et=1962.662</Score>
+<Score et="1964.0">Joao Junior(2) lap=21 point=2 t=66.745 et=1963.877</Score>
+<Score et="1967.5">Jean Pierre(18) lap=22 point=0 t=83.479 et=1967.403</Score>
+<Score et="1968.4">Josias Neto(3) lap=22 point=0 t=83.716 et=1968.237</Score>
+<Score et="1970.7">Arthur Targa(1) lap=21 point=2 t=66.720 et=1970.607</Score>
+<Score et="1974.9">Diego Freitas(4) lap=22 point=0 t=84.098 et=1974.802</Score>
+<Score et="1976.4">Bruno Fernandes(6) lap=22 point=0 t=84.661 et=1976.255</Score>
+<Score et="1976.6">Bernardo Cardoso(5) lap=22 point=0 t=84.754 et=1976.433</Score>
+<Score et="1976.8">Luiz de Melo(12) lap=22 point=0 t=84.397 et=1976.660</Score>
+<Score et="1979.1">Robson Radaell(10) lap=22 point=0 t=85.122 et=1978.960</Score>
+<Score et="1979.7">Rafael Matta(8) lap=22 point=0 t=84.538 et=1979.569</Score>
+<Score et="1982.2">Joao Junior(2) lap=22 point=0 t=84.920 et=1982.051</Score>
+<Score et="1983.9">Raphael Camelo(7) lap=22 point=1 t=21.132 et=1983.794</Score>
+<Score et="1986.4">Eduardo Pehls(16) lap=21 point=2 t=67.396 et=1986.314</Score>
+<Score et="1988.6">Jean Pierre(18) lap=22 point=1 t=21.063 et=1988.467</Score>
+<Score et="1988.8">Arthur Targa(1) lap=22 point=0 t=84.798 et=1988.684</Score>
+<Score et="1989.4">Josias Neto(3) lap=22 point=1 t=21.048 et=1989.286</Score>
+<Score et="1996.0">Diego Freitas(4) lap=22 point=1 t=21.141 et=1995.942</Score>
+<Score et="1997.8">Bruno Fernandes(6) lap=22 point=1 t=21.490 et=1997.745</Score>
+<Score et="1998.0">Bernardo Cardoso(5) lap=22 point=1 t=21.417 et=1997.850</Score>
+<Score et="1998.2">Luiz de Melo(12) lap=22 point=1 t=21.443 et=1998.103</Score>
+<Score et="2000.5">Robson Radaell(10) lap=22 point=1 t=21.376 et=2000.336</Score>
+<Score et="2001.0">Rafael Matta(8) lap=22 point=1 t=21.276 et=2000.845</Score>
+<Score et="2003.4">Joao Junior(2) lap=22 point=1 t=21.250 et=2003.301</Score>
+<Score et="2004.4">Eduardo Pehls(16) lap=22 point=0 t=85.374 et=2004.292</Score>
+<Score et="2010.2">Arthur Targa(1) lap=22 point=1 t=21.365 et=2010.049</Score>
+<Score et="2025.9">Eduardo Pehls(16) lap=22 point=1 t=21.453 et=2025.745</Score>
+<Score et="2028.7">Raphael Camelo(7) lap=22 point=2 t=65.917 et=2028.579</Score>
+<Incident et="2029.0">Robson Radaell(10) reported contact (0.06) with another vehicle Rafael Matta(8)</Incident>
+<Score et="2033.6">Jean Pierre(18) lap=22 point=2 t=66.082 et=2033.485</Score>
+<Score et="2034.3">Josias Neto(3) lap=22 point=2 t=65.985 et=2034.222</Score>
+<Score et="2041.1">Diego Freitas(4) lap=22 point=2 t=66.227 et=2041.029</Score>
+<Score et="2043.3">Bruno Fernandes(6) lap=22 point=2 t=66.964 et=2043.218</Score>
+<Score et="2043.5">Bernardo Cardoso(5) lap=22 point=2 t=66.967 et=2043.400</Score>
+<Score et="2043.9">Luiz de Melo(12) lap=22 point=2 t=67.149 et=2043.809</Score>
+<Score et="2046.6">Robson Radaell(10) lap=22 point=2 t=67.510 et=2046.470</Score>
+<Score et="2046.7">Raphael Camelo(7) lap=23 point=0 t=83.843 et=2046.505</Score>
+<Score et="2046.8">Rafael Matta(8) lap=22 point=2 t=67.083 et=2046.652</Score>
+<Score et="2048.8">Joao Junior(2) lap=22 point=2 t=66.654 et=2048.705</Score>
+<Score et="2051.4">Jean Pierre(18) lap=23 point=0 t=83.940 et=2051.343</Score>
+<Score et="2052.2">Josias Neto(3) lap=23 point=0 t=83.849 et=2052.087</Score>
+<Score et="2055.9">Arthur Targa(1) lap=22 point=2 t=67.121 et=2055.806</Score>
+<Score et="2058.9">Diego Freitas(4) lap=23 point=0 t=83.967 et=2058.768</Score>
+<Score et="2061.4">Bruno Fernandes(6) lap=23 point=0 t=85.030 et=2061.284</Score>
+<Score et="2061.5">Bernardo Cardoso(5) lap=23 point=0 t=84.951 et=2061.384</Score>
+<Score et="2061.8">Luiz de Melo(12) lap=23 point=0 t=85.023 et=2061.682</Score>
+<Score et="2064.6">Robson Radaell(10) lap=23 point=0 t=85.559 et=2064.518</Score>
+<Score et="2064.8">Rafael Matta(8) lap=23 point=0 t=85.077 et=2064.646</Score>
+<Score et="2066.8">Joao Junior(2) lap=23 point=0 t=84.603 et=2066.654</Score>
+<Score et="2067.8">Raphael Camelo(7) lap=23 point=1 t=21.139 et=2067.644</Score>
+<Incident et="2068.4">Bruno Fernandes(6) reported contact (0.10) with another vehicle Bernardo Cardoso(5)</Incident>
+<Incident et="2068.4">Bernardo Cardoso(5) reported contact (0.03) with another vehicle Bruno Fernandes(6)</Incident>
+<Score et="2071.4">Eduardo Pehls(16) lap=22 point=2 t=66.999 et=2071.291</Score>
+<Score et="2072.5">Jean Pierre(18) lap=23 point=1 t=21.116 et=2072.460</Score>
+<Score et="2073.2">Josias Neto(3) lap=23 point=1 t=21.047 et=2073.133</Score>
+<Score et="2074.0">Arthur Targa(1) lap=23 point=0 t=85.246 et=2073.931</Score>
+<Score et="2079.9">Diego Freitas(4) lap=23 point=1 t=21.031 et=2079.800</Score>
+<Score et="2082.8">Bruno Fernandes(6) lap=23 point=1 t=21.390 et=2082.674</Score>
+<Score et="2083.1">Bernardo Cardoso(5) lap=23 point=1 t=21.541 et=2082.925</Score>
+<Score et="2083.3">Luiz de Melo(12) lap=23 point=1 t=21.499 et=2083.181</Score>
+<Score et="2086.1">Robson Radaell(10) lap=23 point=1 t=21.476 et=2085.994</Score>
+<Score et="2086.2">Rafael Matta(8) lap=23 point=1 t=21.462 et=2086.107</Score>
+<Score et="2088.1">Joao Junior(2) lap=23 point=1 t=21.325 et=2087.979</Score>
+<Score et="2089.5">Eduardo Pehls(16) lap=23 point=0 t=85.076 et=2089.368</Score>
+<Score et="2095.3">Arthur Targa(1) lap=23 point=1 t=21.318 et=2095.248</Score>
+<Score et="2111.1">Eduardo Pehls(16) lap=23 point=1 t=21.660 et=2111.028</Score>
+<Score et="2112.7">Raphael Camelo(7) lap=23 point=2 t=66.088 et=2112.593</Score>
+<Score et="2117.5">Jean Pierre(18) lap=23 point=2 t=66.092 et=2117.435</Score>
+<Score et="2118.2">Josias Neto(3) lap=23 point=2 t=66.023 et=2118.110</Score>
+<Score et="2125.0">Diego Freitas(4) lap=23 point=2 t=66.177 et=2124.945</Score>
+<Score et="2128.2">Bruno Fernandes(6) lap=23 point=2 t=66.771 et=2128.055</Score>
+<Score et="2128.4">Bernardo Cardoso(5) lap=23 point=2 t=66.841 et=2128.225</Score>
+<Score et="2128.7">Luiz de Melo(12) lap=23 point=2 t=66.900 et=2128.583</Score>
+<Score et="2130.6">Raphael Camelo(7) lap=24 point=0 t=84.012 et=2130.517</Score>
+<Score et="2131.7">Robson Radaell(10) lap=23 point=2 t=67.074 et=2131.593</Score>
+<Score et="2132.0">Rafael Matta(8) lap=23 point=2 t=67.223 et=2131.869</Score>
+<Score et="2133.4">Joao Junior(2) lap=23 point=2 t=66.672 et=2133.326</Score>
+<Score et="2135.4">Jean Pierre(18) lap=24 point=0 t=83.991 et=2135.335</Score>
+<Score et="2136.2">Josias Neto(3) lap=24 point=0 t=83.972 et=2136.058</Score>
+<Score et="2140.7">Arthur Targa(1) lap=23 point=2 t=66.715 et=2140.646</Score>
+<Score et="2142.9">Diego Freitas(4) lap=24 point=0 t=84.002 et=2142.770</Score>
+<Score et="2146.3">Bruno Fernandes(6) lap=24 point=0 t=84.950 et=2146.235</Score>
+<Score et="2146.5">Bernardo Cardoso(5) lap=24 point=0 t=84.966 et=2146.350</Score>
+<Score et="2146.6">Luiz de Melo(12) lap=24 point=0 t=84.770 et=2146.452</Score>
+<Score et="2149.8">Robson Radaell(10) lap=24 point=0 t=85.150 et=2149.668</Score>
+<Score et="2149.8">Rafael Matta(8) lap=24 point=0 t=85.087 et=2149.733</Score>
+<Score et="2151.5">Joao Junior(2) lap=24 point=0 t=84.672 et=2151.327</Score>
+<Score et="2151.8">Raphael Camelo(7) lap=24 point=1 t=21.137 et=2151.654</Score>
+<Incident et="2153.2">Bernardo Cardoso(5) reported contact (0.29) with another vehicle Luiz de Melo(12)</Incident>
+<Incident et="2153.2">Bernardo Cardoso(5) reported contact (0.00) with another vehicle Luiz de Melo(12)</Incident>
+<Incident et="2153.2">Bernardo Cardoso(5) reported contact (0.03) with another vehicle Luiz de Melo(12)</Incident>
+<Incident et="2153.2">Luiz de Melo(12) reported contact (0.16) with another vehicle Bernardo Cardoso(5)</Incident>
+<Incident et="2153.2">Luiz de Melo(12) reported contact (0.10) with another vehicle Bernardo Cardoso(5)</Incident>
+<Score et="2156.5">Eduardo Pehls(16) lap=23 point=2 t=67.018 et=2156.386</Score>
+<Score et="2156.5">Jean Pierre(18) lap=24 point=1 t=21.075 et=2156.410</Score>
+<Score et="2157.3">Josias Neto(3) lap=24 point=1 t=21.134 et=2157.192</Score>
+<Score et="2158.8">Arthur Targa(1) lap=24 point=0 t=-1.000 et=2158.681</Score>
+<Score et="2164.1">Diego Freitas(4) lap=24 point=1 t=21.202 et=2163.972</Score>
+<Score et="2168.1">Bruno Fernandes(6) lap=24 point=1 t=21.758 et=2167.993</Score>
+<Score et="2168.3">Bernardo Cardoso(5) lap=24 point=1 t=21.850 et=2168.200</Score>
+<Score et="2168.6">Luiz de Melo(12) lap=24 point=1 t=22.052 et=2168.505</Score>
+<Score et="2171.4">Rafael Matta(8) lap=24 point=1 t=21.598 et=2171.331</Score>
+<Score et="2171.6">Robson Radaell(10) lap=24 point=1 t=21.772 et=2171.440</Score>
+<Score et="2172.7">Joao Junior(2) lap=24 point=1 t=21.287 et=2172.614</Score>
+<Score et="2174.5">Eduardo Pehls(16) lap=24 point=0 t=85.018 et=2174.386</Score>
+<Sent et="2177.2">Marcelo Neiva has left the game but vehicle has been stored in the garage</Sent>
+<Score et="2180.2">Arthur Targa(1) lap=24 point=1 t=21.389 et=2180.070</Score>
+<Score et="2195.8">Eduardo Pehls(16) lap=24 point=1 t=21.327 et=2195.713</Score>
+<Score et="2196.7">Raphael Camelo(7) lap=24 point=2 t=66.042 et=2196.559</Score>
+<Score et="2201.3">Jean Pierre(18) lap=24 point=2 t=65.850 et=2201.185</Score>
+<Score et="2202.4">Josias Neto(3) lap=24 point=2 t=66.233 et=2202.291</Score>
+<Score et="2208.8">Diego Freitas(4) lap=24 point=2 t=65.933 et=2208.703</Score>
+<Score et="2213.7">Bruno Fernandes(6) lap=24 point=2 t=67.308 et=2213.543</Score>
+<Score et="2213.9">Bernardo Cardoso(5) lap=24 point=2 t=67.434 et=2213.784</Score>
+<Score et="2214.2">Luiz de Melo(12) lap=24 point=2 t=67.609 et=2214.061</Score>
+<Score et="2214.6">Raphael Camelo(7) lap=25 point=0 t=83.952 et=2214.469</Score>
+<Score et="2217.1">Rafael Matta(8) lap=24 point=2 t=67.262 et=2216.995</Score>
+<Score et="2217.6">Robson Radaell(10) lap=24 point=2 t=67.800 et=2217.468</Score>
+<Score et="2218.4">Joao Junior(2) lap=24 point=2 t=66.992 et=2218.318</Score>
+<Score et="2219.2">Jean Pierre(18) lap=25 point=0 t=83.775 et=2219.110</Score>
+<Score et="2220.4">Josias Neto(3) lap=25 point=0 t=84.200 et=2220.258</Score>
+<Score et="2225.7">Arthur Targa(1) lap=24 point=2 t=66.885 et=2225.566</Score>
+<Score et="2226.7">Diego Freitas(4) lap=25 point=0 t=83.785 et=2226.556</Score>
+<Score et="2231.8">Bruno Fernandes(6) lap=25 point=0 t=85.458 et=2231.693</Score>
+<Score et="2231.9">Bernardo Cardoso(5) lap=25 point=0 t=85.456 et=2231.806</Score>
+<Score et="2232.1">Luiz de Melo(12) lap=25 point=0 t=85.521 et=2231.974</Score>
+<Score et="2235.4">Rafael Matta(8) lap=25 point=0 t=85.524 et=2235.257</Score>
+<Score et="2235.8">Raphael Camelo(7) lap=25 point=1 t=21.177 et=2235.646</Score>
+<Score et="2235.8">Robson Radaell(10) lap=25 point=0 t=85.967 et=2235.635</Score>
+<Score et="2236.4">Joao Junior(2) lap=25 point=0 t=85.007 et=2236.334</Score>
+<Score et="2240.8">Jean Pierre(18) lap=25 point=1 t=21.588 et=2240.698</Score>
+<Score et="2241.2">Eduardo Pehls(16) lap=24 point=2 t=66.739 et=2241.125</Score>
+<Score et="2241.6">Josias Neto(3) lap=25 point=1 t=-1.000 et=2241.487</Score>
+<Score et="2243.8">Arthur Targa(1) lap=25 point=0 t=85.001 et=2243.682</Score>
+<Score et="2247.8">Diego Freitas(4) lap=25 point=1 t=21.116 et=2247.672</Score>
+<Score et="2253.5">Bruno Fernandes(6) lap=25 point=1 t=21.740 et=2253.433</Score>
+<Score et="2253.8">Luiz de Melo(12) lap=25 point=1 t=21.686 et=2253.659</Score>
+<Score et="2254.0">Bernardo Cardoso(5) lap=25 point=1 t=22.052 et=2253.858</Score>
+<Score et="2256.7">Rafael Matta(8) lap=25 point=1 t=21.336 et=2256.593</Score>
+<Score et="2257.1">Robson Radaell(10) lap=25 point=1 t=21.300 et=2256.935</Score>
+<Incident et="2257.2">Luiz de Melo(12) reported contact (0.10) with another vehicle Bruno Fernandes(6)</Incident>
+<Incident et="2257.2">Bruno Fernandes(6) reported contact (0.03) with another vehicle Luiz de Melo(12)</Incident>
+<Score et="2257.7">Joao Junior(2) lap=25 point=1 t=21.205 et=2257.539</Score>
+<Score et="2259.3">Eduardo Pehls(16) lap=25 point=0 t=84.787 et=2259.174</Score>
+<Score et="2265.3">Arthur Targa(1) lap=25 point=1 t=21.479 et=2265.161</Score>
+<Score et="2280.8">Eduardo Pehls(16) lap=25 point=1 t=21.495 et=2280.669</Score>
+<Score et="2280.9">Raphael Camelo(7) lap=25 point=2 t=66.260 et=2280.729</Score>
+<Score et="2285.7">Jean Pierre(18) lap=25 point=2 t=66.452 et=2285.562</Score>
+<Score et="2286.9">Josias Neto(3) lap=25 point=2 t=-1.000 et=2286.735</Score>
+<Score et="2292.8">Diego Freitas(4) lap=25 point=2 t=66.143 et=2292.699</Score>
+<Score et="2298.9">Raphael Camelo(7) lap=26 point=0 t=84.275 et=2298.744</Score>
+<Score et="2299.3">Bruno Fernandes(6) lap=25 point=2 t=67.512 et=2299.205</Score>
+<Score et="2299.6">Luiz de Melo(12) lap=25 point=2 t=67.586 et=2299.560</Score>
+<Score et="2299.9">Bernardo Cardoso(5) lap=25 point=2 t=67.952 et=2299.758</Score>
+<Score et="2302.3">Rafael Matta(8) lap=25 point=2 t=66.965 et=2302.222</Score>
+<Score et="2302.7">Robson Radaell(10) lap=25 point=2 t=66.875 et=2302.510</Score>
+<Score et="2303.5">Joao Junior(2) lap=25 point=2 t=67.017 et=2303.351</Score>
+<Score et="2303.7">Jean Pierre(18) lap=26 point=0 t=84.450 et=2303.560</Score>
+<Score et="2304.9">Josias Neto(3) lap=26 point=0 t=-1.000 et=2304.733</Score>
+<Score et="2310.8">Arthur Targa(1) lap=25 point=2 t=66.950 et=2310.632</Score>
+<Score et="2310.9">Diego Freitas(4) lap=26 point=0 t=84.186 et=2310.742</Score>
+<Score et="2317.5">Bruno Fernandes(6) lap=26 point=0 t=85.739 et=2317.432</Score>
+<Score et="2317.7">Luiz de Melo(12) lap=26 point=0 t=85.605 et=2317.578</Score>
+<Score et="2318.0">Bernardo Cardoso(5) lap=26 point=0 t=86.063 et=2317.869</Score>
+<Score et="2320.1">Raphael Camelo(7) lap=26 point=1 t=21.185 et=2319.929</Score>
+<Score et="2320.4">Rafael Matta(8) lap=26 point=0 t=85.046 et=2320.303</Score>
+<Score et="2320.6">Robson Radaell(10) lap=26 point=0 t=84.886 et=2320.521</Score>
+<Score et="2321.7">Joao Junior(2) lap=26 point=0 t=85.211 et=2321.545</Score>
+<Score et="2324.8">Jean Pierre(18) lap=26 point=1 t=21.182 et=2324.742</Score>
+<Score et="2326.2">Josias Neto(3) lap=26 point=1 t=21.315 et=2326.048</Score>
+<Score et="2327.4">Eduardo Pehls(16) lap=25 point=2 t=68.104 et=2327.277</Score>
+<Score et="2329.1">Arthur Targa(1) lap=26 point=0 t=85.276 et=2328.958</Score>
+<Score et="2332.0">Diego Freitas(4) lap=26 point=1 t=21.125 et=2331.867</Score>
+<Score et="2339.2">Luiz de Melo(12) lap=26 point=1 t=21.572 et=2339.150</Score>
+<Score et="2339.4">Bruno Fernandes(6) lap=26 point=1 t=21.886 et=2339.318</Score>
+<Score et="2339.6">Bernardo Cardoso(5) lap=26 point=1 t=21.572 et=2339.440</Score>
+<Score et="2341.7">Rafael Matta(8) lap=26 point=1 t=21.312 et=2341.615</Score>
+<Score et="2342.0">Robson Radaell(10) lap=26 point=1 t=21.314 et=2341.835</Score>
+<Score et="2343.1">Joao Junior(2) lap=26 point=1 t=21.456 et=2343.001</Score>
+<Score et="2345.5">Eduardo Pehls(16) lap=26 point=0 t=86.241 et=2345.415</Score>
+<Score et="2351.0">Arthur Targa(1) lap=26 point=1 t=21.888 et=2350.846</Score>
+<Score et="2365.3">Raphael Camelo(7) lap=26 point=2 t=66.427 et=2365.171</Score>
+<Score et="2366.8">Eduardo Pehls(16) lap=26 point=1 t=21.254 et=2366.669</Score>
+<Score et="2369.8">Jean Pierre(18) lap=26 point=2 t=66.164 et=2369.723</Score>
+<Score et="2371.7">Josias Neto(3) lap=26 point=2 t=66.839 et=2371.572</Score>
+<Score et="2377.0">Diego Freitas(4) lap=26 point=2 t=66.175 et=2376.917</Score>
+<Score et="2383.4">Raphael Camelo(7) lap=27 point=0 t=84.464 et=2383.208</Score>
+<Score et="2385.2">Bruno Fernandes(6) lap=26 point=2 t=67.647 et=2385.079</Score>
+<Score et="2385.4">Bernardo Cardoso(5) lap=26 point=2 t=67.356 et=2385.225</Score>
+<Score et="2387.4">Rafael Matta(8) lap=26 point=2 t=66.915 et=2387.218</Score>
+<Score et="2387.8">Jean Pierre(18) lap=27 point=0 t=84.125 et=2387.685</Score>
+<Score et="2387.9">Robson Radaell(10) lap=26 point=2 t=67.215 et=2387.736</Score>
+<Score et="2388.3">Luiz de Melo(12) lap=26 point=2 t=-1.000 et=2388.207</Score>
+<Score et="2388.9">Joao Junior(2) lap=26 point=2 t=67.218 et=2388.763</Score>
+<Score et="2389.9">Josias Neto(3) lap=27 point=0 t=85.006 et=2389.739</Score>
+<Score et="2394.9">Diego Freitas(4) lap=27 point=0 t=84.075 et=2394.817</Score>
+<Score et="2396.7">Arthur Targa(1) lap=26 point=2 t=67.655 et=2396.613</Score>
+<Score et="2403.4">Bruno Fernandes(6) lap=27 point=0 t=85.867 et=2403.299</Score>
+<Score et="2403.7">Bernardo Cardoso(5) lap=27 point=0 t=85.656 et=2403.525</Score>
+<Score et="2404.5">Raphael Camelo(7) lap=27 point=1 t=21.197 et=2404.405</Score>
+<Score et="2405.6">Rafael Matta(8) lap=27 point=0 t=85.137 et=2405.440</Score>
+<Score et="2405.9">Robson Radaell(10) lap=27 point=0 t=85.266 et=2405.787</Score>
+<Score et="2406.5">Luiz de Melo(12) lap=27 point=0 t=-1.000 et=2406.414</Score>
+<Score et="2406.9">Joao Junior(2) lap=27 point=0 t=-1.000 et=2406.833</Score>
+<Score et="2409.1">Jean Pierre(18) lap=27 point=1 t=21.306 et=2408.991</Score>
+<Score et="2411.2">Josias Neto(3) lap=27 point=1 t=21.322 et=2411.061</Score>
+<Score et="2412.5">Eduardo Pehls(16) lap=26 point=2 t=66.996 et=2412.411</Score>
+<Score et="2415.1">Arthur Targa(1) lap=27 point=0 t=86.048 et=2415.006</Score>
+<Score et="2416.0">Diego Freitas(4) lap=27 point=1 t=21.104 et=2415.921</Score>
+<Score et="2425.1">Bruno Fernandes(6) lap=27 point=1 t=21.695 et=2424.994</Score>
+<Score et="2425.2">Bernardo Cardoso(5) lap=27 point=1 t=21.564 et=2425.089</Score>
+<Score et="2426.8">Rafael Matta(8) lap=27 point=1 t=21.293 et=2426.734</Score>
+<Score et="2427.4">Robson Radaell(10) lap=27 point=1 t=21.497 et=2427.285</Score>
+<Score et="2428.2">Luiz de Melo(12) lap=27 point=1 t=21.660 et=2428.074</Score>
+<Score et="2428.4">Joao Junior(2) lap=27 point=1 t=21.419 et=2428.251</Score>
+<Score et="2430.7">Eduardo Pehls(16) lap=27 point=0 t=85.162 et=2430.576</Score>
+<Score et="2436.7">Arthur Targa(1) lap=27 point=1 t=21.587 et=2436.593</Score>
+<Score et="2449.7">Raphael Camelo(7) lap=27 point=2 t=66.410 et=2449.617</Score>
+<Score et="2452.4">Eduardo Pehls(16) lap=27 point=1 t=21.701 et=2452.277</Score>
+<Score et="2454.0">Jean Pierre(18) lap=27 point=2 t=66.255 et=2453.940</Score>
+<Score et="2456.6">Josias Neto(3) lap=27 point=2 t=66.705 et=2456.444</Score>
+<Score et="2461.3">Diego Freitas(4) lap=27 point=2 t=66.352 et=2461.168</Score>
+<Score et="2467.8">Raphael Camelo(7) lap=28 point=0 t=84.421 et=2467.629</Score>
+<Score et="2470.6">Bruno Fernandes(6) lap=27 point=2 t=67.200 et=2470.499</Score>
+<Score et="2471.0">Bernardo Cardoso(5) lap=27 point=2 t=67.300 et=2470.825</Score>
+<Score et="2472.0">Jean Pierre(18) lap=28 point=0 t=84.268 et=2471.953</Score>
+<Score et="2472.7">Rafael Matta(8) lap=27 point=2 t=67.100 et=2472.540</Score>
+<Score et="2473.4">Robson Radaell(10) lap=27 point=2 t=67.476 et=2473.263</Score>
+<Score et="2473.9">Luiz de Melo(12) lap=27 point=2 t=67.348 et=2473.762</Score>
+<Score et="2474.5">Joao Junior(2) lap=27 point=2 t=67.527 et=2474.359</Score>
+<Score et="2474.6">Josias Neto(3) lap=28 point=0 t=84.734 et=2474.473</Score>
+<Score et="2479.1">Diego Freitas(4) lap=28 point=0 t=84.177 et=2478.994</Score>
+<Score et="2482.5">Arthur Targa(1) lap=27 point=2 t=67.435 et=2482.441</Score>
+<Score et="2488.9">Bruno Fernandes(6) lap=28 point=0 t=85.469 et=2488.768</Score>
+<Score et="2489.1">Raphael Camelo(7) lap=28 point=1 t=21.313 et=2488.942</Score>
+<Score et="2489.2">Bernardo Cardoso(5) lap=28 point=0 t=85.506 et=2489.031</Score>
+<Score et="2490.9">Rafael Matta(8) lap=28 point=0 t=85.329 et=2490.769</Score>
+<Score et="2491.5">Robson Radaell(10) lap=28 point=0 t=85.629 et=2491.417</Score>
+<Score et="2492.0">Luiz de Melo(12) lap=28 point=0 t=85.509 et=2491.924</Score>
+<Score et="2492.7">Joao Junior(2) lap=28 point=0 t=85.769 et=2492.601</Score>
+<Score et="2493.3">Jean Pierre(18) lap=28 point=1 t=21.240 et=2493.193</Score>
+<Score et="2495.9">Josias Neto(3) lap=28 point=1 t=21.293 et=2495.767</Score>
+<Score et="2498.1">Eduardo Pehls(16) lap=27 point=2 t=67.452 et=2498.028</Score>
+<Score et="2500.4">Diego Freitas(4) lap=28 point=1 t=21.311 et=2500.305</Score>
+<Score et="2500.8">Arthur Targa(1) lap=28 point=0 t=85.700 et=2500.706</Score>
+<Score et="2510.4">Bruno Fernandes(6) lap=28 point=1 t=21.540 et=2510.308</Score>
+<Score et="2510.5">Bernardo Cardoso(5) lap=28 point=1 t=21.369 et=2510.400</Score>
+<Score et="2512.3">Rafael Matta(8) lap=28 point=1 t=21.427 et=2512.197</Score>
+<Score et="2512.9">Robson Radaell(10) lap=28 point=1 t=21.318 et=2512.735</Score>
+<Score et="2513.4">Luiz de Melo(12) lap=28 point=1 t=21.386 et=2513.310</Score>
+<Score et="2514.0">Joao Junior(2) lap=28 point=1 t=21.276 et=2513.877</Score>
+<Score et="2516.4">Eduardo Pehls(16) lap=28 point=0 t=85.660 et=2516.237</Score>
+<Score et="2522.4">Arthur Targa(1) lap=28 point=1 t=21.531 et=2522.237</Score>
+<Score et="2534.5">Raphael Camelo(7) lap=28 point=2 t=66.775 et=2534.404</Score>
+<Score et="2537.9">Eduardo Pehls(16) lap=28 point=1 t=21.583 et=2537.819</Score>
+<Score et="2538.3">Jean Pierre(18) lap=28 point=2 t=66.207 et=2538.160</Score>
+<Score et="2541.3">Josias Neto(3) lap=28 point=2 t=66.702 et=2541.176</Score>
+<Score et="2545.5">Diego Freitas(4) lap=28 point=2 t=66.453 et=2545.447</Score>
+<Score et="2552.7">Raphael Camelo(7) lap=29 point=0 t=-1.000 et=2552.467</Score>
+<Score et="2556.2">Bruno Fernandes(6) lap=28 point=2 t=67.362 et=2556.130</Score>
+<Score et="2556.3">Jean Pierre(18) lap=29 point=0 t=84.257 et=2556.210</Score>
+<Score et="2556.5">Bernardo Cardoso(5) lap=28 point=2 t=67.319 et=2556.350</Score>
+<Score et="2558.3">Rafael Matta(8) lap=28 point=2 t=67.383 et=2558.152</Score>
+<Score et="2558.6">Robson Radaell(10) lap=28 point=2 t=67.068 et=2558.485</Score>
+<Score et="2559.1">Luiz de Melo(12) lap=28 point=2 t=67.114 et=2559.037</Score>
+<Score et="2559.3">Josias Neto(3) lap=29 point=0 t=84.738 et=2559.211</Score>
+<Score et="2559.8">Joao Junior(2) lap=28 point=2 t=67.075 et=2559.676</Score>
+<Score et="2563.6">Diego Freitas(4) lap=29 point=0 t=84.505 et=2563.499</Score>
+<Score et="2568.2">Arthur Targa(1) lap=28 point=2 t=67.428 et=2568.134</Score>
+<Score et="2573.9">Raphael Camelo(7) lap=29 point=1 t=21.326 et=2573.792</Score>
+<Score et="2574.5">Bruno Fernandes(6) lap=29 point=0 t=85.638 et=2574.406</Score>
+<Score et="2574.7">Bernardo Cardoso(5) lap=29 point=0 t=85.519 et=2574.551</Score>
+<Score et="2576.4">Rafael Matta(8) lap=29 point=0 t=85.486 et=2576.255</Score>
+<Score et="2576.8">Robson Radaell(10) lap=29 point=0 t=85.236 et=2576.653</Score>
+<Score et="2577.2">Luiz de Melo(12) lap=29 point=0 t=85.167 et=2577.091</Score>
+<Score et="2577.6">Jean Pierre(18) lap=29 point=1 t=21.287 et=2577.497</Score>
+<Score et="2577.9">Joao Junior(2) lap=29 point=0 t=85.155 et=2577.756</Score>
+<Score et="2580.6">Josias Neto(3) lap=29 point=1 t=21.297 et=2580.508</Score>
+<Score et="2583.6">Eduardo Pehls(16) lap=28 point=2 t=67.274 et=2583.511</Score>
+<Score et="2584.9">Diego Freitas(4) lap=29 point=1 t=21.293 et=2584.792</Score>
+<Score et="2586.6">Arthur Targa(1) lap=29 point=0 t=85.760 et=2586.465</Score>
+<Score et="2596.0">Bruno Fernandes(6) lap=29 point=1 t=21.487 et=2595.893</Score>
+<Score et="2596.1">Bernardo Cardoso(5) lap=29 point=1 t=21.455 et=2596.006</Score>
+<Score et="2598.0">Rafael Matta(8) lap=29 point=1 t=21.664 et=2597.919</Score>
+<Score et="2598.3">Robson Radaell(10) lap=29 point=1 t=21.486 et=2598.139</Score>
+<Score et="2598.6">Luiz de Melo(12) lap=29 point=1 t=21.383 et=2598.474</Score>
+<Score et="2599.2">Joao Junior(2) lap=29 point=1 t=21.295 et=2599.051</Score>
+<Score et="2601.8">Eduardo Pehls(16) lap=29 point=0 t=85.433 et=2601.670</Score>
+<Score et="2608.3">Arthur Targa(1) lap=29 point=1 t=21.731 et=2608.196</Score>
+<Score et="2619.2">Raphael Camelo(7) lap=29 point=2 t=66.638 et=2619.104</Score>
+<Score et="2622.8">Jean Pierre(18) lap=29 point=2 t=66.464 et=2622.674</Score>
+<Score et="2623.2">Eduardo Pehls(16) lap=29 point=1 t=21.425 et=2623.095</Score>
+<Score et="2626.2">Josias Neto(3) lap=29 point=2 t=66.848 et=2626.060</Score>
+<Score et="2630.2">Diego Freitas(4) lap=29 point=2 t=66.560 et=2630.058</Score>
+<Score et="2637.4">Raphael Camelo(7) lap=30 point=0 t=84.819 et=2637.286</Score>
+<Score et="2640.9">Jean Pierre(18) lap=30 point=0 t=84.586 et=2640.796</Score>
+<Score et="2641.7">Bruno Fernandes(6) lap=29 point=2 t=67.187 et=2641.593</Score>
+<Score et="2641.9">Bernardo Cardoso(5) lap=29 point=2 t=67.199 et=2641.750</Score>
+<Score et="2644.3">Rafael Matta(8) lap=29 point=2 t=67.919 et=2644.175</Score>
+<Score et="2644.3">Josias Neto(3) lap=30 point=0 t=84.960 et=2644.171</Score>
+<Score et="2644.5">Robson Radaell(10) lap=29 point=2 t=67.757 et=2644.410</Score>
+<Score et="2644.7">Luiz de Melo(12) lap=29 point=2 t=67.511 et=2644.602</Score>
+<Score et="2645.1">Joao Junior(2) lap=29 point=2 t=67.224 et=2644.980</Score>
+<Score et="2648.3">Diego Freitas(4) lap=30 point=0 t=84.643 et=2648.142</Score>
+<Score et="2654.1">Arthur Targa(1) lap=29 point=2 t=67.531 et=2653.997</Score>
+<Score et="2658.7">Raphael Camelo(7) lap=30 point=1 t=21.294 et=2658.580</Score>
+<Score et="2660.0">Bruno Fernandes(6) lap=30 point=0 t=85.487 et=2659.893</Score>
+<Score et="2660.1">Bernardo Cardoso(5) lap=30 point=0 t=85.432 et=2659.982</Score>
+<Score et="2662.4">Jean Pierre(18) lap=30 point=1 t=21.506 et=2662.302</Score>
+<Score et="2662.6">Rafael Matta(8) lap=30 point=0 t=86.210 et=2662.465</Score>
+<Score et="2662.8">Robson Radaell(10) lap=30 point=0 t=85.985 et=2662.637</Score>
+<Score et="2662.9">Luiz de Melo(12) lap=30 point=0 t=85.739 et=2662.830</Score>
+<Score et="2663.2">Joao Junior(2) lap=30 point=0 t=85.360 et=2663.116</Score>
+<Score et="2665.7">Josias Neto(3) lap=30 point=1 t=21.337 et=2665.508</Score>
+<Score et="2669.2">Eduardo Pehls(16) lap=29 point=2 t=67.471 et=2669.142</Score>
+<Score et="2669.5">Diego Freitas(4) lap=30 point=1 t=21.277 et=2669.419</Score>
+<Score et="2672.5">Arthur Targa(1) lap=30 point=0 t=85.878 et=2672.343</Score>
+<Score et="2681.7">Bruno Fernandes(6) lap=30 point=1 t=21.711 et=2681.604</Score>
+<Score et="2681.8">Bernardo Cardoso(5) lap=30 point=1 t=21.732 et=2681.714</Score>
+<Score et="2684.3">Rafael Matta(8) lap=30 point=1 t=21.734 et=2684.199</Score>
+<Score et="2684.5">Luiz de Melo(12) lap=30 point=1 t=21.596 et=2684.427</Score>
+<Score et="2684.8">Joao Junior(2) lap=30 point=1 t=21.518 et=2684.634</Score>
+<Score et="2686.3">Robson Radaell(10) lap=30 point=1 t=23.475 et=2686.112</Score>
+<Score et="2687.3">Eduardo Pehls(16) lap=30 point=0 t=85.496 et=2687.166</Score>
+<Score et="2694.0">Arthur Targa(1) lap=30 point=1 t=21.520 et=2693.863</Score>
+<Score et="2704.0">Raphael Camelo(7) lap=30 point=2 t=66.632 et=2703.917</Score>
+<Score et="2708.9">Eduardo Pehls(16) lap=30 point=1 t=21.608 et=2708.774</Score>
+<Score et="2710.9">Josias Neto(3) lap=30 point=2 t=66.637 et=2710.808</Score>
+<Score et="2714.8">Diego Freitas(4) lap=30 point=2 t=66.539 et=2714.680</Score>
+<Score et="2722.2">Raphael Camelo(7) lap=31 point=0 t=84.728 et=2722.014</Score>
+<Score et="2727.5">Bruno Fernandes(6) lap=30 point=2 t=67.525 et=2727.418</Score>
+<Score et="2727.8">Bernardo Cardoso(5) lap=30 point=2 t=67.693 et=2727.675</Score>
+<Score et="2729.0">Josias Neto(3) lap=31 point=0 t=84.717 et=2728.888</Score>
+<Sent et="2729.9">Jean Pierre has left the game but vehicle has been stored in the garage</Sent>
+<Score et="2731.2">Rafael Matta(8) lap=30 point=2 t=68.552 et=2731.017</Score>
+<Score et="2731.3">Luiz de Melo(12) lap=30 point=2 t=68.334 et=2731.164</Score>
+<Score et="2731.7">Joao Junior(2) lap=30 point=2 t=68.411 et=2731.526</Score>
+<Score et="2732.5">Robson Radaell(10) lap=30 point=2 t=69.722 et=2732.360</Score>
+<Score et="2732.9">Diego Freitas(4) lap=31 point=0 t=84.612 et=2732.754</Score>
+<Score et="2739.9">Arthur Targa(1) lap=30 point=2 t=67.438 et=2739.781</Score>
+<Score et="2743.5">Raphael Camelo(7) lap=31 point=1 t=21.331 et=2743.345</Score>
+<Score et="2745.8">Bruno Fernandes(6) lap=31 point=0 t=85.830 et=2745.723</Score>
+<Score et="2745.9">Bernardo Cardoso(5) lap=31 point=0 t=85.843 et=2745.825</Score>
+<Score et="2749.8">Rafael Matta(8) lap=31 point=0 t=87.243 et=2749.708</Score>
+<Score et="2749.9">Luiz de Melo(12) lap=31 point=0 t=86.943 et=2749.774</Score>
+<Score et="2749.9">Joao Junior(2) lap=31 point=0 t=86.676 et=2749.792</Score>
+<Score et="2750.6">Josias Neto(3) lap=31 point=1 t=21.606 et=2750.494</Score>
+<Score et="2750.8">Robson Radaell(10) lap=31 point=0 t=88.036 et=2750.673</Score>
+<Score et="2754.2">Diego Freitas(4) lap=31 point=1 t=21.331 et=2754.085</Score>
+<Score et="2755.2">Eduardo Pehls(16) lap=30 point=2 t=67.884 et=2755.050</Score>
+<Score et="2758.2">Arthur Targa(1) lap=31 point=0 t=85.719 et=2758.062</Score>
+<Incident et="2765.4">Joao Junior(2) reported contact (0.29) with another vehicle Luiz de Melo(12)</Incident>
+<Incident et="2765.4">Joao Junior(2) reported contact (0.10) with another vehicle Luiz de Melo(12)</Incident>
+<Score et="2767.3">Bruno Fernandes(6) lap=31 point=1 t=21.482 et=2767.205</Score>
+<Score et="2767.5">Bernardo Cardoso(5) lap=31 point=1 t=21.503 et=2767.328</Score>
+<Score et="2771.9">Rafael Matta(8) lap=31 point=1 t=22.094 et=2771.802</Score>
+<Score et="2772.6">Luiz de Melo(12) lap=31 point=1 t=-1.000 et=2772.511</Score>
+<Score et="2772.8">Joao Junior(2) lap=31 point=1 t=-1.000 et=2772.679</Score>
+<Score et="2772.8">Robson Radaell(10) lap=31 point=1 t=22.037 et=2772.710</Score>
+<Score et="2773.4">Eduardo Pehls(16) lap=31 point=0 t=86.183 et=2773.349</Score>
+<Incident et="2777.8">Robson Radaell(10) reported contact (0.03) with another vehicle Joao Junior(2)</Incident>
+<Score et="2779.7">Arthur Targa(1) lap=31 point=1 t=21.529 et=2779.591</Score>
+<Score et="2789.1">Raphael Camelo(7) lap=31 point=2 t=66.965 et=2788.979</Score>
+<Score et="2795.2">Eduardo Pehls(16) lap=31 point=1 t=21.691 et=2795.040</Score>
+<Score et="2796.3">Josias Neto(3) lap=31 point=2 t=67.332 et=2796.220</Score>
+<Score et="2799.6">Diego Freitas(4) lap=31 point=2 t=66.763 et=2799.517</Score>
+<Score et="2807.2">Raphael Camelo(7) lap=32 point=0 t=85.122 et=2807.136</Score>
+<Score et="2813.1">Bruno Fernandes(6) lap=31 point=2 t=67.261 et=2812.984</Score>
+<Score et="2813.4">Bernardo Cardoso(5) lap=31 point=2 t=67.400 et=2813.225</Score>
+<Score et="2814.5">Josias Neto(3) lap=32 point=0 t=85.526 et=2814.414</Score>
+<Score et="2817.8">Diego Freitas(4) lap=32 point=0 t=84.924 et=2817.678</Score>
+<Score et="2818.1">Rafael Matta(8) lap=31 point=2 t=68.272 et=2817.981</Score>
+<Score et="2818.6">Luiz de Melo(12) lap=31 point=2 t=-1.000 et=2818.525</Score>
+<Score et="2819.2">Joao Junior(2) lap=31 point=2 t=-1.000 et=2819.102</Score>
+<Score et="2819.8">Robson Radaell(10) lap=31 point=2 t=69.012 et=2819.685</Score>
+<Score et="2825.6">Arthur Targa(1) lap=31 point=2 t=67.377 et=2825.439</Score>
+<Score et="2828.7">Raphael Camelo(7) lap=32 point=1 t=21.446 et=2828.582</Score>
+<Score et="2831.4">Bruno Fernandes(6) lap=32 point=0 t=85.587 et=2831.310</Score>
+<Score et="2831.6">Bernardo Cardoso(5) lap=32 point=0 t=85.655 et=2831.480</Score>
+<Score et="2835.9">Josias Neto(3) lap=32 point=1 t=21.384 et=2835.798</Score>
+<Score et="2836.3">Rafael Matta(8) lap=32 point=0 t=86.517 et=2836.225</Score>
+<Score et="2836.8">Luiz de Melo(12) lap=32 point=0 t=-1.000 et=2836.724</Score>
+<Score et="2837.3">Joao Junior(2) lap=32 point=0 t=-1.000 et=2837.185</Score>
+<Score et="2838.0">Robson Radaell(10) lap=32 point=0 t=87.248 et=2837.921</Score>
+<Score et="2839.0">Diego Freitas(4) lap=32 point=1 t=21.253 et=2838.931</Score>
+<Score et="2841.5">Eduardo Pehls(16) lap=31 point=2 t=67.993 et=2841.342</Score>
+<Score et="2844.0">Arthur Targa(1) lap=32 point=0 t=85.881 et=2843.943</Score>
+<Score et="2852.9">Bruno Fernandes(6) lap=32 point=1 t=21.537 et=2852.847</Score>
+<Score et="2853.0">Bernardo Cardoso(5) lap=32 point=1 t=21.457 et=2852.937</Score>
+<Score et="2858.0">Rafael Matta(8) lap=32 point=1 t=21.624 et=2857.849</Score>
+<Score et="2858.2">Luiz de Melo(12) lap=32 point=1 t=21.325 et=2858.049</Score>
+<Score et="2858.6">Joao Junior(2) lap=32 point=1 t=21.273 et=2858.458</Score>
+<Score et="2859.7">Eduardo Pehls(16) lap=32 point=0 t=86.212 et=2859.561</Score>
+<Score et="2859.8">Robson Radaell(10) lap=32 point=1 t=21.731 et=2859.652</Score>
+<Score et="2865.5">Arthur Targa(1) lap=32 point=1 t=21.506 et=2865.448</Score>
+<Score et="2874.2">Raphael Camelo(7) lap=32 point=2 t=66.968 et=2874.104</Score>
+<Score et="2881.3">Eduardo Pehls(16) lap=32 point=1 t=21.677 et=2881.238</Score>
+<Score et="2881.5">Josias Neto(3) lap=32 point=2 t=66.975 et=2881.389</Score>
+<Score et="2884.5">Diego Freitas(4) lap=32 point=2 t=66.714 et=2884.392</Score>
+<Score et="2892.3">Raphael Camelo(7) lap=33 point=0 t=85.085 et=2892.222</Score>
+<Score et="2899.0">Bruno Fernandes(6) lap=32 point=2 t=67.558 et=2898.868</Score>
+<Score et="2899.2">Bernardo Cardoso(5) lap=32 point=2 t=67.632 et=2899.113</Score>
+<Score et="2899.6">Josias Neto(3) lap=33 point=0 t=85.108 et=2899.522</Score>
+<Score et="2902.6">Diego Freitas(4) lap=33 point=0 t=84.779 et=2902.457</Score>
+<Score et="2904.2">Rafael Matta(8) lap=32 point=2 t=67.895 et=2904.120</Score>
+<Score et="2904.5">Luiz de Melo(12) lap=32 point=2 t=67.712 et=2904.435</Score>
+<Score et="2905.0">Joao Junior(2) lap=32 point=2 t=67.666 et=2904.851</Score>
+<Score et="2906.0">Robson Radaell(10) lap=32 point=2 t=67.988 et=2905.910</Score>
+<Score et="2911.5">Arthur Targa(1) lap=32 point=2 t=67.479 et=2911.422</Score>
+<Score et="2913.9">Raphael Camelo(7) lap=33 point=1 t=21.515 et=2913.737</Score>
+<Score et="2917.4">Bruno Fernandes(6) lap=33 point=0 t=85.934 et=2917.245</Score>
+<Score et="2917.5">Bernardo Cardoso(5) lap=33 point=0 t=85.857 et=2917.337</Score>
+<Score et="2921.0">Josias Neto(3) lap=33 point=1 t=21.377 et=2920.899</Score>
+<Score et="2922.8">Rafael Matta(8) lap=33 point=0 t=86.444 et=2922.669</Score>
+<Score et="2922.8">Luiz de Melo(12) lap=33 point=0 t=86.041 et=2922.765</Score>
+<Score et="2923.1">Joao Junior(2) lap=33 point=0 t=85.827 et=2923.013</Score>
+<Score et="2923.9">Diego Freitas(4) lap=33 point=1 t=21.363 et=2923.820</Score>
+<Score et="2924.4">Robson Radaell(10) lap=33 point=0 t=86.373 et=2924.294</Score>
+<Score et="2927.5">Eduardo Pehls(16) lap=32 point=2 t=67.825 et=2927.386</Score>
+<Score et="2929.9">Arthur Targa(1) lap=33 point=0 t=85.888 et=2929.831</Score>
+<Incident et="2936.8">Rafael Matta(8) reported contact (0.06) with another vehicle Luiz de Melo(12)</Incident>
+<Score et="2939.0">Bruno Fernandes(6) lap=33 point=1 t=21.624 et=2938.868</Score>
+<Score et="2939.2">Bernardo Cardoso(5) lap=33 point=1 t=21.700 et=2939.037</Score>
+<Score et="2944.4">Rafael Matta(8) lap=33 point=1 t=-1.000 et=2944.324</Score>
+<Score et="2944.8">Luiz de Melo(12) lap=33 point=1 t=21.909 et=2944.674</Score>
+<Score et="2944.9">Joao Junior(2) lap=33 point=1 t=21.777 et=2944.790</Score>
+<Score et="2945.9">Eduardo Pehls(16) lap=33 point=0 t=86.184 et=2945.746</Score>
+<Score et="2946.7">Robson Radaell(10) lap=33 point=1 t=22.326 et=2946.620</Score>
+<Score et="2951.7">Arthur Targa(1) lap=33 point=1 t=21.725 et=2951.556</Score>
+<Score et="2959.5">Raphael Camelo(7) lap=33 point=2 t=67.107 et=2959.329</Score>
+<Score et="2967.8">Eduardo Pehls(16) lap=33 point=1 t=21.916 et=2967.661</Score>
+<Score et="2967.9">Josias Neto(3) lap=33 point=2 t=68.243 et=2967.766</Score>
+<Score et="2969.8">Diego Freitas(4) lap=33 point=2 t=67.235 et=2969.692</Score>
+<Score et="2977.6">Raphael Camelo(7) lap=34 point=0 t=85.212 et=2977.434</Score>
+<Score et="2985.1">Bruno Fernandes(6) lap=33 point=2 t=67.731 et=2984.976</Score>
+<Score et="2985.3">Bernardo Cardoso(5) lap=33 point=2 t=67.867 et=2985.204</Score>
+<Score et="2986.4">Josias Neto(3) lap=34 point=0 t=86.688 et=2986.210</Score>
+<Score et="2987.9">Diego Freitas(4) lap=34 point=0 t=85.318 et=2987.775</Score>
+<Score et="2990.8">Rafael Matta(8) lap=33 point=2 t=-1.000 et=2990.656</Score>
+<Score et="2991.1">Luiz de Melo(12) lap=33 point=2 t=68.193 et=2990.958</Score>
+<Score et="2991.3">Joao Junior(2) lap=33 point=2 t=68.179 et=2991.192</Score>
+<Score et="2993.2">Robson Radaell(10) lap=33 point=2 t=68.802 et=2993.096</Score>
+<Score et="2997.7">Arthur Targa(1) lap=33 point=2 t=67.786 et=2997.616</Score>
+<Score et="2998.9">Raphael Camelo(7) lap=34 point=1 t=21.357 et=2998.792</Score>
+<Score et="3003.5">Bruno Fernandes(6) lap=34 point=0 t=86.141 et=3003.385</Score>
+<Score et="3003.7">Bernardo Cardoso(5) lap=34 point=0 t=86.188 et=3003.525</Score>
+<Score et="3007.9">Josias Neto(3) lap=34 point=1 t=21.516 et=3007.726</Score>
+<Score et="3009.1">Rafael Matta(8) lap=34 point=0 t=-1.000 et=3009.006</Score>
+<Score et="3009.1">Diego Freitas(4) lap=34 point=1 t=21.250 et=3009.025</Score>
+<Score et="3009.5">Luiz de Melo(12) lap=34 point=0 t=86.584 et=3009.349</Score>
+<Score et="3009.6">Joao Junior(2) lap=34 point=0 t=86.505 et=3009.517</Score>
+<Score et="3011.8">Robson Radaell(10) lap=34 point=0 t=87.409 et=3011.703</Score>
+<Score et="3013.7">Eduardo Pehls(16) lap=33 point=2 t=67.891 et=3013.636</Score>
+<Score et="3016.3">Arthur Targa(1) lap=34 point=0 t=86.350 et=3016.181</Score>
+<Score et="3025.1">Bruno Fernandes(6) lap=34 point=1 t=21.608 et=3024.993</Score>
+<Score et="3025.3">Bernardo Cardoso(5) lap=34 point=1 t=21.600 et=3025.125</Score>
+<Score et="3030.7">Rafael Matta(8) lap=34 point=1 t=21.618 et=3030.624</Score>
+<Score et="3031.2">Joao Junior(2) lap=34 point=1 t=21.559 et=3031.076</Score>
+<Score et="3031.3">Luiz de Melo(12) lap=34 point=1 t=21.891 et=3031.240</Score>
+<Score et="3031.9">Eduardo Pehls(16) lap=34 point=0 t=86.065 et=3031.811</Score>
+<Score et="3033.6">Robson Radaell(10) lap=34 point=1 t=21.769 et=3033.473</Score>
+<Score et="3038.1">Arthur Targa(1) lap=34 point=1 t=21.785 et=3037.965</Score>
+<Score et="3044.7">Raphael Camelo(7) lap=34 point=2 t=67.106 et=3044.541</Score>
+<Score et="3053.7">Josias Neto(3) lap=34 point=2 t=67.363 et=3053.573</Score>
+<Score et="3053.8">Eduardo Pehls(16) lap=34 point=1 t=21.914 et=3053.725</Score>
+<Score et="3055.1">Diego Freitas(4) lap=34 point=2 t=67.241 et=3055.017</Score>
+<Score et="3062.9">Raphael Camelo(7) lap=35 point=0 t=85.327 et=3062.761</Score>
+<Score et="3071.2">Bruno Fernandes(6) lap=34 point=2 t=67.768 et=3071.154</Score>
+<Score et="3071.5">Bernardo Cardoso(5) lap=34 point=2 t=67.838 et=3071.363</Score>
+<Score et="3071.9">Josias Neto(3) lap=35 point=0 t=85.580 et=3071.790</Score>
+<Score et="3073.2">Diego Freitas(4) lap=35 point=0 t=85.358 et=3073.134</Score>
+<Score et="3076.6">Rafael Matta(8) lap=34 point=2 t=67.473 et=3076.479</Score>
+<Score et="3077.2">Joao Junior(2) lap=34 point=2 t=67.534 et=3077.051</Score>
+<Score et="3077.5">Luiz de Melo(12) lap=34 point=2 t=68.025 et=3077.374</Score>
+<Score et="3080.5">Robson Radaell(10) lap=34 point=2 t=68.706 et=3080.410</Score>
+<Score et="3084.1">Arthur Targa(1) lap=34 point=2 t=67.802 et=3083.983</Score>
+<Score et="3084.4">Raphael Camelo(7) lap=35 point=1 t=21.457 et=3084.218</Score>
+<Score et="3089.7">Bruno Fernandes(6) lap=35 point=0 t=86.157 et=3089.543</Score>
+<Score et="3089.9">Bernardo Cardoso(5) lap=35 point=0 t=86.235 et=3089.760</Score>
+<Score et="3093.3">Josias Neto(3) lap=35 point=1 t=21.381 et=3093.171</Score>
+<Score et="3094.8">Diego Freitas(4) lap=35 point=1 t=21.558 et=3094.692</Score>
+<Score et="3094.8">Rafael Matta(8) lap=35 point=0 t=85.685 et=3094.691</Score>
+<Score et="3095.4">Joao Junior(2) lap=35 point=0 t=85.723 et=3095.241</Score>
+<Score et="3095.6">Luiz de Melo(12) lap=35 point=0 t=86.163 et=3095.512</Score>
+<Score et="3099.7">Robson Radaell(10) lap=35 point=0 t=87.819 et=3099.522</Score>
+<Score et="3100.0">Eduardo Pehls(16) lap=34 point=2 t=68.087 et=3099.898</Score>
+<Score et="3102.8">Arthur Targa(1) lap=35 point=0 t=86.478 et=3102.658</Score>
+<Score et="3111.4">Bruno Fernandes(6) lap=35 point=1 t=21.700 et=3111.243</Score>
+<Score et="3111.6">Bernardo Cardoso(5) lap=35 point=1 t=21.755 et=3111.515</Score>
+<Score et="3116.3">Rafael Matta(8) lap=35 point=1 t=21.516 et=3116.207</Score>
+<Score et="3116.7">Joao Junior(2) lap=35 point=1 t=21.292 et=3116.533</Score>
+<Score et="3116.8">Luiz de Melo(12) lap=35 point=1 t=21.243 et=3116.755</Score>
+<Score et="3118.3">Eduardo Pehls(16) lap=35 point=0 t=86.391 et=3118.202</Score>
+<Score et="3121.8">Robson Radaell(10) lap=35 point=1 t=22.197 et=3121.719</Score>
+<Score et="3124.4">Arthur Targa(1) lap=35 point=1 t=21.606 et=3124.265</Score>
+<Score et="3130.2">Raphael Camelo(7) lap=35 point=2 t=67.271 et=3130.033</Score>
+<Score et="3139.1">Josias Neto(3) lap=35 point=2 t=67.220 et=3139.010</Score>
+<Score et="3140.0">Eduardo Pehls(16) lap=35 point=1 t=21.711 et=3139.914</Score>
+<Score et="3140.5">Diego Freitas(4) lap=35 point=2 t=67.294 et=3140.428</Score>
+<Score et="3148.3">Raphael Camelo(7) lap=36 point=0 t=85.443 et=3148.204</Score>
+<Score et="3157.4">Josias Neto(3) lap=36 point=0 t=85.462 et=3157.252</Score>
+<Score et="3157.4">Bruno Fernandes(6) lap=35 point=2 t=67.750 et=3157.293</Score>
+<Score et="3157.7">Bernardo Cardoso(5) lap=35 point=2 t=67.845 et=3157.605</Score>
+<Score et="3158.7">Diego Freitas(4) lap=36 point=0 t=85.446 et=3158.580</Score>
+<Score et="3162.3">Rafael Matta(8) lap=35 point=2 t=67.499 et=3162.190</Score>
+<Score et="3162.8">Joao Junior(2) lap=35 point=2 t=67.386 et=3162.626</Score>
+<Score et="3163.0">Luiz de Melo(12) lap=35 point=2 t=67.400 et=3162.912</Score>
+<Score et="3169.5">Robson Radaell(10) lap=35 point=2 t=69.864 et=3169.386</Score>
+<Score et="3169.9">Raphael Camelo(7) lap=36 point=1 t=21.525 et=3169.729</Score>
+<Score et="3170.8">Arthur Targa(1) lap=35 point=2 t=68.010 et=3170.668</Score>
+<Score et="3175.9">Bruno Fernandes(6) lap=36 point=0 t=86.240 et=3175.783</Score>
+<Score et="3176.2">Bernardo Cardoso(5) lap=36 point=0 t=86.324 et=3176.084</Score>
+<Score et="3178.8">Josias Neto(3) lap=36 point=1 t=21.399 et=3178.651</Score>
+<Score et="3179.9">Diego Freitas(4) lap=36 point=1 t=21.262 et=3179.842</Score>
+<Score et="3180.6">Rafael Matta(8) lap=36 point=0 t=85.814 et=3180.505</Score>
+<Score et="3181.0">Joao Junior(2) lap=36 point=0 t=85.626 et=3180.866</Score>
+<Score et="3181.3">Luiz de Melo(12) lap=36 point=0 t=85.716 et=3181.227</Score>
+<Score et="3186.3">Eduardo Pehls(16) lap=35 point=2 t=67.934 et=3186.136</Score>
+<Score et="3189.1">Robson Radaell(10) lap=36 point=0 t=89.448 et=3188.970</Score>
+<Score et="3189.2">Arthur Targa(1) lap=36 point=0 t=86.449 et=3189.108</Score>
+<Score et="3197.6">Bruno Fernandes(6) lap=36 point=1 t=21.745 et=3197.529</Score>
+<Score et="3197.8">Bernardo Cardoso(5) lap=36 point=1 t=21.602 et=3197.687</Score>
+<Score et="3202.3">Rafael Matta(8) lap=36 point=1 t=21.686 et=3202.190</Score>
+<Score et="3202.5">Joao Junior(2) lap=36 point=1 t=21.492 et=3202.358</Score>
+<Score et="3202.7">Luiz de Melo(12) lap=36 point=1 t=21.355 et=3202.582</Score>
+<Score et="3204.7">Eduardo Pehls(16) lap=36 point=0 t=86.411 et=3204.613</Score>
+<Score et="3211.7">Arthur Targa(1) lap=36 point=1 t=22.466 et=3211.573</Score>
+<Score et="3212.6">Robson Radaell(10) lap=36 point=1 t=23.492 et=3212.462</Score>
+<Score et="3216.0">Raphael Camelo(7) lap=36 point=2 t=67.642 et=3215.846</Score>
+<Score et="3225.1">Josias Neto(3) lap=36 point=2 t=67.681 et=3224.933</Score>
+<Score et="3225.5">Diego Freitas(4) lap=36 point=2 t=66.852 et=3225.431</Score>
+<Score et="3226.3">Eduardo Pehls(16) lap=36 point=1 t=21.640 et=3226.253</Score>
+<Score et="3234.8">Checkered for Raphael Camelo, laps=37/37, endET=3234.629150/3069.458496, crossedAfterTime=0</Score>
+<Score et="3234.8">Raphael Camelo(7) lap=37 point=0 t=86.425 et=3234.629</Score>
+<Incident et="3241.8">Diego Freitas(4) reported contact (0.74) with Sign</Incident>
+<Incident et="3241.9">Diego Freitas(4) reported contact (0.10) with Sign</Incident>
+<Incident et="3241.9">Diego Freitas(4) reported contact (0.55) with Sign</Incident>
+<Score et="3243.5">Josias Neto(3) lap=37 point=0 t=86.145 et=3243.397</Score>
+<Score et="3244.2">Bruno Fernandes(6) lap=36 point=2 t=68.310 et=3244.093</Score>
+<Score et="3244.2">Diego Freitas(4) lap=37 point=0 t=85.537 et=3244.117</Score>
+<Score et="3244.4">Bernardo Cardoso(5) lap=36 point=2 t=68.233 et=3244.317</Score>
+<Score et="3248.6">Rafael Matta(8) lap=36 point=2 t=67.997 et=3248.501</Score>
+<Score et="3249.2">Joao Junior(2) lap=36 point=2 t=68.196 et=3249.062</Score>
+<Score et="3249.4">Luiz de Melo(12) lap=36 point=2 t=68.046 et=3249.274</Score>
+<Score et="3257.9">Arthur Targa(1) lap=36 point=2 t=68.689 et=3257.797</Score>
+<Score et="3263.0">Robson Radaell(10) lap=36 point=2 t=73.919 et=3262.889</Score>
+<Score et="3263.1">Bruno Fernandes(6) lap=37 point=0 t=87.163 et=3262.946</Score>
+<Score et="3263.4">Bernardo Cardoso(5) lap=37 point=0 t=87.178 et=3263.262</Score>
+<Score et="3267.1">Rafael Matta(8) lap=37 point=0 t=86.517 et=3267.021</Score>
+<Score et="3267.9">Joao Junior(2) lap=37 point=0 t=86.891 et=3267.758</Score>
+<Score et="3268.0">Luiz de Melo(12) lap=37 point=0 t=86.646 et=3267.874</Score>
+<Score et="3272.5">Eduardo Pehls(16) lap=36 point=2 t=67.786 et=3272.399</Score>
+<Score et="3276.7">Arthur Targa(1) lap=37 point=0 t=87.448 et=3276.556</Score>
+<Sent et="3279.0">Diego Freitas has left the game but vehicle has been stored in the garage</Sent>
+<Incident et="3286.3">Bernardo Cardoso(5) reported contact (0.03) with another vehicle Bruno Fernandes(6)</Incident>
+<Score et="3286.9">Robson Radaell(10) lap=37 point=0 t=97.765 et=3286.735</Score>
+<Score et="3291.1">Eduardo Pehls(16) lap=37 point=0 t=86.357 et=3290.970</Score>
+<Incident et="3293.5">Raphael Camelo(7) reported contact (0.06) with another vehicle Bernardo Cardoso(5)</Incident>
+<Sent et="3294.7">Diretor Principal has left the game but vehicle has been stored in the garage</Sent>
+</Stream>
+<MostLapsCompleted>37</MostLapsCompleted>
+<Driver>
+<Name>Jean Pierre</Name>
+<SteamID>76561198038003423</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_ASR_02_CRUZE.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: ASR Driver 2</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Alliance SimRacing    </TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>3</GridPos>
+<Position>12</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="69.4586" s1="28.5837" s2="45.0427" s3="18.0887" fuel="0.455">91.7151</Lap>
+<Lap num="2" p="2" et="161.1737" s1="21.2979" s2="44.8153" s3="17.7492" fuel="0.443">83.8624</Lap>
+<Lap num="3" p="2" et="245.0361" s1="21.1736" s2="44.7633" s3="17.7926" fuel="0.431">83.7295</Lap>
+<Lap num="4" p="2" et="328.7656" s1="21.0770" s2="44.9279" s3="17.8683" fuel="0.420">83.8732</Lap>
+<Lap num="5" p="1" et="412.6388" s1="21.7051" s2="44.6658" s3="17.8885" fuel="0.404">84.2594</Lap>
+<Lap num="6" p="1" et="496.8982" s1="21.5151" s2="44.8464" s3="17.8500" fuel="0.392">84.2115</Lap>
+<Lap num="7" p="1" et="581.1097" s1="21.2802" s2="44.8372" s3="17.8400" fuel="0.380">83.9573</Lap>
+<Lap num="8" p="1" et="665.0670" s1="21.1677" s2="45.0806" s3="17.9537" fuel="0.369">84.2021</Lap>
+<Lap num="9" p="1" et="749.2691" s1="21.2319" s2="44.8701" s3="17.9018" fuel="0.353">84.0037</Lap>
+<Lap num="10" p="1" et="833.2728" s1="21.2037" s2="44.8082" s3="18.0844" fuel="0.341">84.0963</Lap>
+<Lap num="11" p="1" et="917.3691" s1="21.3021" s2="44.8301" s3="17.9696" fuel="0.329">84.1018</Lap>
+<Lap num="12" p="1" et="1001.4709" s1="21.2888" s2="45.0563" s3="18.1187" fuel="0.318">84.4637</Lap>
+<Lap num="13" p="1" et="1085.9347" s1="21.3344" s2="45.2963" s3="18.1207" fuel="0.306">84.7513</Lap>
+<Lap num="14" p="1" et="1170.6860" s1="21.2612" s2="45.1375" s3="18.1663" fuel="0.290">84.5649</Lap>
+<Lap num="15" p="1" et="1255.2510" s1="21.4181" s2="45.2955" s3="18.1033" fuel="0.278">84.8169</Lap>
+<Lap num="16" p="1" et="1340.0679" s1="21.4296" s2="45.4146" fuel="0.267">--.----</Lap>
+<Lap num="17" p="1" et="1425.0597" s1="21.2523" s2="45.4264" s3="18.2224" fuel="0.255">84.9011</Lap>
+<Lap num="18" p="2" et="1509.9608" s1="21.4329" s2="45.9574" s3="49.5087" fuel="0.243" pit="1">116.8989</Lap>
+<Lap num="19" p="2" et="1626.8597" s1="25.8250" s2="45.2263" s3="17.9111" fuel="0.227">88.9624</Lap>
+<Lap num="20" p="2" et="1715.8221" s1="21.2227" s2="45.2316" s3="17.8167" fuel="0.216">84.2709</Lap>
+<Lap num="21" p="2" et="1800.0930" s1="21.1268" s2="44.9771" fuel="0.204">--.----</Lap>
+<Lap num="22" p="2" et="1883.9237" s1="21.1022" s2="44.5360" s3="17.8413" fuel="0.188">83.4795</Lap>
+<Lap num="23" p="2" et="1967.4032" s1="21.0634" s2="45.0182" s3="17.8585" fuel="0.176">83.9401</Lap>
+<Lap num="24" p="2" et="2051.3433" s1="21.1165" s2="44.9751" s3="17.8999" fuel="0.165">83.9915</Lap>
+<Lap num="25" p="2" et="2135.3347" s1="21.0750" s2="44.7751" s3="17.9248" fuel="0.153">83.7749</Lap>
+<Lap num="26" p="2" et="2219.1096" s1="21.5881" s2="44.8643" s3="17.9978" fuel="0.137">84.4502</Lap>
+<Lap num="27" p="2" et="2303.5598" s1="21.1819" s2="44.9817" s3="17.9617" fuel="0.125">84.1252</Lap>
+<Lap num="28" p="2" et="2387.6851" s1="21.3057" s2="44.9492" s3="18.0127" fuel="0.114">84.2676</Lap>
+<Lap num="29" p="2" et="2471.9526" s1="21.2402" s2="44.9668" s3="18.0500" fuel="0.102">84.2571</Lap>
+<Lap num="30" p="2" et="2556.2097" s1="21.2871" s2="45.1768" s3="18.1226" fuel="0.090">84.5864</Lap>
+<BestLapTime>83.4795</BestLapTime>
+<Laps>30</Laps>
+<LapsLed>13</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="30">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Raphael Camelo</Name>
+<SteamID>76561198008535112</SteamID>
+<RaceRank>0.07</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_FSS_01.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Fitness Driver 1</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Fitness RSS    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>2</GridPos>
+<Position>1</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>8</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="69.4586" s1="28.9956" s2="45.0750" s3="17.8928" fuel="0.498">91.9634</Lap>
+<Lap num="2" p="3" et="161.4220" s1="21.3734" s2="44.9483" s3="17.7616" fuel="0.486">84.0833</Lap>
+<Lap num="3" p="3" et="245.5052" s1="21.2043" s2="44.8214" s3="17.7733" fuel="0.475">83.7990</Lap>
+<Lap num="4" p="3" et="329.3042" s1="21.1129" s2="44.7371" s3="17.6658" fuel="0.463">83.5158</Lap>
+<Lap num="5" p="2" et="412.8200" s1="21.3008" s2="45.7334" s3="17.7879" fuel="0.451">84.8221</Lap>
+<Lap num="6" p="2" et="497.6420" s1="21.1522" s2="44.8940" s3="17.7159" fuel="0.439">83.7621</Lap>
+<Lap num="7" p="2" et="581.4042" s1="21.1293" s2="45.0070" s3="17.8759" fuel="0.427">84.0121</Lap>
+<Lap num="8" p="2" et="665.4163" s1="21.1304" s2="45.3747" s3="17.9327" fuel="0.416">84.4379</Lap>
+<Lap num="9" p="2" et="749.8542" s1="21.1556" s2="44.9296" s3="17.8898" fuel="0.404">83.9750</Lap>
+<Lap num="10" p="2" et="833.8292" s1="21.1250" s2="45.0400" s3="17.8870" fuel="0.392">84.0520</Lap>
+<Lap num="11" p="2" et="917.8812" s1="21.3480" s2="45.4500" s3="17.9871" fuel="0.380">84.7850</Lap>
+<Lap num="12" p="2" et="1002.6662" s1="21.2433" s2="45.1993" s3="18.0847" fuel="0.369">84.5274</Lap>
+<Lap num="13" p="2" et="1087.1936" s1="21.2855" s2="45.3380" s3="18.1031" fuel="0.357">84.7267</Lap>
+<Lap num="14" p="2" et="1171.9203" s1="21.3104" s2="45.3252" s3="18.0482" fuel="0.345">84.6838</Lap>
+<Lap num="15" p="2" et="1256.6041" s1="21.3000" s2="45.4250" s3="18.0293" fuel="0.333">84.7544</Lap>
+<Lap num="16" p="2" et="1341.3585" s1="21.3000" s2="45.3617" s3="18.1339" fuel="0.322">84.7957</Lap>
+<Lap num="17" p="3" et="1426.1542" s1="21.6431" s2="45.4849" s3="46.1237" fuel="0.310" pit="1">113.2516</Lap>
+<Lap num="18" p="3" et="1539.4058" s1="25.6484" s2="44.7750" fuel="0.298">--.----</Lap>
+<Lap num="19" p="1" et="1627.5295" s1="21.1747" s2="44.5249" s3="17.7870" fuel="0.286">83.4866</Lap>
+<Lap num="20" p="1" et="1711.0161" s1="21.1638" s2="45.0150" s3="17.8348" fuel="0.275">84.0137</Lap>
+<Lap num="21" p="1" et="1795.0298" s1="21.1244" s2="44.9000" s3="17.8353" fuel="0.263">83.8597</Lap>
+<Lap num="22" p="1" et="1878.8895" s1="21.0934" s2="44.7462" s3="17.9327" fuel="0.251">83.7723</Lap>
+<Lap num="23" p="1" et="1962.6619" s1="21.1323" s2="44.7850" s3="17.9258" fuel="0.239">83.8431</Lap>
+<Lap num="24" p="1" et="2046.5050" s1="21.1385" s2="44.9490" s3="17.9243" fuel="0.227">84.0118</Lap>
+<Lap num="25" p="1" et="2130.5168" s1="21.1372" s2="44.9048" s3="17.9104" fuel="0.212">83.9524</Lap>
+<Lap num="26" p="1" et="2214.4692" s1="21.1768" s2="45.0833" s3="18.0146" fuel="0.200">84.2747</Lap>
+<Lap num="27" p="1" et="2298.7439" s1="21.1853" s2="45.2417" s3="18.0369" fuel="0.188">84.4639</Lap>
+<Lap num="28" p="1" et="2383.2078" s1="21.1968" s2="45.2129" s3="18.0117" fuel="0.176">84.4214</Lap>
+<Lap num="29" p="1" et="2467.6292" s1="21.3130" s2="45.4619" fuel="0.165">--.----</Lap>
+<Lap num="30" p="1" et="2552.4666" s1="21.3257" s2="45.3120" s3="18.1814" fuel="0.153">84.8191</Lap>
+<Lap num="31" p="1" et="2637.2856" s1="21.2939" s2="45.3376" s3="18.0967" fuel="0.141">84.7283</Lap>
+<Lap num="32" p="1" et="2722.0139" s1="21.3308" s2="45.6345" s3="18.1570" fuel="0.129">85.1223</Lap>
+<Lap num="33" p="1" et="2807.1362" s1="21.4460" s2="45.5220" s3="18.1174" fuel="0.118">85.0854</Lap>
+<Lap num="34" p="1" et="2892.2217" s1="21.5154" s2="45.5920" s3="18.1050" fuel="0.106">85.2124</Lap>
+<Lap num="35" p="1" et="2977.4341" s1="21.3574" s2="45.7490" s3="18.2209" fuel="0.094">85.3274</Lap>
+<Lap num="36" p="1" et="3062.7615" s1="21.4565" s2="45.8147" s3="18.1714" fuel="0.082">85.4426</Lap>
+<Lap num="37" p="1" et="3148.2041" s1="21.5251" s2="46.1169" s3="18.7830" fuel="0.075">86.4250</Lap>
+<BestLapTime>83.4866</BestLapTime>
+<FinishTime>3165.1707</FinishTime>
+<Laps>37</Laps>
+<LapsLed>19</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="37">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Josias Neto</Name>
+<SteamID>76561198069163252</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>ML_TBR_02_FLU.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: TBR Driver 2</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Team Brasil Racing   </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>4</GridPos>
+<Position>2</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>5</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="69.4586" s1="29.2338" s2="45.4257" s3="17.9308" fuel="0.514">92.5903</Lap>
+<Lap num="2" p="4" et="162.0489" s1="21.4441" s2="44.7803" fuel="0.502">--.----</Lap>
+<Lap num="3" p="4" et="245.9430" s1="21.2008" s2="44.6895" s3="17.7000" fuel="0.486">83.5904</Lap>
+<Lap num="4" p="4" et="329.5333" s1="21.1371" s2="45.2880" s3="17.7763" fuel="0.475">84.2013</Lap>
+<Lap num="5" p="4" et="413.7346" s1="21.3294" s2="45.3443" s3="17.8250" fuel="0.463">84.4987</Lap>
+<Lap num="6" p="4" et="498.2333" s1="21.1381" s2="45.0369" s3="17.8000" fuel="0.451">83.9750</Lap>
+<Lap num="7" p="4" et="582.2083" s1="21.3508" s2="45.1742" s3="17.8757" fuel="0.435">84.4008</Lap>
+<Lap num="8" p="4" et="666.6091" s1="21.4376" s2="45.1367" s3="17.9440" fuel="0.424">84.5183</Lap>
+<Lap num="9" p="4" et="751.1274" s1="21.5411" s2="45.1805" s3="17.9108" fuel="0.412">84.6324</Lap>
+<Lap num="10" p="3" et="835.7598" s1="21.5986" s2="45.3750" s3="17.9627" fuel="0.400">84.9363</Lap>
+<Lap num="11" p="3" et="920.6960" s1="21.3623" s2="45.4389" s3="18.0873" fuel="0.384">84.8885</Lap>
+<Lap num="12" p="3" et="1005.5845" s1="21.4034" s2="45.2483" s3="18.0471" fuel="0.373">84.6988</Lap>
+<Lap num="13" p="3" et="1090.2833" s1="21.5750" s2="45.2628" s3="18.0623" fuel="0.361">84.9000</Lap>
+<Lap num="14" p="4" et="1175.1833" s1="21.8132" s2="45.7927" s3="18.2190" fuel="0.349">85.8250</Lap>
+<Lap num="15" p="4" et="1261.0083" s1="21.2854" s2="45.7428" s3="18.1526" fuel="0.337">85.1808</Lap>
+<Lap num="16" p="6" et="1346.1891" s1="21.3839" s2="45.5875" s3="47.2979" fuel="0.325" pit="1">114.2693</Lap>
+<Lap num="17" p="4" et="1460.4584" s1="26.0850" s2="45.2545" s3="17.8645" fuel="0.310">89.2040</Lap>
+<Lap num="18" p="4" et="1549.6624" s1="21.2715" s2="44.7745" s3="17.7999" fuel="0.298">83.8459</Lap>
+<Lap num="19" p="3" et="1633.5083" s1="21.2759" s2="44.6814" s3="17.8008" fuel="0.286">83.7581</Lap>
+<Lap num="20" p="3" et="1717.2664" s1="21.0681" s2="44.6989" s3="17.7500" fuel="0.271">83.5170</Lap>
+<Lap num="21" p="3" et="1800.7833" s1="21.1160" s2="44.7472" s3="17.8751" fuel="0.259">83.7383</Lap>
+<Lap num="22" p="3" et="1884.5216" s1="21.1300" s2="44.7400" s3="17.8456" fuel="0.247">83.7156</Lap>
+<Lap num="23" p="3" et="1968.2372" s1="21.0485" s2="44.9362" s3="17.8649" fuel="0.235">83.8495</Lap>
+<Lap num="24" p="3" et="2052.0867" s1="21.0466" s2="44.9763" s3="17.9487" fuel="0.224">83.9717</Lap>
+<Lap num="25" p="3" et="2136.0583" s1="21.1338" s2="45.0989" s3="17.9673" fuel="0.208">84.2000</Lap>
+<Lap num="26" p="3" et="2220.2583" fuel="0.196">--.----</Lap>
+<Lap num="27" p="3" et="2304.7334" s1="21.3149" s2="45.5237" s3="18.1670" fuel="0.184">85.0056</Lap>
+<Lap num="28" p="3" et="2389.7390" s1="21.3223" s2="45.3828" s3="18.0293" fuel="0.173">84.7344</Lap>
+<Lap num="29" p="3" et="2474.4734" s1="21.2932" s2="45.4089" s3="18.0356" fuel="0.157">84.7378</Lap>
+<Lap num="30" p="3" et="2559.2112" s1="21.2971" s2="45.5513" s3="18.1113" fuel="0.145">84.9597</Lap>
+<Lap num="31" p="2" et="2644.1709" s1="21.3374" s2="45.3000" s3="18.0793" fuel="0.133">84.7168</Lap>
+<Lap num="32" p="2" et="2728.8877" s1="21.6062" s2="45.7258" s3="18.1943" fuel="0.122">85.5264</Lap>
+<Lap num="33" p="2" et="2814.4141" s1="21.3840" s2="45.5913" s3="18.1328" fuel="0.110">85.1082</Lap>
+<Lap num="34" p="2" et="2899.5222" s1="21.3772" s2="46.8662" s3="18.4443" fuel="0.098">86.6877</Lap>
+<Lap num="35" p="2" et="2986.2100" s1="21.5159" s2="45.8474" s3="18.2170" fuel="0.082">85.5803</Lap>
+<Lap num="36" p="2" et="3071.7903" s1="21.3809" s2="45.8391" s3="18.2417" fuel="0.071">85.4617</Lap>
+<Lap num="37" p="2" et="3157.2520" s1="21.3989" s2="46.2825" s3="18.4634" fuel="0.059">86.1448</Lap>
+<BestLapTime>83.5170</BestLapTime>
+<FinishTime>3173.9382</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Diego Freitas</Name>
+<SteamID>76561198025221890</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_ASR_01_CRUZE.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: ASR Driver 1</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Alliance SimRacing    </TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>1</GridPos>
+<Position>3</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>3</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="69.4586" s1="28.2470" s2="45.1257" s3="18.0874" fuel="0.459">91.4601</Lap>
+<Lap num="2" p="1" et="160.9187" s1="21.1266" s2="45.0464" fuel="0.443">--.----</Lap>
+<Lap num="3" p="1" et="244.8294" s1="21.1123" s2="44.7553" s3="17.7946" fuel="0.431">83.6622</Lap>
+<Lap num="4" p="1" et="328.4917" s1="21.1000" s2="44.9750" s3="17.9750" fuel="0.420">84.0500</Lap>
+<Lap num="5" p="3" et="412.5417" s1="21.9758" s2="45.6743" s3="17.7173" fuel="0.408">85.3673</Lap>
+<Lap num="6" p="3" et="497.9090" s1="21.1713" s2="44.8240" s3="18.0374" fuel="0.396">84.0327</Lap>
+<Lap num="7" p="3" et="581.9417" s1="21.2391" s2="45.2978" s3="17.9564" fuel="0.384">84.4933</Lap>
+<Lap num="8" p="3" et="666.4349" s1="21.4120" s2="45.1068" s3="18.0379" fuel="0.373">84.5567</Lap>
+<Lap num="9" p="3" et="750.9916" s1="21.2898" s2="45.2956" s3="18.0586" fuel="0.361">84.6440</Lap>
+<Lap num="10" p="4" et="835.6356" s1="21.9310" s2="45.4287" s3="17.9348" fuel="0.345">85.2946</Lap>
+<Lap num="11" p="4" et="920.9302" s1="21.2615" s2="45.6813" s3="18.1212" fuel="0.333">85.0640</Lap>
+<Lap num="12" p="4" et="1005.9941" s1="21.2726" s2="45.4830" s3="17.8920" fuel="0.322">84.6476</Lap>
+<Lap num="13" p="4" et="1090.6417" s1="21.4144" s2="45.4105" s3="17.8250" fuel="0.310">84.6499</Lap>
+<Lap num="14" p="3" et="1175.2916" s1="21.5670" s2="45.6343" s3="18.0920" fuel="0.298">85.2933</Lap>
+<Lap num="15" p="3" et="1260.5850" s1="21.3613" s2="45.5035" s3="18.1995" fuel="0.286">85.0643</Lap>
+<Lap num="16" p="3" et="1345.6493" s1="21.4587" s2="45.6376" s3="18.0627" fuel="0.275">85.1591</Lap>
+<Lap num="17" p="2" et="1430.8083" s1="21.3334" s2="45.6580" s3="18.1338" fuel="0.263">85.1251</Lap>
+<Lap num="18" p="1" et="1515.9335" s1="21.4696" s2="45.9886" s3="18.2999" fuel="0.251">85.7582</Lap>
+<Lap num="19" p="4" et="1601.6917" s1="21.5383" s2="45.9368" s3="49.0249" fuel="0.239" pit="1">116.5000</Lap>
+<Lap num="20" p="4" et="1718.1917" s1="25.8927" s2="44.9395" s3="17.7478" fuel="0.224">88.5800</Lap>
+<Lap num="21" p="4" et="1806.7716" s1="21.2032" s2="44.9232" s3="17.8051" fuel="0.212">83.9315</Lap>
+<Lap num="22" p="4" et="1890.7031" s1="21.2539" s2="44.8982" s3="17.9463" fuel="0.200">84.0984</Lap>
+<Lap num="23" p="4" et="1974.8015" s1="21.1406" s2="45.0867" s3="17.7393" fuel="0.188">83.9666</Lap>
+<Lap num="24" p="4" et="2058.7681" s1="21.0315" s2="45.1450" s3="17.8257" fuel="0.173">84.0022</Lap>
+<Lap num="25" p="4" et="2142.7703" s1="21.2017" s2="44.7312" s3="17.8525" fuel="0.161">83.7854</Lap>
+<Lap num="26" p="4" et="2226.5557" s1="21.1160" s2="45.0273" s3="18.0427" fuel="0.149">84.1860</Lap>
+<Lap num="27" p="4" et="2310.7417" s1="21.1250" s2="45.0500" s3="17.8999" fuel="0.137">84.0750</Lap>
+<Lap num="28" p="4" et="2394.8167" s1="21.1042" s2="45.2473" s3="17.8257" fuel="0.125">84.1772</Lap>
+<Lap num="29" p="4" et="2478.9939" s1="21.3108" s2="45.1426" s3="18.0513" fuel="0.110">84.5046</Lap>
+<Lap num="30" p="4" et="2563.4985" s1="21.2932" s2="45.2664" s3="18.0835" fuel="0.098">84.6431</Lap>
+<Lap num="31" p="3" et="2648.1416" s1="21.2771" s2="45.2617" s3="18.0735" fuel="0.086">84.6123</Lap>
+<Lap num="32" p="3" et="2732.7539" s1="21.3311" s2="45.4316" s3="18.1614" fuel="0.075">84.9241</Lap>
+<Lap num="33" p="3" et="2817.6780" s1="21.2532" s2="45.4604" s3="18.0654" fuel="0.063">84.7791</Lap>
+<Lap num="34" p="3" et="2902.4570" s1="21.3633" s2="45.8713" s3="18.0837" fuel="0.051">85.3184</Lap>
+<Lap num="35" p="3" et="2987.7754" s1="21.2498" s2="45.9915" s3="18.1172" fuel="0.035">85.3584</Lap>
+<Lap num="36" p="3" et="3073.1338" s1="21.5579" s2="45.7361" s3="18.1519" fuel="0.024">85.4458</Lap>
+<Lap num="37" p="3" et="3158.5796" s1="21.2620" s2="45.5898" s3="18.6853" fuel="0.012">85.5371</Lap>
+<BestLapTime>83.6622</BestLapTime>
+<FinishTime>3174.6582</FinishTime>
+<Laps>37</Laps>
+<LapsLed>5</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Rafael Matta</Name>
+<SteamID>76561198095636273</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_FSS2_02.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Fitness 2 Driver 2</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Fitness RSS 2    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>10</GridPos>
+<Position>6</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="69.4586" s1="30.4067" s2="46.1147" s3="17.9210" fuel="0.459">94.4424</Lap>
+<Lap num="2" p="9" et="163.9010" s1="21.2393" s2="45.2750" s3="17.9565" fuel="0.447">84.4708</Lap>
+<Lap num="3" p="9" et="248.3717" s1="21.2267" s2="45.2594" s3="17.8922" fuel="0.435">84.3782</Lap>
+<Lap num="4" p="9" et="332.7499" s1="21.3663" s2="45.1990" s3="17.9802" fuel="0.424">84.5455</Lap>
+<Lap num="5" p="9" et="417.2955" s1="21.4948" s2="44.9910" fuel="0.412">--.----</Lap>
+<Lap num="6" p="9" et="501.6247" s1="21.2779" s2="45.3513" s3="17.8741" fuel="0.400">84.5033</Lap>
+<Lap num="7" p="9" et="586.1280" s1="21.2538" s2="45.6334" s3="17.9045" fuel="0.388">84.7917</Lap>
+<Lap num="8" p="9" et="670.9197" s1="21.7222" s2="45.6298" s3="17.9436" fuel="0.376">85.2955</Lap>
+<Lap num="9" p="9" et="756.2153" s1="21.4532" s2="45.1861" s3="17.9411" fuel="0.365">84.5804</Lap>
+<Lap num="10" p="9" et="840.7957" s1="21.3741" s2="46.3455" s3="17.9500" fuel="0.353">85.6696</Lap>
+<Lap num="11" p="9" et="926.4653" s1="21.6250" s2="45.7896" s3="17.9855" fuel="0.341">85.4000</Lap>
+<Lap num="12" p="9" et="1011.8653" s1="21.9265" s2="46.1648" s3="18.1616" fuel="0.329">86.2529</Lap>
+<Lap num="13" p="8" et="1098.1182" s1="21.6040" s2="45.8018" s3="18.1985" fuel="0.318">85.6042</Lap>
+<Lap num="14" p="14" et="1183.7224" s1="21.7600" s2="45.9858" s3="47.6517" fuel="0.306" pit="1">115.3976</Lap>
+<Lap num="15" p="15" et="1299.1200" s1="25.8856" s2="44.9846" s3="18.0000" fuel="0.294">88.8702</Lap>
+<Lap num="16" p="13" et="1387.9902" s1="21.2500" s2="44.7906" s3="17.8164" fuel="0.282">83.8571</Lap>
+<Lap num="17" p="9" et="1471.8473" s1="21.2284" s2="45.4896" s3="18.1146" fuel="0.271">84.8326</Lap>
+<Lap num="18" p="9" et="1556.6799" s1="21.2952" s2="45.2532" s3="18.0120" fuel="0.259">84.5603</Lap>
+<Lap num="19" p="9" et="1641.2402" s1="21.2816" s2="45.1184" s3="18.0797" fuel="0.247">84.4797</Lap>
+<Lap num="20" p="9" et="1725.7200" s1="21.5472" s2="45.2230" s3="18.0560" fuel="0.235">84.8263</Lap>
+<Lap num="21" p="9" et="1810.5463" s1="21.3726" s2="45.0247" s3="18.0874" fuel="0.224">84.4846</Lap>
+<Lap num="22" p="9" et="1895.0309" s1="21.1776" s2="45.2231" s3="18.1373" fuel="0.212">84.5381</Lap>
+<Lap num="23" p="9" et="1979.5690" s1="21.2765" s2="45.8064" s3="17.9939" fuel="0.200">85.0768</Lap>
+<Lap num="24" p="9" et="2064.6458" s1="21.4617" s2="45.7617" s3="17.8638" fuel="0.188">85.0872</Lap>
+<Lap num="25" p="8" et="2149.7329" s1="21.5984" s2="45.6636" s3="18.2625" fuel="0.176">85.5244</Lap>
+<Lap num="26" p="8" et="2235.2573" s1="21.3359" s2="45.6292" s3="18.0808" fuel="0.165">85.0459</Lap>
+<Lap num="27" p="7" et="2320.3032" s1="21.3120" s2="45.6025" s3="18.2224" fuel="0.153">85.1370</Lap>
+<Lap num="28" p="7" et="2405.4402" s1="21.2935" s2="45.8066" s3="18.2290" fuel="0.145">85.3291</Lap>
+<Lap num="29" p="7" et="2490.7693" s1="21.4275" s2="45.9556" s3="18.1028" fuel="0.133">85.4858</Lap>
+<Lap num="30" p="7" et="2576.2551" s1="21.6636" s2="46.2559" s3="18.2908" fuel="0.122">86.2102</Lap>
+<Lap num="31" p="6" et="2662.4653" s1="21.7336" s2="46.8181" s3="18.6912" fuel="0.110">87.2429</Lap>
+<Lap num="32" p="6" et="2749.7083" s1="22.0938" s2="46.1787" s3="18.2444" fuel="0.098">86.5168</Lap>
+<Lap num="33" p="6" et="2836.2251" s1="21.6238" s2="46.2712" s3="18.5491" fuel="0.086">86.4441</Lap>
+<Lap num="34" p="6" et="2922.6692" fuel="0.075">--.----</Lap>
+<Lap num="35" p="6" et="3009.0059" s1="21.6179" s2="45.8555" s3="18.2117" fuel="0.063">85.6851</Lap>
+<Lap num="36" p="6" et="3094.6909" s1="21.5159" s2="45.9834" s3="18.3145" fuel="0.051">85.8137</Lap>
+<Lap num="37" p="6" et="3180.5046" s1="21.6855" s2="46.3113" s3="18.5200" fuel="0.039">86.5168</Lap>
+<BestLapTime>83.8571</BestLapTime>
+<FinishTime>3197.5630</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Luiz de Melo</Name>
+<SteamID>76561197986419683</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_ASR2_02_CRUZE.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: ASR 2 Driver 2</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Alliance SimRacing 2    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>9</GridPos>
+<Position>8</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="69.4586" s1="29.9681" s2="45.7859" fuel="0.471">--.----</Lap>
+<Lap num="2" p="7" et="162.8281" s1="21.6504" s2="44.9598" s3="17.8103" fuel="0.459">84.4205</Lap>
+<Lap num="3" p="7" et="247.2486" s1="21.2000" s2="45.4250" s3="17.8275" fuel="0.447">84.4525</Lap>
+<Lap num="4" p="8" et="331.7011" s1="22.0486" s2="45.1620" s3="17.8911" fuel="0.435">85.1017</Lap>
+<Lap num="5" p="8" et="416.8029" s1="21.2289" s2="44.8919" s3="17.7878" fuel="0.420">83.9086</Lap>
+<Lap num="6" p="8" et="500.7115" s1="21.5204" s2="45.4529" s3="17.8934" fuel="0.408">84.8667</Lap>
+<Lap num="7" p="7" et="585.5781" s1="21.3811" s2="45.1741" s3="18.0310" fuel="0.396">84.5862</Lap>
+<Lap num="8" p="7" et="670.1643" s1="21.3345" s2="45.6498" s3="18.0139" fuel="0.384">84.9982</Lap>
+<Lap num="9" p="7" et="755.1625" s1="21.6361" s2="45.5598" s3="18.0196" fuel="0.373">85.2155</Lap>
+<Lap num="10" p="7" et="840.3780" s1="21.6956" s2="45.7571" s3="17.9059" fuel="0.361">85.3586</Lap>
+<Lap num="11" p="6" et="925.7366" s1="21.5237" s2="45.3646" s3="18.0569" fuel="0.349">84.9453</Lap>
+<Lap num="12" p="5" et="1010.6819" s1="21.5581" s2="45.4836" s3="18.1189" fuel="0.333">85.1606</Lap>
+<Lap num="13" p="5" et="1095.8425" s1="21.3647" s2="45.6232" s3="18.0432" fuel="0.322">85.0311</Lap>
+<Lap num="14" p="5" et="1180.8737" s1="21.3801" s2="45.5789" s3="18.2689" fuel="0.310">85.2279</Lap>
+<Lap num="15" p="5" et="1266.1016" s1="21.4373" s2="45.5763" s3="18.1335" fuel="0.298">85.1471</Lap>
+<Lap num="16" p="7" et="1351.2487" s1="21.3816" s2="45.8434" s3="48.1517" fuel="0.286" pit="1">115.3767</Lap>
+<Lap num="17" p="8" et="1466.6254" s1="25.6233" s2="45.3345" s3="17.9961" fuel="0.271">88.9539</Lap>
+<Lap num="18" p="8" et="1555.5792" s1="21.2244" s2="44.9547" s3="17.7593" fuel="0.259">83.9384</Lap>
+<Lap num="19" p="8" et="1639.5176" s1="21.2061" s2="45.2000" s3="17.7924" fuel="0.247">84.1984</Lap>
+<Lap num="20" p="7" et="1723.7159" s1="21.3640" s2="45.2687" s3="17.8328" fuel="0.235">84.4655</Lap>
+<Lap num="21" p="7" et="1808.1814" s1="21.1672" s2="45.1000" s3="17.8138" fuel="0.224">84.0811</Lap>
+<Lap num="22" p="7" et="1892.2625" s1="21.0465" s2="45.5305" s3="17.8201" fuel="0.208">84.3971</Lap>
+<Lap num="23" p="7" et="1976.6595" s1="21.4431" s2="45.7061" s3="17.8734" fuel="0.196">85.0226</Lap>
+<Lap num="24" p="7" et="2061.6821" s1="21.4985" s2="45.4019" s3="17.8696" fuel="0.184">84.7700</Lap>
+<Lap num="25" p="7" et="2146.4521" s1="22.0525" s2="45.5566" s3="17.9124" fuel="0.173">85.5215</Lap>
+<Lap num="26" p="6" et="2231.9736" s1="21.6858" s2="45.9004" s3="18.0186" fuel="0.161">85.6047</Lap>
+<Lap num="27" p="9" et="2317.5784" s1="21.5718" fuel="0.149">--.----</Lap>
+<Lap num="28" p="9" et="2406.4143" s1="21.6597" s2="45.6882" s3="18.1614" fuel="0.137">85.5093</Lap>
+<Lap num="29" p="9" et="2491.9236" s1="21.3865" s2="45.7271" s3="18.0540" fuel="0.122">85.1675</Lap>
+<Lap num="30" p="9" et="2577.0911" s1="21.3826" s2="46.1287" s3="18.2280" fuel="0.110">85.7393</Lap>
+<Lap num="31" p="7" et="2662.8303" s1="21.5964" s2="46.7375" s3="18.6094" fuel="0.098">86.9434</Lap>
+<Lap num="32" p="7" et="2749.7737" fuel="0.086">--.----</Lap>
+<Lap num="33" p="7" et="2836.7236" s1="21.3250" s2="46.3867" s3="18.3293" fuel="0.075">86.0410</Lap>
+<Lap num="34" p="7" et="2922.7646" s1="21.9089" s2="46.2839" s3="18.3911" fuel="0.063">86.5840</Lap>
+<Lap num="35" p="8" et="3009.3486" s1="21.8911" s2="46.1338" s3="18.1382" fuel="0.051">86.1631</Lap>
+<Lap num="36" p="8" et="3095.5117" s1="21.2434" s2="46.1567" s3="18.3154" fuel="0.039">85.7156</Lap>
+<Lap num="37" p="8" et="3181.2273" s1="21.3547" s2="46.6917" s3="18.5999" fuel="0.027">86.6462</Lap>
+<BestLapTime>83.9086</BestLapTime>
+<FinishTime>3198.4150</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<PenaltyMass>30.0</PenaltyMass>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Bernardo Cardoso</Name>
+<SteamID>76561198302862653</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MJ_F1BC2_02_HON.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: F1BC Civic 2 Driver 2</VehName>
+<CarType>Carros Bases</CarType>
+<CarClass>Carros Bases</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>F1BC MJ Civic Equipe 2      </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>7</GridPos>
+<Position>5</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="69.4586" s1="29.5272" s2="46.4056" fuel="0.557">--.----</Lap>
+<Lap num="2" p="8" et="163.1250" s1="21.5348" s2="45.0722" s3="17.7792" fuel="0.545">84.3861</Lap>
+<Lap num="3" p="8" et="247.5111" s1="21.2139" s2="45.3070" s3="17.7844" fuel="0.533">84.3053</Lap>
+<Lap num="4" p="7" et="331.8165" s1="21.1609" s2="45.1346" s3="17.9174" fuel="0.518">84.2130</Lap>
+<Lap num="5" p="7" et="416.0294" s1="21.2705" s2="45.1172" s3="18.0941" fuel="0.506">84.4818</Lap>
+<Lap num="6" p="7" et="500.5113" s1="21.5887" s2="45.3500" s3="18.0649" fuel="0.494">85.0036</Lap>
+<Lap num="7" p="8" et="585.5149" s1="21.5499" s2="45.6238" s3="18.0026" fuel="0.482">85.1763</Lap>
+<Lap num="8" p="8" et="670.6912" s1="21.6228" s2="45.5722" s3="18.0559" fuel="0.471">85.2509</Lap>
+<Lap num="9" p="8" et="755.9421" s1="21.3738" s2="45.3382" s3="18.0460" fuel="0.459">84.7579</Lap>
+<Lap num="10" p="8" et="840.7000" s1="21.6024" s2="45.6725" s3="18.0750" fuel="0.447">85.3500</Lap>
+<Lap num="11" p="8" et="926.0500" s1="21.5250" s2="45.9061" s3="18.1031" fuel="0.435">85.5342</Lap>
+<Lap num="12" p="7" et="1011.5842" s1="21.6191" s2="45.4313" s3="18.2477" fuel="0.420">85.2980</Lap>
+<Lap num="13" p="7" et="1096.8822" s1="21.5728" s2="45.9303" s3="18.2742" fuel="0.408">85.7772</Lap>
+<Lap num="14" p="13" et="1182.6594" s1="21.3735" s2="45.8170" s3="47.7750" fuel="0.396" pit="1">114.9656</Lap>
+<Lap num="15" p="13" et="1297.6250" s1="25.8279" s2="44.8994" s3="17.9478" fuel="0.384">88.6750</Lap>
+<Lap num="16" p="10" et="1386.3000" s1="21.4039" s2="44.7777" s3="17.8302" fuel="0.373">84.0118</Lap>
+<Lap num="17" p="6" et="1470.3119" s1="21.2202" s2="44.9303" s3="17.7687" fuel="0.357">83.9192</Lap>
+<Lap num="18" p="5" et="1554.2311" s1="21.1990" s2="44.9700" s3="17.9366" fuel="0.345">84.1056</Lap>
+<Lap num="19" p="6" et="1638.3367" s1="21.5541" s2="45.1156" s3="17.8037" fuel="0.333">84.4734</Lap>
+<Lap num="20" p="6" et="1722.8101" s1="21.4906" s2="45.4493" s3="17.7626" fuel="0.322">84.7025</Lap>
+<Lap num="21" p="6" et="1807.5126" s1="21.0894" s2="45.1565" s3="17.9198" fuel="0.310">84.1656</Lap>
+<Lap num="22" p="6" et="1891.6782" s1="21.3761" s2="45.2959" s3="18.0824" fuel="0.298">84.7544</Lap>
+<Lap num="23" p="6" et="1976.4326" s1="21.4174" s2="45.5500" s3="17.9840" fuel="0.286">84.9514</Lap>
+<Lap num="24" p="6" et="2061.3840" s1="21.5410" s2="45.3000" s3="18.1250" fuel="0.275">84.9661</Lap>
+<Lap num="25" p="6" et="2146.3501" s1="21.8499" s2="45.5845" s3="18.0215" fuel="0.263">85.4558</Lap>
+<Lap num="26" p="7" et="2231.8059" s1="22.0518" s2="45.9001" s3="18.1111" fuel="0.251">86.0630</Lap>
+<Lap num="27" p="6" et="2317.8689" s1="21.5715" s2="45.7847" s3="18.2998" fuel="0.239">85.6560</Lap>
+<Lap num="28" p="6" et="2403.5249" s1="21.5637" s2="45.7363" s3="18.2063" fuel="0.227">85.5063</Lap>
+<Lap num="29" p="6" et="2489.0313" s1="21.3687" s2="45.9502" s3="18.2004" fuel="0.216">85.5193</Lap>
+<Lap num="30" p="6" et="2574.5505" s1="21.4553" s2="45.7441" s3="18.2324" fuel="0.204">85.4319</Lap>
+<Lap num="31" p="5" et="2659.9824" s1="21.7319" s2="45.9607" s3="18.1499" fuel="0.192">85.8425</Lap>
+<Lap num="32" p="5" et="2745.8250" s1="21.5029" s2="45.8972" s3="18.2551" fuel="0.180">85.6553</Lap>
+<Lap num="33" p="5" et="2831.4802" s1="21.4570" s2="46.1753" s3="18.2244" fuel="0.169">85.8567</Lap>
+<Lap num="34" p="5" et="2917.3369" s1="21.7000" s2="46.1667" s3="18.3215" fuel="0.157">86.1882</Lap>
+<Lap num="35" p="5" et="3003.5251" s1="21.5999" s2="46.2378" s3="18.3972" fuel="0.145">86.2349</Lap>
+<Lap num="36" p="5" et="3089.7600" s1="21.7551" s2="46.0903" s3="18.4788" fuel="0.133">86.3242</Lap>
+<Lap num="37" p="5" et="3176.0842" s1="21.6023" s2="46.6306" s3="18.9451" fuel="0.122">87.1780</Lap>
+<BestLapTime>83.9192</BestLapTime>
+<FinishTime>3193.8037</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marcelo Neiva</Name>
+<SteamID>76561198061380163</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_ASR_03_CRUZE.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: ASR Driver 3</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Alliance SimRacing    </TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>18</GridPos>
+<Position>13</Position>
+<ClassGridPos>12</ClassGridPos>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="69.4586" s1="31.5247" s2="46.0834" s3="17.9186" fuel="0.471">95.5267</Lap>
+<Lap num="2" p="12" et="164.9853" s1="21.6090" s2="45.0719" s3="17.8553" fuel="0.459">84.5362</Lap>
+<Lap num="3" p="12" et="249.5215" s1="21.5676" s2="44.9586" s3="17.6607" fuel="0.447">84.1869</Lap>
+<Lap num="4" p="12" et="333.7083" s1="21.3000" s2="45.4563" s3="17.7506" fuel="0.431">84.5070</Lap>
+<Lap num="5" p="12" et="418.2153" s1="21.2943" s2="45.2594" s3="17.5914" fuel="0.420">84.1451</Lap>
+<Lap num="6" p="11" et="502.3604" s1="21.6479" s2="45.1006" s3="17.7363" fuel="0.408">84.4849</Lap>
+<Lap num="7" p="11" et="586.8453" s1="21.1560" s2="45.6144" fuel="0.396">--.----</Lap>
+<Lap num="8" p="10" et="671.3834" s1="21.5250" s2="45.8250" s3="18.0585" fuel="0.380">85.4084</Lap>
+<Lap num="9" p="11" et="756.7918" s1="22.0320" s2="45.4877" s3="17.8563" fuel="0.369">85.3760</Lap>
+<Lap num="10" p="11" et="842.1678" s1="21.3406" s2="45.8750" s3="17.9370" fuel="0.357">85.1525</Lap>
+<Lap num="11" p="11" et="927.3203" s1="21.6675" s2="46.1843" s3="17.9441" fuel="0.345">85.7960</Lap>
+<Lap num="12" p="11" et="1013.1163" s1="21.5718" s2="45.8293" s3="17.8658" fuel="0.333">85.2670</Lap>
+<Lap num="13" p="10" et="1098.3833" s1="22.1312" s2="45.6824" s3="18.1700" fuel="0.318">85.9836</Lap>
+<Lap num="14" p="7" et="1184.3669" s1="21.4807" s2="45.8607" s3="18.1315" fuel="0.306">85.4729</Lap>
+<Lap num="15" p="6" et="1269.8398" s1="21.4199" s2="45.5085" s3="18.0900" fuel="0.294">85.0184</Lap>
+<Lap num="16" p="9" et="1354.8583" s1="21.5046" s2="47.4982" s3="46.4723" fuel="0.282" pit="1">115.4751</Lap>
+<Lap num="17" p="12" et="1470.3334" s1="26.9520" s2="45.1636" s3="17.7404" fuel="0.267">89.8560</Lap>
+<Lap num="18" p="12" et="1560.1893" s1="21.3257" s2="44.9183" s3="17.7090" fuel="0.255">83.9530</Lap>
+<Lap num="19" p="11" et="1644.1423" fuel="0.243">--.----</Lap>
+<Lap num="20" p="12" et="1729.2333" s1="21.5562" s2="45.5549" s3="28.7146" fuel="0.231" pit="1">95.8257</Lap>
+<Lap num="21" p="12" et="1825.0590" s1="25.9105" s2="45.3721" s3="17.9507" fuel="0.220">89.2333</Lap>
+<BestLapTime>83.9530</BestLapTime>
+<Laps>21</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<PenaltyMass>20.0</PenaltyMass>
+<ControlAndAids startLap="1" endLap="21">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Robson Radaell</Name>
+<SteamID>76561198309297079</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_TORA_01_FLU.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Tornado Driver 1</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Tornado    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>5</GridPos>
+<Position>10</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="69.4586" s1="29.4261" s2="45.5531" s3="17.6969" fuel="0.486">92.6761</Lap>
+<Lap num="2" p="5" et="162.1347" s1="21.5814" s2="44.8775" fuel="0.471">--.----</Lap>
+<Lap num="3" p="5" et="246.2916" s1="21.2697" s2="44.9763" fuel="0.459">--.----</Lap>
+<Lap num="4" p="5" et="330.3597" s1="21.5250" s2="44.9337" fuel="0.443">--.----</Lap>
+<Lap num="5" p="5" et="414.5993" s1="21.2012" s2="45.2740" s3="17.8866" fuel="0.431">84.3618</Lap>
+<Lap num="6" p="5" et="498.9612" s1="21.4735" s2="45.3328" s3="17.9585" fuel="0.420">84.7648</Lap>
+<Lap num="7" p="5" et="583.7260" s1="21.4087" s2="45.6250" s3="18.1428" fuel="0.408">85.1765</Lap>
+<Lap num="8" p="5" et="668.9025" s1="22.0391" s2="45.6835" s3="18.0999" fuel="0.392">85.8224</Lap>
+<Lap num="9" p="5" et="754.7249" s1="21.5463" s2="45.6681" s3="18.1454" fuel="0.380">85.3599</Lap>
+<Lap num="10" p="5" et="840.0847" s1="21.5000" s2="45.7042" s3="18.1235" fuel="0.369">85.3278</Lap>
+<Lap num="11" p="7" et="925.4125" s1="22.0222" s2="45.8500" s3="18.1253" fuel="0.353">85.9976</Lap>
+<Lap num="12" p="8" et="1011.4100" s1="22.1246" s2="45.5106" s3="18.0073" fuel="0.341">85.6426</Lap>
+<Lap num="13" p="15" et="1097.0526" s1="21.6677" s2="45.9144" s3="47.9500" fuel="0.329" pit="1">115.5321</Lap>
+<Lap num="14" p="15" et="1212.5847" s1="26.7684" s2="44.9816" s3="17.9900" fuel="0.318">89.7400</Lap>
+<Lap num="15" p="14" et="1302.3247" s1="21.5100" s2="44.7128" s3="17.8553" fuel="0.302">84.0781</Lap>
+<Lap num="16" p="11" et="1386.4028" s1="21.4596" s2="44.9396" s3="17.7744" fuel="0.290">84.1736</Lap>
+<Lap num="17" p="7" et="1470.5764" s1="21.1665" s2="44.9669" s3="17.8500" fuel="0.278">83.9834</Lap>
+<Lap num="18" p="7" et="1554.5598" s1="21.4147" s2="45.2603" s3="17.9631" fuel="0.263">84.6381</Lap>
+<Lap num="19" p="7" et="1639.1979" s1="21.3234" s2="45.1019" s3="17.9722" fuel="0.251">84.3975</Lap>
+<Lap num="20" p="8" et="1723.5953" s1="21.7394" s2="45.4634" s3="18.1906" fuel="0.239">85.3933</Lap>
+<Lap num="21" p="8" et="1808.9886" s1="21.3210" s2="45.3341" s3="18.1938" fuel="0.224">84.8490</Lap>
+<Lap num="22" p="8" et="1893.8376" s1="21.5260" s2="45.4500" s3="18.1461" fuel="0.212">85.1221</Lap>
+<Lap num="23" p="8" et="1978.9597" s1="21.3763" s2="46.1337" s3="18.0486" fuel="0.200">85.5586</Lap>
+<Lap num="24" p="8" et="2064.5183" s1="21.4761" s2="45.5981" s3="18.0757" fuel="0.184">85.1499</Lap>
+<Lap num="25" p="9" et="2149.6682" s1="21.7717" s2="46.0281" s3="18.1667" fuel="0.173">85.9666</Lap>
+<Lap num="26" p="9" et="2235.6348" s1="21.3000" s2="45.5750" s3="18.0112" fuel="0.161">84.8862</Lap>
+<Lap num="27" p="8" et="2320.5210" s1="21.3137" s2="45.9009" s3="18.0518" fuel="0.149">85.2664</Lap>
+<Lap num="28" p="8" et="2405.7874" s1="21.4973" s2="45.9788" s3="18.1533" fuel="0.133">85.6294</Lap>
+<Lap num="29" p="8" et="2491.4167" s1="21.3179" s2="45.7502" s3="18.1677" fuel="0.122">85.2358</Lap>
+<Lap num="30" p="8" et="2576.6526" s1="21.4863" s2="46.2708" s3="18.2275" fuel="0.110">85.9846</Lap>
+<Lap num="31" p="9" et="2662.6372" s1="23.4751" s2="46.2473" s3="18.3135" fuel="0.098">88.0359</Lap>
+<Lap num="32" p="9" et="2750.6731" s1="22.0366" s2="46.9751" s3="18.2366" fuel="0.086">87.2483</Lap>
+<Lap num="33" p="9" et="2837.9214" s1="21.7307" s2="46.2576" s3="18.3848" fuel="0.071">86.3730</Lap>
+<Lap num="34" p="9" et="2924.2944" s1="22.3257" s2="46.4758" s3="18.6074" fuel="0.059">87.4089</Lap>
+<Lap num="35" p="9" et="3011.7034" s1="21.7693" s2="46.9370" s3="19.1123" fuel="0.047">87.8186</Lap>
+<Lap num="36" p="9" et="3099.5220" s1="22.1968" s2="47.6675" s3="19.5837" fuel="0.035">89.4480</Lap>
+<Lap num="37" p="10" et="3188.9700" s1="23.4919" s2="50.4268" s3="23.8459" fuel="0.027">97.7646</Lap>
+<BestLapTime>83.9834</BestLapTime>
+<FinishTime>3217.2761</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Joao Junior</Name>
+<SteamID>76561197996909305</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>ML_TBR_03_FLU.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: TBR Driver 3</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>Team Brasil Racing   </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>12</GridPos>
+<Position>7</Position>
+<ClassGridPos>9</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="69.4586" s1="30.6720" s2="46.2809" s3="18.0233" fuel="0.498">94.9761</Lap>
+<Lap num="2" p="10" et="164.4348" s1="21.1852" s2="45.3482" s3="17.7333" fuel="0.486">84.2666</Lap>
+<Lap num="3" p="10" et="248.7014" s1="21.2514" s2="45.3486" s3="17.8308" fuel="0.475">84.4308</Lap>
+<Lap num="4" p="10" et="333.1322" s1="21.1350" s2="45.4591" s3="17.8500" fuel="0.463">84.4442</Lap>
+<Lap num="5" p="10" et="417.5764" s1="21.3772" s2="45.2251" s3="17.7320" fuel="0.451">84.3343</Lap>
+<Lap num="6" p="10" et="501.9107" s1="21.1660" s2="45.5669" s3="17.8725" fuel="0.439">84.6054</Lap>
+<Lap num="7" p="10" et="586.5161" s1="21.1011" s2="45.7133" s3="17.8111" fuel="0.427">84.6255</Lap>
+<Lap num="8" p="11" et="671.1416" s1="21.6972" s2="46.1708" s3="18.0056" fuel="0.416">85.8737</Lap>
+<Lap num="9" p="10" et="757.0153" s1="21.3520" s2="45.5099" s3="17.9992" fuel="0.404">84.8611</Lap>
+<Lap num="10" p="10" et="841.8764" s1="21.3121" s2="45.9423" s3="18.0715" fuel="0.388">85.3259</Lap>
+<Lap num="11" p="10" et="927.2023" s1="21.4857" s2="45.6134" fuel="0.376">--.----</Lap>
+<Lap num="12" p="10" et="1012.2315" s1="22.0847" s2="45.8102" s3="18.1500" fuel="0.365">86.0449</Lap>
+<Lap num="13" p="9" et="1098.2764" s1="21.6676" s2="46.0724" s3="18.1852" fuel="0.353">85.9252</Lap>
+<Lap num="14" p="8" et="1184.2015" s1="21.4585" s2="46.7245" s3="18.1493" fuel="0.341">86.3323</Lap>
+<Lap num="15" p="11" et="1270.5338" s1="21.4926" s2="45.9501" s3="47.0249" fuel="0.329" pit="1">114.4675</Lap>
+<Lap num="16" p="14" et="1385.0013" s1="25.7251" s2="45.5670" s3="18.1467" fuel="0.318">89.4388</Lap>
+<Lap num="17" p="10" et="1474.4402" s1="21.7135" s2="45.3727" s3="17.8792" fuel="0.306">84.9653</Lap>
+<Lap num="18" p="10" et="1559.4055" s1="21.1039" s2="45.0302" s3="17.8802" fuel="0.290">84.0143</Lap>
+<Lap num="19" p="10" et="1643.4198" s1="21.0836" s2="45.1537" s3="18.0313" fuel="0.278">84.2686</Lap>
+<Lap num="20" p="10" et="1727.6884" s1="21.2795" s2="45.4165" s3="17.9929" fuel="0.267">84.6890</Lap>
+<Lap num="21" p="10" et="1812.3773" s1="21.1490" s2="45.5250" s3="18.0804" fuel="0.255">84.7545</Lap>
+<Lap num="22" p="10" et="1897.1318" s1="21.2561" s2="45.4893" s3="18.1742" fuel="0.243">84.9196</Lap>
+<Lap num="23" p="10" et="1982.0514" s1="21.2500" s2="45.4039" s3="17.9490" fuel="0.231">84.6029</Lap>
+<Lap num="24" p="10" et="2066.6543" s1="21.3247" s2="45.3474" s3="18.0002" fuel="0.216">84.6724</Lap>
+<Lap num="25" p="10" et="2151.3267" s1="21.2869" s2="45.7048" s3="18.0156" fuel="0.204">85.0073</Lap>
+<Lap num="26" p="10" et="2236.3340" s1="21.2051" s2="45.8123" s3="18.1938" fuel="0.192">85.2112</Lap>
+<Lap num="27" p="10" et="2321.5452" s1="21.4563" s2="45.7620" fuel="0.180">--.----</Lap>
+<Lap num="28" p="10" et="2406.8325" s1="21.4189" s2="46.1079" s3="18.2419" fuel="0.169">85.7688</Lap>
+<Lap num="29" p="10" et="2492.6013" s1="21.2756" s2="45.7993" s3="18.0798" fuel="0.157">85.1548</Lap>
+<Lap num="30" p="10" et="2577.7561" s1="21.2952" s2="45.9290" s3="18.1355" fuel="0.145">85.3596</Lap>
+<Lap num="31" p="8" et="2663.1157" s1="21.5178" s2="46.8928" s3="18.2656" fuel="0.133">86.6763</Lap>
+<Lap num="32" p="8" et="2749.7920" fuel="0.122">--.----</Lap>
+<Lap num="33" p="8" et="2837.1853" s1="21.2732" s2="46.3928" s3="18.1614" fuel="0.110">85.8274</Lap>
+<Lap num="34" p="8" et="2923.0127" s1="21.7773" s2="46.4016" s3="18.3257" fuel="0.098">86.5046</Lap>
+<Lap num="35" p="7" et="3009.5173" s1="21.5591" s2="45.9749" s3="18.1895" fuel="0.086">85.7234</Lap>
+<Lap num="36" p="7" et="3095.2407" s1="21.2922" s2="46.0935" s3="18.2400" fuel="0.075">85.6257</Lap>
+<Lap num="37" p="7" et="3180.8665" s1="21.4917" s2="46.7041" s3="18.6953" fuel="0.059">86.8911</Lap>
+<BestLapTime>84.0143</BestLapTime>
+<FinishTime>3198.2991</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,TC=1,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="2" endLap="14">PlayerControl,ABS=1</ControlAndAids>
+<ControlAndAids startLap="15" endLap="15">PlayerControl,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="16" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Bruno Fernandes</Name>
+<SteamID>76561198130165451</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_FSS_02.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Fitness Driver 2</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Fitness RSS    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>6</GridPos>
+<Position>4</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="69.4586" s1="29.7999" s2="45.6096" s3="17.7626" fuel="0.486">93.1720</Lap>
+<Lap num="2" p="6" et="162.6306" s1="21.4767" s2="44.8608" fuel="0.475">--.----</Lap>
+<Lap num="3" p="6" et="246.6737" s1="21.3059" s2="44.8635" s3="17.8500" fuel="0.459">84.0194</Lap>
+<Lap num="4" p="6" et="330.6931" s1="21.3412" s2="45.0919" s3="17.7170" fuel="0.447">84.1500</Lap>
+<Lap num="5" p="6" et="414.8430" s1="21.4612" s2="45.1138" s3="17.7250" fuel="0.435">84.3000</Lap>
+<Lap num="6" p="6" et="499.1431" s1="21.4750" s2="45.3054" s3="17.9534" fuel="0.424">84.7338</Lap>
+<Lap num="7" p="6" et="583.8768" s1="21.4027" s2="45.6635" s3="18.0588" fuel="0.412">85.1250</Lap>
+<Lap num="8" p="6" et="669.0018" s1="22.1442" s2="45.8531" s3="17.9483" fuel="0.400">85.9456</Lap>
+<Lap num="9" p="6" et="754.9474" s1="21.5456" s2="45.6626" s3="18.0422" fuel="0.388">85.2504</Lap>
+<Lap num="10" p="6" et="840.1978" s1="21.6767" s2="45.6496" s3="18.0007" fuel="0.376">85.3270</Lap>
+<Lap num="11" p="5" et="925.5248" s1="21.5790" s2="45.3754" s3="18.1152" fuel="0.365">85.0697</Lap>
+<Lap num="12" p="6" et="1010.5945" s1="21.8244" s2="45.5491" s3="18.0662" fuel="0.353">85.4396</Lap>
+<Lap num="13" p="6" et="1096.0342" s1="21.4720" s2="45.5868" s3="18.1284" fuel="0.341">85.1873</Lap>
+<Lap num="14" p="6" et="1181.2214" s1="21.5466" s2="45.5540" s3="18.1624" fuel="0.329">85.2629</Lap>
+<Lap num="15" p="10" et="1266.4844" s1="21.5007" s2="45.6836" s3="47.1743" fuel="0.314" pit="1">114.3586</Lap>
+<Lap num="16" p="8" et="1380.8430" s1="25.9860" s2="44.8890" s3="17.9926" fuel="0.302">88.8676</Lap>
+<Lap num="17" p="5" et="1469.7106" s1="21.3840" s2="44.8273" s3="17.8790" fuel="0.290">84.0903</Lap>
+<Lap num="18" p="6" et="1553.8009" s1="21.3171" s2="45.4250" s3="17.8906" fuel="0.275">84.6328</Lap>
+<Lap num="19" p="5" et="1638.4337" s1="21.3618" s2="44.9988" s3="17.9237" fuel="0.263">84.2843</Lap>
+<Lap num="20" p="5" et="1722.7180" s1="21.4751" s2="45.1750" s3="17.8499" fuel="0.251">84.5000</Lap>
+<Lap num="21" p="5" et="1807.2180" s1="21.2516" s2="45.1050" s3="18.0184" fuel="0.239">84.3750</Lap>
+<Lap num="22" p="5" et="1891.5930" s1="21.3563" s2="45.2535" s3="18.0516" fuel="0.224">84.6615</Lap>
+<Lap num="23" p="5" et="1976.2545" s1="21.4900" s2="45.4735" s3="18.0664" fuel="0.212">85.0299</Lap>
+<Lap num="24" p="5" et="2061.2844" s1="21.3899" s2="45.3811" s3="18.1794" fuel="0.200">84.9504</Lap>
+<Lap num="25" p="5" et="2146.2349" s1="21.7583" s2="45.5498" s3="18.1501" fuel="0.188">85.4583</Lap>
+<Lap num="26" p="5" et="2231.6931" s1="21.7400" s2="45.7722" s3="18.2266" fuel="0.176">85.7388</Lap>
+<Lap num="27" p="5" et="2317.4319" s1="21.8862" s2="45.7605" s3="18.2202" fuel="0.161">85.8669</Lap>
+<Lap num="28" p="5" et="2403.2988" s1="21.6948" s2="45.5056" s3="18.2688" fuel="0.149">85.4692</Lap>
+<Lap num="29" p="5" et="2488.7681" s1="21.5396" s2="45.8228" s3="18.2759" fuel="0.137">85.6382</Lap>
+<Lap num="30" p="5" et="2574.4063" s1="21.4868" s2="45.7000" s3="18.3000" fuel="0.125">85.4868</Lap>
+<Lap num="31" p="4" et="2659.8931" s1="21.7112" s2="45.8137" s3="18.3049" fuel="0.114">85.8298</Lap>
+<Lap num="32" p="4" et="2745.7229" s1="21.4824" s2="45.7786" s3="18.3264" fuel="0.102">85.5874</Lap>
+<Lap num="33" p="4" et="2831.3103" s1="21.5366" s2="46.0212" s3="18.3765" fuel="0.086">85.9343</Lap>
+<Lap num="34" p="4" et="2917.2446" s1="21.6235" s2="46.1077" s3="18.4097" fuel="0.075">86.1409</Lap>
+<Lap num="35" p="4" et="3003.3855" s1="21.6077" s2="46.1606" s3="18.3892" fuel="0.063">86.1575</Lap>
+<Lap num="36" p="4" et="3089.5430" s1="21.7002" s2="46.0498" s3="18.4905" fuel="0.051">86.2405</Lap>
+<Lap num="37" p="4" et="3175.7834" s1="21.7451" s2="46.5645" s3="18.8533" fuel="0.039">87.1628</Lap>
+<BestLapTime>84.0194</BestLapTime>
+<FinishTime>3193.4878</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<PenaltyMass>60.0</PenaltyMass>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Juan Manuel Gomez</Name>
+<SteamID>76561198274543687</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MJ_F1BC2_01_HON.VEH</VehFile>
+<UpgradeCode>01000000 00000000</UpgradeCode>
+<VehName>Marcas: F1BC Civic 2 Driver 1</VehName>
+<CarType>Carros Bases</CarType>
+<CarClass>Carros Bases</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>F1BC MJ Civic Equipe 2      </TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>8</GridPos>
+<Position>14</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="69.4586" s1="31.0053" s2="46.2511" s3="17.9489" fuel="0.525">95.2053</Lap>
+<Lap num="2" p="12" et="164.6639" fuel="0.514">84.3605</Lap>
+<Lap num="3" p="11" et="249.0244" s1="21.4702" s2="44.9943" s3="17.8862" fuel="0.498">84.3507</Lap>
+<Lap num="4" p="11" et="333.3751" fuel="0.482">84.5388</Lap>
+<Lap num="5" p="13" et="417.9139" s1="21.2500" s2="45.2250" fuel="0.471">--.----</Lap>
+<Lap num="6" p="12" et="502.2735" s1="21.9154" s2="45.3359" s3="17.8991" fuel="0.455">85.1505</Lap>
+<Lap num="7" p="12" et="587.4240" s1="21.3490" s2="45.4160" s3="17.9871" fuel="0.443">84.7521</Lap>
+<Lap num="8" p="15" et="672.1760" s1="21.4718" fuel="0.431">85.1628</Lap>
+<Lap num="9" p="12" et="757.3389" s1="21.6329" s2="45.7172" s3="18.0034" fuel="0.416">85.3534</Lap>
+<Lap num="10" p="15" et="842.6923" s1="21.4145" fuel="0.404">85.0252</Lap>
+<Lap num="11" p="15" et="927.7175" s1="21.5291" fuel="0.388">85.8214</Lap>
+<Lap num="12" p="15" et="1013.5389" s1="21.4750" fuel="0.376">85.3044</Lap>
+<Lap num="13" p="11" et="1098.8433" s1="22.2019" s2="45.7438" s3="18.2749" fuel="0.365">86.2206</Lap>
+<Lap num="14" p="14" et="1185.0638" s1="21.4419" fuel="0.349">85.8163</Lap>
+<Lap num="15" p="12" et="1270.8801" s1="21.4858" s2="45.9291" s3="47.1189" fuel="0.337">114.5338</Lap>
+<Lap num="16" p="15" et="1385.4139" s1="25.9829" s2="45.2830" s3="17.8591" fuel="0.322">89.1250</Lap>
+<Lap num="17" p="11" et="1474.5389" fuel="0.310">--.----</Lap>
+<Lap num="18" p="11" et="1559.7389" s1="21.2069" s2="45.0181" s3="17.9282" fuel="0.294">84.1532</Lap>
+<Lap num="19" p="13" et="1643.8921" s1="21.9718" s2="48.1631" s3="18.0044" fuel="0.282">88.1393</Lap>
+<Lap num="20" p="14" et="1732.0314" fuel="0.267">158.5325</Lap>
+<BestLapTime>84.1532</BestLapTime>
+<Laps>20</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<PenaltyMass>50.0</PenaltyMass>
+<ControlAndAids startLap="1" endLap="20">PlayerControl,ABS=1,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Arthur Targa</Name>
+<SteamID>76561198250166134</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MJ_F1BC2_03_HON.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: F1BC Civic 2 Driver 3</VehName>
+<CarType>Carros Bases</CarType>
+<CarClass>Carros Bases</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>F1BC MJ Civic Equipe 2      </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>11</GridPos>
+<Position>9</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="69.4586" s1="31.4053" s2="46.4917" s3="18.0250" fuel="0.525">95.9219</Lap>
+<Lap num="2" p="13" et="165.3806" s1="21.5677" s2="45.7323" s3="17.8805" fuel="0.514">85.1805</Lap>
+<Lap num="3" p="13" et="250.5611" s1="21.2776" s2="45.1735" s3="17.9184" fuel="0.502">84.3694</Lap>
+<Lap num="4" p="13" et="334.9305" s1="21.3750" s2="45.2128" s3="17.9749" fuel="0.486">84.5627</Lap>
+<Lap num="5" p="13" et="419.4933" s1="21.3634" s2="45.2604" s3="17.9503" fuel="0.475">84.5741</Lap>
+<Lap num="6" p="13" et="504.0674" s1="21.2794" s2="45.3611" s3="18.0126" fuel="0.463">84.6532</Lap>
+<Lap num="7" p="13" et="588.7205" s1="21.2658" s2="45.4514" s3="17.9678" fuel="0.451">84.6851</Lap>
+<Lap num="8" p="13" et="673.4056" s1="21.3850" s2="45.4282" s3="18.0732" fuel="0.435">84.8865</Lap>
+<Lap num="9" p="13" et="758.2921" s1="21.3729" s2="45.7656" fuel="0.424">--.----</Lap>
+<Lap num="10" p="13" et="843.4305" s1="21.5250" s2="45.7377" s3="18.1263" fuel="0.412">85.3890</Lap>
+<Lap num="11" p="13" et="928.8196" s1="21.5631" s2="45.7355" s3="18.1436" fuel="0.400">85.4423</Lap>
+<Lap num="12" p="13" et="1014.2618" s1="21.5215" s2="45.9014" s3="18.2018" fuel="0.384">85.6246</Lap>
+<Lap num="13" p="12" et="1099.8865" s1="21.5863" s2="45.7964" s3="18.2433" fuel="0.373">85.6260</Lap>
+<Lap num="14" p="10" et="1185.5125" s1="21.6265" s2="45.8167" s3="18.2852" fuel="0.361">85.7283</Lap>
+<Lap num="15" p="7" et="1271.2407" s1="21.4237" s2="45.9911" s3="18.4135" fuel="0.349">85.8282</Lap>
+<Lap num="16" p="12" et="1357.0690" s1="21.5135" s2="45.7897" s3="47.0338" fuel="0.337" pit="1">114.3370</Lap>
+<Lap num="17" p="13" et="1471.4060" s1="26.3035" s2="45.4961" s3="17.9250" fuel="0.322">89.7246</Lap>
+<Lap num="18" p="13" et="1561.1306" s1="21.3912" s2="45.1251" s3="17.8635" fuel="0.310">84.3799</Lap>
+<Lap num="19" p="12" et="1645.5105" s1="21.2739" s2="45.5581" s3="17.8481" fuel="0.298">84.6802</Lap>
+<Lap num="20" p="11" et="1730.1907" s1="21.2186" fuel="0.282">--.----</Lap>
+<Lap num="21" p="11" et="1819.5056" s1="21.2932" s2="45.0742" s3="18.0134" fuel="0.271">84.3809</Lap>
+<Lap num="22" p="11" et="1903.8865" s1="21.2805" s2="45.4399" s3="18.0774" fuel="0.259">84.7979</Lap>
+<Lap num="23" p="11" et="1988.6843" s1="21.3647" s2="45.7566" s3="18.1250" fuel="0.247">85.2463</Lap>
+<Lap num="24" p="11" et="2073.9307" s1="21.3176" s2="45.3977" fuel="0.231">--.----</Lap>
+<Lap num="25" p="11" et="2158.6807" s1="21.3889" s2="45.4961" s3="18.1165" fuel="0.220">85.0015</Lap>
+<Lap num="26" p="11" et="2243.6821" s1="21.4792" s2="45.4705" s3="18.3262" fuel="0.208">85.2759</Lap>
+<Lap num="27" p="11" et="2328.9580" s1="21.8879" s2="45.7673" s3="18.3923" fuel="0.196">86.0476</Lap>
+<Lap num="28" p="11" et="2415.0056" s1="21.5872" s2="45.8479" s3="18.2649" fuel="0.184">85.7000</Lap>
+<Lap num="29" p="11" et="2500.7056" s1="21.5315" s2="45.8967" s3="18.3313" fuel="0.169">85.7595</Lap>
+<Lap num="30" p="11" et="2586.4651" s1="21.7307" s2="45.8008" s3="18.3464" fuel="0.157">85.8779</Lap>
+<Lap num="31" p="10" et="2672.3430" s1="21.5200" s2="45.9175" s3="18.2817" fuel="0.145">85.7192</Lap>
+<Lap num="32" p="10" et="2758.0623" s1="21.5291" s2="45.8479" s3="18.5037" fuel="0.133">85.8806</Lap>
+<Lap num="33" p="10" et="2843.9429" s1="21.5056" s2="45.9731" s3="18.4089" fuel="0.122">85.8877</Lap>
+<Lap num="34" p="10" et="2929.8306" s1="21.7251" s2="46.0605" s3="18.5645" fuel="0.106">86.3501</Lap>
+<Lap num="35" p="10" et="3016.1807" s1="21.7847" s2="46.0173" s3="18.6758" fuel="0.094">86.4778</Lap>
+<Lap num="36" p="10" et="3102.6584" s1="21.6062" s2="46.4036" s3="18.4395" fuel="0.082">86.4492</Lap>
+<Lap num="37" p="9" et="3189.1077" s1="22.4658" s2="46.2231" s3="18.7590" fuel="0.071">87.4480</Lap>
+<BestLapTime>84.3694</BestLapTime>
+<FinishTime>3207.0972</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<PenaltyMass>50.0</PenaltyMass>
+<ControlAndAids startLap="1" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Eduardo Pehls</Name>
+<SteamID>76561198022965521</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_ASR2_03_CRUZE.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: ASR 2 Driver 3</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>Alliance SimRacing 2    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>13</GridPos>
+<Position>11</Position>
+<ClassGridPos>10</ClassGridPos>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="69.4586" s1="38.5545" s2="47.5389" s3="18.2591" fuel="0.486">104.3525</Lap>
+<Lap num="2" p="15" et="173.8111" s1="21.8000" s2="45.3297" s3="18.0309" fuel="0.471">85.1605</Lap>
+<Lap num="3" p="15" et="258.9716" s1="21.3753" s2="45.2723" s3="17.9522" fuel="0.459">84.5999</Lap>
+<Lap num="4" p="15" et="343.5715" s1="21.4396" s2="45.4073" s3="18.2742" fuel="0.447">85.1211</Lap>
+<Lap num="5" p="15" et="428.6926" s1="21.5206" s2="45.5898" s3="17.9971" fuel="0.435">85.1076</Lap>
+<Lap num="6" p="15" et="513.8002" s1="21.3882" s2="45.8977" s3="18.0750" fuel="0.420">85.3610</Lap>
+<Lap num="7" p="15" et="599.1611" s1="21.3604" s2="45.5037" s3="18.1486" fuel="0.408">85.0126</Lap>
+<Lap num="8" p="15" et="684.1737" s1="21.6171" s2="45.7121" s3="18.2835" fuel="0.396">85.6127</Lap>
+<Lap num="9" p="15" et="769.7864" s1="21.5911" s2="45.3134" s3="18.3583" fuel="0.380">85.2628</Lap>
+<Lap num="10" p="15" et="855.0491" s1="21.7120" s2="45.7000" s3="18.3361" fuel="0.369">85.7480</Lap>
+<Lap num="11" p="15" et="940.7972" s1="21.5820" s2="45.6372" s3="18.2076" fuel="0.357">85.4268</Lap>
+<Lap num="12" p="15" et="1026.2240" s1="21.5780" s2="46.3912" s3="18.2113" fuel="0.345">86.1805</Lap>
+<Lap num="13" p="14" et="1112.4045" s1="21.5415" s2="45.7939" s3="18.4333" fuel="0.329">85.7688</Lap>
+<Lap num="14" p="12" et="1198.1733" s1="21.6558" s2="45.9193" s3="18.3260" fuel="0.318">85.9011</Lap>
+<Lap num="15" p="9" et="1284.0745" s1="21.7789" s2="46.3827" s3="18.3750" fuel="0.306">86.5366</Lap>
+<Lap num="16" p="4" et="1370.6111" s1="21.6339" s2="45.9319" s3="18.3871" fuel="0.294">85.9529</Lap>
+<Lap num="17" p="14" et="1456.5640" s1="21.7222" s2="46.5276" s3="46.9474" fuel="0.278" pit="1">115.1971</Lap>
+<Lap num="18" p="14" et="1571.7611" s1="26.0596" s2="45.2971" s3="18.0558" fuel="0.267">89.4125</Lap>
+<Lap num="19" p="14" et="1661.1736" s1="21.3970" s2="47.5452" s3="18.3087" fuel="0.255">87.2509</Lap>
+<Lap num="20" p="13" et="1748.4244" s1="21.6239" s2="45.4377" s3="18.1183" fuel="0.239">85.1799</Lap>
+<Lap num="21" p="13" et="1833.6044" s1="21.5737" s2="45.4617" s3="18.2786" fuel="0.227">85.3140</Lap>
+<Lap num="22" p="12" et="1918.9183" s1="21.2844" s2="46.1111" s3="17.9784" fuel="0.216">85.3739</Lap>
+<Lap num="23" p="12" et="2004.2922" s1="21.4526" s2="45.5464" s3="18.0769" fuel="0.204">85.0759</Lap>
+<Lap num="24" p="12" et="2089.3682" s1="21.6602" s2="45.3579" s3="18.0000" fuel="0.188">85.0181</Lap>
+<Lap num="25" p="12" et="2174.3862" s1="21.3271" s2="45.4119" s3="18.0483" fuel="0.176">84.7874</Lap>
+<Lap num="26" p="12" et="2259.1736" s1="21.4951" s2="46.6084" s3="18.1377" fuel="0.165">86.2412</Lap>
+<Lap num="27" p="12" et="2345.4148" s1="21.2542" s2="45.7422" s3="18.1653" fuel="0.153">85.1616</Lap>
+<Lap num="28" p="12" et="2430.5764" s1="21.7007" s2="45.7510" s3="18.2087" fuel="0.141">85.6604</Lap>
+<Lap num="29" p="12" et="2516.2368" s1="21.5825" s2="45.6919" s3="18.1589" fuel="0.125">85.4333</Lap>
+<Lap num="30" p="12" et="2601.6702" s1="21.4246" s2="46.0469" s3="18.0247" fuel="0.114">85.4961</Lap>
+<Lap num="31" p="11" et="2687.1663" s1="21.6077" s2="46.2761" s3="18.2991" fuel="0.102">86.1829</Lap>
+<Lap num="32" p="11" et="2773.3491" s1="21.6907" s2="46.3022" s3="18.2192" fuel="0.090">86.2122</Lap>
+<Lap num="33" p="11" et="2859.5613" s1="21.6770" s2="46.1479" s3="18.3594" fuel="0.078">86.1843</Lap>
+<Lap num="34" p="11" et="2945.7456" s1="21.9155" s2="45.9751" s3="18.1748" fuel="0.067">86.0654</Lap>
+<Lap num="35" p="11" et="3031.8110" s1="21.9138" s2="46.1733" s3="18.3042" fuel="0.051">86.3914</Lap>
+<Lap num="36" p="11" et="3118.2024" s1="21.7112" s2="46.2227" s3="18.4771" fuel="0.039">86.4109</Lap>
+<Lap num="37" p="11" et="3204.6133" s1="21.6399" s2="46.1462" s3="18.5710" fuel="0.027">86.3572</Lap>
+<BestLapTime>84.5999</BestLapTime>
+<FinishTime>3221.5120</FinishTime>
+<Laps>37</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="4" endLap="16">PlayerControl,ABS=1</ControlAndAids>
+<ControlAndAids startLap="17" endLap="17">PlayerControl,ABS=1,Clutch</ControlAndAids>
+<ControlAndAids startLap="18" endLap="37">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Guilherme Secchi</Name>
+<SteamID>76561198109315869</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MP_FSS_03.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Fitness Driver 3</VehName>
+<CarType>Equipes</CarType>
+<CarClass>Equipes</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Fitness RSS    </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>14</GridPos>
+<Position>15</Position>
+<ClassGridPos>11</ClassGridPos>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="69.4586" s1="32.6445" s2="47.1691" s3="18.0932" fuel="0.529">97.9068</Lap>
+<Lap num="2" p="14" et="167.3654" s1="21.6940" s2="45.6903" s3="17.9825" fuel="0.518">85.3668</Lap>
+<Lap num="3" p="14" et="252.7321" s1="21.6271" s2="45.6660" s3="18.0650" fuel="0.506">85.3581</Lap>
+<Lap num="4" p="14" et="338.0902" s1="21.5570" s2="46.0395" s3="18.0498" fuel="0.494">85.6463</Lap>
+<Lap num="5" p="14" et="423.7365" s1="21.9371" s2="45.5986" s3="17.9750" fuel="0.478">85.5107</Lap>
+<Lap num="6" p="14" et="509.2472" s1="21.4834" s2="46.0586" s3="17.9452" fuel="0.467">85.4872</Lap>
+<Lap num="7" p="14" et="594.7344" s1="21.3129" s2="45.9500" s3="18.1503" fuel="0.455">85.4131</Lap>
+<Lap num="8" p="14" et="680.1475" s1="21.4409" s2="45.8637" s3="18.0630" fuel="0.443">85.3677</Lap>
+<Lap num="9" p="14" et="765.5152" s1="21.4587" s2="46.1788" s3="18.3196" fuel="0.431">85.9570</Lap>
+<Lap num="10" p="14" et="851.4722" s1="21.7100" s2="45.9055" s3="18.2679" fuel="0.420">85.8834</Lap>
+<Lap num="11" p="14" et="937.3556" s1="21.9286" s2="46.2631" s3="18.2749" fuel="0.408">86.4666</Lap>
+<Lap num="12" p="14" et="1023.8222" s1="21.7564" s2="46.2297" s3="18.4138" fuel="0.396">86.4000</Lap>
+<Lap num="13" p="13" et="1110.2222" s1="21.7527" s2="46.3065" s3="18.4513" fuel="0.384">86.5105</Lap>
+<Lap num="14" p="11" et="1196.7327" s1="21.6313" s2="46.5994" s3="18.3918" fuel="0.369">86.6226</Lap>
+<Lap num="15" p="8" et="1283.3552" s1="22.1295" s2="46.3436" s3="18.5122" fuel="0.357">86.9854</Lap>
+<Lap num="16" p="5" et="1370.3406" fuel="0.345">--.----</Lap>
+<Lap num="17" p="15" et="1457.4626" s1="21.5636" s2="46.7809" s3="47.2401" fuel="0.333" pit="1">115.5846</Lap>
+<Lap num="18" p="15" et="1573.0472" s1="26.0000" s2="45.7999" s3="18.3251" fuel="0.322">90.1250</Lap>
+<BestLapTime>85.3581</BestLapTime>
+<Laps>18</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Accident</DNFReason>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,ABS=1,Clutch,AutoLift,AutoBlip,DrivingLine</ControlAndAids>
+<ControlAndAids startLap="2" endLap="16">PlayerControl,ABS=1</ControlAndAids>
+<ControlAndAids startLap="17" endLap="17">PlayerControl,ABS=1,Clutch,AutoLift,AutoBlip,DrivingLine</ControlAndAids>
+<ControlAndAids startLap="18" endLap="18">PlayerControl,ABS=1</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Diretor Principal</Name>
+<SteamID>76561198012881717</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>CRUZE_1.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Gabriel Conte #1</VehName>
+<CarType>Chevrolet</CarType>
+<CarClass>Chevrolet</CarClass>
+<CarNumber>1</CarNumber>
+<TeamName>Chevrolet Cruze #1</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>15</GridPos>
+<Position>16</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+</Driver>
+<Driver>
+<Name>Diretor</Name>
+<SteamID>76561198127686396</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>CRUZE_1.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: Gabriel Conte #1</VehName>
+<CarType>Chevrolet</CarType>
+<CarClass>Chevrolet</CarClass>
+<CarNumber>1</CarNumber>
+<TeamName>Chevrolet Cruze #1</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>16</GridPos>
+<Position>17</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Comentarista</Name>
+<SteamID>76561198248311234</SteamID>
+<RaceRank>0.00</RaceRank>
+<Connected>1</Connected>
+<VehFile>MJ_F1BC2_01_FOC.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Marcas: F1BC 2 Driver 1</VehName>
+<CarType>Carros Bases</CarType>
+<CarClass>Carros Bases</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>F1BC MJ Focus Equipe 2      </TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>17</GridPos>
+<Position>18</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<LapsLed>0</LapsLed>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>
